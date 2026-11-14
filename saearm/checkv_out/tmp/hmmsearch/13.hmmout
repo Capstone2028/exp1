@@ -1,0 +1,25 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+MT135277.1__NATIVE_11 -          THUMP                PF02926.17    0.0063   12.4   0.0    0.0084   12.0   0.0   1.2   1   0   0   1   1   1   1 # 4863 # 5297 # 1 # partial=00
+OM869701.1__natural_7 -          TSP_NTD              PF17804.1    5.7e-05   19.3   0.1   0.00015   17.9   0.0   1.8   2   0   0   2   2   2   1 # 3908 # 5086 # 1 # partial=00
+PQ007287.1__natural_7 -          TSP_NTD              PF17804.1    0.00012   18.2   0.1   0.00027   17.1   0.0   1.6   2   0   0   2   2   2   1 # 4017 # 5120 # 1 # partial=00
+PQ006516.1__natural_7 -          TSP_NTD              PF17804.1    0.00014   18.0   0.1   0.00041   16.5   0.0   1.9   2   0   0   2   2   2   1 # 3905 # 5065 # 1 # partial=00
+PQ007416.1__natural_7 -          TSP_NTD              PF17804.1    0.00051   16.2   0.1    0.0013   14.9   0.0   1.7   2   0   0   2   2   2   1 # 3886 # 5037 # 1 # partial=00
+KT264759.1__NATIVE_1  -          TSP_NTD              PF17804.1    0.00059   16.0   1.1   0.00092   15.3   1.1   1.2   1   0   0   1   1   1   1 # 1 # 969 # 1 # partial=10
+PQ007416.1__T07_1    -          Ubiq_cyt_C_chap      PF03981.12    0.0029   13.5   1.1    0.0058   12.6   1.1   1.5   1   0   0   1   1   1   1 # 1 # 1122 # 1 # partial=10
+MH616692.2__EXP1_6   -          XRN_N                PF03159.18      0.27    6.4   6.6      0.31    6.2   6.6   1.1   1   0   0   1   1   1   0 # 2100 # 2300 # 1 # partial=00
+MH617265.1__EXP1_1    -          Y2_Tnp               PF04986.13   0.00063   15.7   0.0      0.11    8.3   0.0   2.3   1   1   1   2   2   2   2 # 1 # 804 # 1 # partial=10
+MH617473.2__natural_1 -          Y2_Tnp               PF04986.13    0.0027   13.6   0.1     0.025   10.4   0.0   2.3   1   1   2   3   3   3   1 # 1 # 936 # 1 # partial=10
+MK496793.1__NATIVE_1 -          YARHG                PF13308.6     0.0081   11.9   2.1     0.012   11.4   0.3   2.2   2   0   0   2   2   2   1 # 1 # 909 # 1 # partial=10
+MH617473.2__NATIVE_3 -          YflT                 PF11181.8        0.4    7.1   8.0     0.037   10.4   0.5   2.5   2   1   0   3   3   3   0 # 1570 # 2967 # 1 # partial=00
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/c/Users/Meghna/Documents/College/capstone/exp1/db/checkv/checkv-db-v1.5/hmm_db/checkv_hmms/13.hmm
+# Target file:     checkv_out/tmp/proteins.faa
+# Option settings: hmmsearch -o /dev/null --tblout checkv_out/tmp/hmmsearch/13.hmmout --noali -E 10 --cpu 0 /mnt/c/Users/Meghna/Documents/College/capstone/exp1/db/checkv/checkv-db-v1.5/hmm_db/checkv_hmms/13.hmm checkv_out/tmp/proteins.faa 
+# Current dir:     /mnt/c/Users/Meghna/Documents/College/capstone/exp1/saearm
+# Date:            Sat Nov 14 05:05:43 2026
+# [ok]

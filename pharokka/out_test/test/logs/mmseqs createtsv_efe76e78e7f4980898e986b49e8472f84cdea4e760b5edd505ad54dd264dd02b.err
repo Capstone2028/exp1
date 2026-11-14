@@ -1,0 +1,1 @@
+Command line: mmseqs createtsv /vol/db/CARD /vol/out/test/CARD_target_dir/target_seqs /vol/out/test/CARD/results_mmseqs /vol/out/test/CARD_results.tsv --full-header --threads 16

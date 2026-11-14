@@ -1,0 +1,1 @@
+diamond blastp --outfmt 6 --evalue 1e-5 --query-cover 50 --subject-cover 50 -k 10000 --query bench/checkv_long/tmp/proteins.faa --db /mnt/c/Users/Meghna/Documents/College/capstone/exp1/db/checkv/checkv-db-v1.5/genome_db/checkv_reps.dmnd --threads 8 > bench/checkv_long/tmp/diamond.tsv 2> bench/checkv_long/tmp/diamond.tsv.log

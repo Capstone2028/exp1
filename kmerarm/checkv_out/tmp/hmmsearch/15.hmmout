@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+PQ007416.1__KMER_7    -          Pfam-B_1717          PB001717      0.0013   12.2   1.8    0.0015   12.0   1.8   1.0   1   0   0   1   1   1   1 # 4842 # 5147 # 1 # partial=01
+MK249149.1__natural_5 -          Pfam-B_1717          PB001717       0.047    7.1   8.6     0.055    6.8   8.6   1.0   1   0   0   1   1   1   0 # 2880 # 3644 # 1 # partial=00
+MK496799.1__natural_7 -          Pfam-B_1717          PB001717        0.47    3.8  15.9      0.56    3.5  15.9   1.1   1   0   0   1   1   1   0 # 3993 # 4910 # 1 # partial=00
+MK496799.1__natural_7 -          Pfam-B_1834          PB001834         2.5    1.2  16.4         3    0.9  16.4   1.0   1   0   0   1   1   1   0 # 3993 # 4910 # 1 # partial=00
+MH552523.2__KMER_8   -          Pfam-B_2016          PB002016     0.00018   13.9   1.1   0.00022   13.6   1.1   1.0   1   0   0   1   1   1   1 # 3868 # 4998 # 1 # partial=00
+MW697720.1__natural_7 -          Pfam-B_2073          PB002073        0.17    6.2   5.3      0.21    5.9   5.3   1.1   1   0   0   1   1   1   0 # 3763 # 4485 # 1 # partial=00
+MW202414.1__BASE_5   -          Pfam-B_2177          PB002177      0.0021   11.7   8.5    0.0024   11.5   8.5   1.1   1   0   0   1   1   1   1 # 3291 # 4256 # 1 # partial=00
+MT135277.1__KMER_1   -          Pfam-B_2996          PB002996         6.2    0.5  12.4       8.6    0.0  12.4   1.1   1   0   0   1   1   1   0 # 1 # 1146 # 1 # partial=10
+MT135264.1__natural_7 -          Pfam-B_3182          PB003182         1.2    3.4  11.9       2.9    2.1  11.9   1.5   1   1   0   1   1   1   0 # 3940 # 4908 # 1 # partial=00
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/c/Users/Meghna/Documents/College/capstone/exp1/db/checkv/checkv-db-v1.5/hmm_db/checkv_hmms/15.hmm
+# Target file:     kmerarm/checkv_out/tmp/proteins.faa
+# Option settings: hmmsearch -o /dev/null --tblout kmerarm/checkv_out/tmp/hmmsearch/15.hmmout --noali -E 10 --cpu 0 /mnt/c/Users/Meghna/Documents/College/capstone/exp1/db/checkv/checkv-db-v1.5/hmm_db/checkv_hmms/15.hmm kmerarm/checkv_out/tmp/proteins.faa 
+# Current dir:     /mnt/c/Users/Meghna/Documents/College/capstone/exp1
+# Date:            Fri Nov 13 18:23:40 2026
+# [ok]

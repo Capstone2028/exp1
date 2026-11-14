@@ -1,0 +1,1681 @@
+id	parent	damage	severity	length	note
+KC131023.1__natural	KC131023.1	natural	-	4334	
+KC131023.1__D1_10	KC131023.1	D1	10	4334	127 codons swapped of 1274 swappable
+KC131023.1__D1_30	KC131023.1	D1	30	4334	382 codons swapped of 1274 swappable
+KC131023.1__D2_0.5	KC131023.1	D2	0.5	4334	22 substitutions
+KC131023.1__D2_1	KC131023.1	D2	1	4334	43 substitutions
+KC131023.1__D2_2	KC131023.1	D2	2	4334	87 substitutions
+KC131023.1__D2_5	KC131023.1	D2	5	4334	217 substitutions
+KC131023.1__D2_10	KC131023.1	D2	10	4334	433 substitutions
+KC131023.1__D3_1	KC131023.1	D3	1	4333	del@3099
+KC131023.1__D3_3	KC131023.1	D3	3	4333	del@3759,ins@3015,del@1930
+KC131023.1__D3_6	KC131023.1	D3	6	4336	del@3470,ins@3440,ins@3336,ins@2352,ins@217,del@209
+KC131023.1__D3_12	KC131023.1	D3	12	4338	ins@3923,ins@3657,del@2811,ins@2499,del@2418,ins@2281,del@1261,ins@667,ins@619,ins@501,ins@182,del@107
+KC131023.1__D4_1	KC131023.1	D4	1	4334	k=1 of nominal; g3:start-removed
+KC131023.1__D4_3	KC131023.1	D4	3	4334	k=3 of nominal; g0:start-removed,g5:start-removed,g2:start-removed
+KC131023.1__D4_6	KC131023.1	D4	6	4334	k=5 of nominal; g1:start-removed,g6:stop@codon61,g0:start-removed,g5:start-removed,g3:start-removed
+KC131023.1__D5_1	KC131023.1	D5	1	3893	k=1; genes [5] removed (441 letters)
+KC131023.1__D5_3	KC131023.1	D5	3	2204	k=3; genes [1, 2, 5] removed (2130 letters)
+KC131023.1__D5_6	KC131023.1	D5	6	2011	k=5; genes [0, 3, 4, 5, 6] removed (2323 letters)
+KC131023.1__D6_2	KC131023.1	D6	2	4334	2 cuts at [3032, 3706], order [1, 0], flips [1, 0]
+KC131023.1__D6_4	KC131023.1	D6	4	4334	4 cuts at [621, 1668, 2535, 3688], order [0, 1, 2, 3], flips [1, 1, 1, 0]
+KC131023.1__D6_8	KC131023.1	D6	8	4334	8 cuts at [5, 177, 935, 1285, 1672, 2754, 4224, 4270], order [1, 7, 6, 3, 0, 2, 5, 4], flips [0, 1, 0, 0, 1, 1, 1, 1]
+KC131023.1__D7_25	KC131023.1	D7	25	4334	331 codons shuffled within genes (start and stop kept)
+KC131023.1__D7_50	KC131023.1	D7	50	4334	664 codons shuffled within genes (start and stop kept)
+KC131023.1__D7_100	KC131023.1	D7	100	4334	1328 codons shuffled within genes (start and stop kept)
+KC131023.1__D8_1	KC131023.1	D8	1	4334	order-5 chain from calibration genomes
+KC131023.1__D9_1	KC131023.1	D9	1	5066	window of NC_001604.1 at 23378
+KC131023.1__D10_revcomp	KC131023.1	D10	revcomp	4334	reverse complement
+KC131023.1__D10_rotation	KC131023.1	D10	rotation	4334	rotated by 1660
+KT264759.1__natural	KT264759.1	natural	-	5293	
+KT264759.1__D1_10	KT264759.1	D1	10	5293	147 codons swapped of 1472 swappable
+KT264759.1__D1_30	KT264759.1	D1	30	5293	442 codons swapped of 1472 swappable
+KT264759.1__D2_0.5	KT264759.1	D2	0.5	5293	26 substitutions
+KT264759.1__D2_1	KT264759.1	D2	1	5293	53 substitutions
+KT264759.1__D2_2	KT264759.1	D2	2	5293	106 substitutions
+KT264759.1__D2_5	KT264759.1	D2	5	5293	265 substitutions
+KT264759.1__D2_10	KT264759.1	D2	10	5293	529 substitutions
+KT264759.1__D3_1	KT264759.1	D3	1	5294	ins@672
+KT264759.1__D3_3	KT264759.1	D3	3	5292	del@3974,del@3311,ins@966
+KT264759.1__D3_6	KT264759.1	D3	6	5291	ins@3895,del@3812,del@3295,del@3117,ins@1334,del@930
+KT264759.1__D3_12	KT264759.1	D3	12	5297	ins@4469,ins@4013,ins@3574,ins@3439,del@3275,ins@2203,del@1978,del@1900,ins@1373,del@1129,ins@883,ins@612
+KT264759.1__D4_1	KT264759.1	D4	1	5293	k=1 of nominal; g4:stop@codon71
+KT264759.1__D4_3	KT264759.1	D4	3	5293	k=3 of nominal; g2:start-removed,g5:start-removed,g0:stop@codon117
+KT264759.1__D4_6	KT264759.1	D4	6	5293	k=4 of nominal; g3:start-removed,g2:stop@codon55,g5:stop@codon372,g6:stop@codon49
+KT264759.1__D5_1	KT264759.1	D5	1	5182	k=1; genes [1] removed (111 letters)
+KT264759.1__D5_3	KT264759.1	D5	3	3038	k=3; genes [1, 4, 5] removed (2255 letters)
+KT264759.1__D5_6	KT264759.1	D5	6	980	k=5; genes [0, 2, 4, 5, 6] removed (4313 letters)
+KT264759.1__D6_2	KT264759.1	D6	2	5293	2 cuts at [763, 913], order [0, 1], flips [1, 0]
+KT264759.1__D6_4	KT264759.1	D6	4	5293	4 cuts at [48, 977, 2721, 4633], order [1, 0, 2, 3], flips [1, 0, 1, 1]
+KT264759.1__D6_8	KT264759.1	D6	8	5293	8 cuts at [159, 747, 876, 1063, 2536, 2904, 4562, 4790], order [3, 2, 4, 5, 1, 7, 0, 6], flips [0, 1, 1, 1, 0, 1, 0, 1]
+KT264759.1__D7_25	KT264759.1	D7	25	5293	387 codons shuffled within genes (start and stop kept)
+KT264759.1__D7_50	KT264759.1	D7	50	5293	774 codons shuffled within genes (start and stop kept)
+KT264759.1__D7_100	KT264759.1	D7	100	5293	1546 codons shuffled within genes (start and stop kept)
+KT264759.1__D8_1	KT264759.1	D8	1	5293	order-5 chain from calibration genomes
+KT264759.1__D9_1	KT264759.1	D9	1	5655	window of GCF_000006765.1 at 5272799
+KT264759.1__D10_revcomp	KT264759.1	D10	revcomp	5293	reverse complement
+KT264759.1__D10_rotation	KT264759.1	D10	rotation	5293	rotated by 3176
+MG883717.1__natural	MG883717.1	natural	-	5022	
+MG883717.1__D1_10	MG883717.1	D1	10	5022	148 codons swapped of 1482 swappable
+MG883717.1__D1_30	MG883717.1	D1	30	5022	445 codons swapped of 1482 swappable
+MG883717.1__D2_0.5	MG883717.1	D2	0.5	5022	25 substitutions
+MG883717.1__D2_1	MG883717.1	D2	1	5022	50 substitutions
+MG883717.1__D2_2	MG883717.1	D2	2	5022	100 substitutions
+MG883717.1__D2_5	MG883717.1	D2	5	5022	251 substitutions
+MG883717.1__D2_10	MG883717.1	D2	10	5022	502 substitutions
+MG883717.1__D3_1	MG883717.1	D3	1	5021	del@3050
+MG883717.1__D3_3	MG883717.1	D3	3	5019	del@2187,del@667,del@324
+MG883717.1__D3_6	MG883717.1	D3	6	5018	del@4748,del@4643,del@4514,ins@3728,del@1865,del@1722
+MG883717.1__D3_12	MG883717.1	D3	12	5016	ins@4733,del@3150,del@3104,ins@2441,del@2341,del@2218,ins@1819,del@1538,del@1424,del@983,del@811,del@200
+MG883717.1__D4_1	MG883717.1	D4	1	5022	k=1 of nominal; g6:start-removed
+MG883717.1__D4_3	MG883717.1	D4	3	5022	k=3 of nominal; g3:start-removed,g4:stop@codon149,g0:stop@codon285
+MG883717.1__D4_6	MG883717.1	D4	6	5022	k=4 of nominal; g4:stop@codon151,g2:start-removed,g6:stop@codon266,g5:stop@codon160
+MG883717.1__D5_1	MG883717.1	D5	1	3351	k=1; genes [5] removed (1671 letters)
+MG883717.1__D5_3	MG883717.1	D5	3	3582	k=3; genes [0, 1, 3] removed (1440 letters)
+MG883717.1__D5_6	MG883717.1	D5	6	2546	k=5; genes [0, 1, 2, 3, 6] removed (2476 letters)
+MG883717.1__D6_2	MG883717.1	D6	2	5022	2 cuts at [418, 2993], order [0, 1], flips [1, 0]
+MG883717.1__D6_4	MG883717.1	D6	4	5022	4 cuts at [1447, 2328, 3942, 4933], order [1, 0, 2, 3], flips [0, 1, 0, 1]
+MG883717.1__D6_8	MG883717.1	D6	8	5022	8 cuts at [233, 2622, 3152, 3358, 3520, 3590, 4070, 4178], order [5, 3, 1, 2, 6, 0, 4, 7], flips [1, 1, 1, 0, 0, 1, 1, 0]
+MG883717.1__D7_25	MG883717.1	D7	25	5022	386 codons shuffled within genes (start and stop kept)
+MG883717.1__D7_50	MG883717.1	D7	50	5022	771 codons shuffled within genes (start and stop kept)
+MG883717.1__D7_100	MG883717.1	D7	100	5022	1539 codons shuffled within genes (start and stop kept)
+MG883717.1__D8_1	MG883717.1	D8	1	5022	order-5 chain from calibration genomes
+MG883717.1__D9_1	MG883717.1	D9	1	5130	window of NC_001416.1 at 38821
+MG883717.1__D10_revcomp	MG883717.1	D10	revcomp	5022	reverse complement
+MG883717.1__D10_rotation	MG883717.1	D10	rotation	5022	rotated by 4227
+MG945467.1__natural	MG945467.1	natural	-	5083	
+MG945467.1__D1_10	MG945467.1	D1	10	5083	151 codons swapped of 1513 swappable
+MG945467.1__D1_30	MG945467.1	D1	30	5083	454 codons swapped of 1513 swappable
+MG945467.1__D2_0.5	MG945467.1	D2	0.5	5083	25 substitutions
+MG945467.1__D2_1	MG945467.1	D2	1	5083	51 substitutions
+MG945467.1__D2_2	MG945467.1	D2	2	5083	102 substitutions
+MG945467.1__D2_5	MG945467.1	D2	5	5083	254 substitutions
+MG945467.1__D2_10	MG945467.1	D2	10	5083	508 substitutions
+MG945467.1__D3_1	MG945467.1	D3	1	5084	ins@460
+MG945467.1__D3_3	MG945467.1	D3	3	5086	ins@4624,ins@4348,ins@1586
+MG945467.1__D3_6	MG945467.1	D3	6	5085	del@4883,ins@4465,ins@3592,ins@3486,ins@3173,del@1006
+MG945467.1__D3_12	MG945467.1	D3	12	5081	del@4415,del@4281,del@3535,ins@3192,ins@2493,ins@2391,del@1725,del@1661,del@1605,ins@933,del@834,ins@377
+MG945467.1__D4_1	MG945467.1	D4	1	5083	k=1 of nominal; g5:start-removed
+MG945467.1__D4_3	MG945467.1	D4	3	5083	k=3 of nominal; g6:start-removed,g0:start-removed,g2:start-removed
+MG945467.1__D4_6	MG945467.1	D4	6	5083	k=4 of nominal; g5:start-removed,g0:stop@codon346,g3:stop@codon69,g4:stop@codon65
+MG945467.1__D5_1	MG945467.1	D5	1	4003	k=1; genes [0] removed (1080 letters)
+MG945467.1__D5_3	MG945467.1	D5	3	2146	k=3; genes [0, 2, 5] removed (2937 letters)
+MG945467.1__D5_6	MG945467.1	D5	6	1533	k=5; genes [1, 3, 4, 5, 6] removed (3550 letters)
+MG945467.1__D6_2	MG945467.1	D6	2	5083	2 cuts at [2383, 4080], order [1, 0], flips [1, 0]
+MG945467.1__D6_4	MG945467.1	D6	4	5083	4 cuts at [2307, 3906, 4494, 4634], order [0, 1, 3, 2], flips [1, 0, 1, 1]
+MG945467.1__D6_8	MG945467.1	D6	8	5083	8 cuts at [154, 179, 990, 1021, 1023, 2315, 3709, 3968], order [5, 4, 2, 7, 3, 1, 6, 0], flips [0, 1, 1, 0, 0, 1, 1, 0]
+MG945467.1__D7_25	MG945467.1	D7	25	5083	399 codons shuffled within genes (start and stop kept)
+MG945467.1__D7_50	MG945467.1	D7	50	5083	797 codons shuffled within genes (start and stop kept)
+MG945467.1__D7_100	MG945467.1	D7	100	5083	1594 codons shuffled within genes (start and stop kept)
+MG945467.1__D8_1	MG945467.1	D8	1	5083	order-5 chain from calibration genomes
+MG945467.1__D9_1	MG945467.1	D9	1	5210	window of GCF_000006945.2 at 3820963
+MG945467.1__D10_revcomp	MG945467.1	D10	revcomp	5083	reverse complement
+MG945467.1__D10_rotation	MG945467.1	D10	rotation	5083	rotated by 1107
+MG945474.1__natural	MG945474.1	natural	-	4529	
+MG945474.1__D1_10	MG945474.1	D1	10	4529	137 codons swapped of 1367 swappable
+MG945474.1__D1_30	MG945474.1	D1	30	4529	410 codons swapped of 1367 swappable
+MG945474.1__D2_0.5	MG945474.1	D2	0.5	4529	23 substitutions
+MG945474.1__D2_1	MG945474.1	D2	1	4529	45 substitutions
+MG945474.1__D2_2	MG945474.1	D2	2	4529	91 substitutions
+MG945474.1__D2_5	MG945474.1	D2	5	4529	226 substitutions
+MG945474.1__D2_10	MG945474.1	D2	10	4529	453 substitutions
+MG945474.1__D3_1	MG945474.1	D3	1	4528	del@2911
+MG945474.1__D3_3	MG945474.1	D3	3	4528	ins@2726,del@360,del@227
+MG945474.1__D3_6	MG945474.1	D3	6	4533	ins@4025,ins@3888,ins@3841,ins@2851,del@2835,ins@2717
+MG945474.1__D3_12	MG945474.1	D3	12	4529	ins@4383,ins@4035,del@4022,del@2729,ins@2309,del@1307,del@862,del@532,del@394,ins@330,ins@203,ins@132
+MG945474.1__D4_1	MG945474.1	D4	1	4529	k=1 of nominal; g2:stop@codon456
+MG945474.1__D4_3	MG945474.1	D4	3	4529	k=3 of nominal; g2:start-removed,g1:start-removed,g0:start-removed
+MG945474.1__D4_6	MG945474.1	D4	6	4529	k=4 of nominal; g3:start-removed,g2:start-removed,g0:start-removed,g5:stop@codon60
+MG945474.1__D5_1	MG945474.1	D5	1	2909	k=1; genes [2] removed (1620 letters)
+MG945474.1__D5_3	MG945474.1	D5	3	2114	k=3; genes [1, 2, 4] removed (2415 letters)
+MG945474.1__D5_6	MG945474.1	D5	6	2540	k=4; genes [0, 1, 4, 5] removed (1989 letters)
+MG945474.1__D6_2	MG945474.1	D6	2	4529	2 cuts at [2975, 3941], order [1, 0], flips [1, 0]
+MG945474.1__D6_4	MG945474.1	D6	4	4529	4 cuts at [1322, 1986, 2387, 4092], order [0, 3, 1, 2], flips [0, 1, 1, 1]
+MG945474.1__D6_8	MG945474.1	D6	8	4529	8 cuts at [706, 1140, 1376, 1526, 1954, 2705, 2936, 3911], order [0, 5, 7, 6, 4, 2, 1, 3], flips [1, 1, 1, 1, 0, 0, 1, 0]
+MG945474.1__D7_25	MG945474.1	D7	25	4529	354 codons shuffled within genes (start and stop kept)
+MG945474.1__D7_50	MG945474.1	D7	50	4529	710 codons shuffled within genes (start and stop kept)
+MG945474.1__D7_100	MG945474.1	D7	100	4529	1422 codons shuffled within genes (start and stop kept)
+MG945474.1__D8_1	MG945474.1	D8	1	4529	order-5 chain from calibration genomes
+MG945474.1__D9_1	MG945474.1	D9	1	5513	window of NC_002371.2 at 17880
+MG945474.1__D10_revcomp	MG945474.1	D10	revcomp	4529	reverse complement
+MG945474.1__D10_rotation	MG945474.1	D10	rotation	4529	rotated by 2721
+MG945589.1__natural	MG945589.1	natural	-	4960	
+MG945589.1__D1_10	MG945589.1	D1	10	4960	151 codons swapped of 1514 swappable
+MG945589.1__D1_30	MG945589.1	D1	30	4960	454 codons swapped of 1514 swappable
+MG945589.1__D2_0.5	MG945589.1	D2	0.5	4960	25 substitutions
+MG945589.1__D2_1	MG945589.1	D2	1	4960	50 substitutions
+MG945589.1__D2_2	MG945589.1	D2	2	4960	99 substitutions
+MG945589.1__D2_5	MG945589.1	D2	5	4960	248 substitutions
+MG945589.1__D2_10	MG945589.1	D2	10	4960	496 substitutions
+MG945589.1__D3_1	MG945589.1	D3	1	4961	ins@2243
+MG945589.1__D3_3	MG945589.1	D3	3	4961	ins@4820,del@3353,ins@630
+MG945589.1__D3_6	MG945589.1	D3	6	4954	del@3178,del@2514,del@2192,del@997,del@845,del@678
+MG945589.1__D3_12	MG945589.1	D3	12	4962	del@4738,del@4633,ins@3421,del@3182,ins@2519,del@1653,ins@1272,ins@608,ins@364,del@285,ins@260,ins@202
+MG945589.1__D4_1	MG945589.1	D4	1	4960	k=1 of nominal; g4:start-removed
+MG945589.1__D4_3	MG945589.1	D4	3	4960	k=3 of nominal; g3:stop@codon78,g5:start-removed,g2:start-removed
+MG945589.1__D4_6	MG945589.1	D4	6	4960	k=4 of nominal; g3:start-removed,g0:stop@codon172,g5:stop@codon485,g6:stop@codon31
+MG945589.1__D5_1	MG945589.1	D5	1	4714	k=1; genes [3] removed (246 letters)
+MG945589.1__D5_3	MG945589.1	D5	3	3274	k=3; genes [2, 4, 6] removed (1686 letters)
+MG945589.1__D5_6	MG945589.1	D5	6	2063	k=5; genes [0, 1, 3, 4, 6] removed (2897 letters)
+MG945589.1__D6_2	MG945589.1	D6	2	4960	2 cuts at [1065, 2660], order [1, 0], flips [0, 1]
+MG945589.1__D6_4	MG945589.1	D6	4	4960	4 cuts at [1096, 2856, 3997, 4281], order [1, 3, 2, 0], flips [1, 0, 0, 1]
+MG945589.1__D6_8	MG945589.1	D6	8	4960	8 cuts at [284, 861, 1406, 1479, 3659, 3897, 4096, 4664], order [3, 4, 0, 2, 7, 1, 5, 6], flips [0, 0, 1, 1, 1, 1, 1, 1]
+MG945589.1__D7_25	MG945589.1	D7	25	4960	389 codons shuffled within genes (start and stop kept)
+MG945589.1__D7_50	MG945589.1	D7	50	4960	779 codons shuffled within genes (start and stop kept)
+MG945589.1__D7_100	MG945589.1	D7	100	4960	1561 codons shuffled within genes (start and stop kept)
+MG945589.1__D8_1	MG945589.1	D8	1	4960	order-5 chain from calibration genomes
+MG945589.1__D9_1	MG945589.1	D9	1	5563	window of GCF_000006765.1 at 6101914
+MG945589.1__D10_revcomp	MG945589.1	D10	revcomp	4960	reverse complement
+MG945589.1__D10_rotation	MG945589.1	D10	rotation	4960	rotated by 4160
+MG945594.1__natural	MG945594.1	natural	-	4916	
+MG945594.1__D1_10	MG945594.1	D1	10	4916	139 codons swapped of 1386 swappable
+MG945594.1__D1_30	MG945594.1	D1	30	4916	416 codons swapped of 1386 swappable
+MG945594.1__D2_0.5	MG945594.1	D2	0.5	4916	25 substitutions
+MG945594.1__D2_1	MG945594.1	D2	1	4916	49 substitutions
+MG945594.1__D2_2	MG945594.1	D2	2	4916	98 substitutions
+MG945594.1__D2_5	MG945594.1	D2	5	4916	246 substitutions
+MG945594.1__D2_10	MG945594.1	D2	10	4916	492 substitutions
+MG945594.1__D3_1	MG945594.1	D3	1	4917	ins@3061
+MG945594.1__D3_3	MG945594.1	D3	3	4919	ins@3747,ins@2248,ins@447
+MG945594.1__D3_6	MG945594.1	D3	6	4916	ins@4557,del@3365,ins@3346,ins@2118,del@320,del@284
+MG945594.1__D3_12	MG945594.1	D3	12	4920	ins@4758,ins@4105,ins@3949,ins@3704,del@3700,del@3301,del@2972,del@2250,ins@2149,ins@1067,ins@597,ins@456
+MG945594.1__D4_1	MG945594.1	D4	1	4916	k=1 of nominal; g3:stop@codon404
+MG945594.1__D4_3	MG945594.1	D4	3	4916	k=3 of nominal; g5:stop@codon147,g0:stop@codon166,g3:start-removed
+MG945594.1__D4_6	MG945594.1	D4	6	4916	k=4 of nominal; g3:start-removed,g0:stop@codon228,g1:start-removed,g5:stop@codon261
+MG945594.1__D5_1	MG945594.1	D5	1	4517	k=1; genes [2] removed (399 letters)
+MG945594.1__D5_3	MG945594.1	D5	3	2922	k=3; genes [0, 1, 5] removed (1994 letters)
+MG945594.1__D5_6	MG945594.1	D5	6	3162	k=4; genes [1, 2, 4, 5] removed (1754 letters)
+MG945594.1__D6_2	MG945594.1	D6	2	4916	2 cuts at [2168, 2832], order [0, 1], flips [1, 0]
+MG945594.1__D6_4	MG945594.1	D6	4	4916	4 cuts at [3201, 4001, 4294, 4616], order [2, 3, 0, 1], flips [0, 0, 1, 0]
+MG945594.1__D6_8	MG945594.1	D6	8	4916	8 cuts at [162, 1231, 1310, 1903, 2684, 2928, 3632, 4334], order [1, 2, 7, 4, 5, 6, 3, 0], flips [1, 1, 1, 0, 0, 0, 0, 0]
+MG945594.1__D7_25	MG945594.1	D7	25	4916	358 codons shuffled within genes (start and stop kept)
+MG945594.1__D7_50	MG945594.1	D7	50	4916	717 codons shuffled within genes (start and stop kept)
+MG945594.1__D7_100	MG945594.1	D7	100	4916	1433 codons shuffled within genes (start and stop kept)
+MG945594.1__D8_1	MG945594.1	D8	1	4916	order-5 chain from calibration genomes
+MG945594.1__D9_1	MG945594.1	D9	1	5263	window of NC_000866.4 at 17006
+MG945594.1__D10_revcomp	MG945594.1	D10	revcomp	4916	reverse complement
+MG945594.1__D10_rotation	MG945594.1	D10	rotation	4916	rotated by 1591
+MG945700.1__natural	MG945700.1	natural	-	5006	
+MG945700.1__D1_10	MG945700.1	D1	10	5006	130 codons swapped of 1302 swappable
+MG945700.1__D1_30	MG945700.1	D1	30	5006	391 codons swapped of 1302 swappable
+MG945700.1__D2_0.5	MG945700.1	D2	0.5	5006	25 substitutions
+MG945700.1__D2_1	MG945700.1	D2	1	5006	50 substitutions
+MG945700.1__D2_2	MG945700.1	D2	2	5006	100 substitutions
+MG945700.1__D2_5	MG945700.1	D2	5	5006	250 substitutions
+MG945700.1__D2_10	MG945700.1	D2	10	5006	501 substitutions
+MG945700.1__D3_1	MG945700.1	D3	1	5005	del@506
+MG945700.1__D3_3	MG945700.1	D3	3	5005	del@3906,ins@3126,del@2382
+MG945700.1__D3_6	MG945700.1	D3	6	5008	ins@4360,ins@3077,del@1915,ins@1186,ins@402,del@87
+MG945700.1__D3_12	MG945700.1	D3	12	5000	del@4212,del@3144,del@2982,del@2536,ins@2470,del@2427,ins@2205,del@1731,del@1501,del@1307,del@1159,ins@353
+MG945700.1__D4_1	MG945700.1	D4	1	5006	k=1 of nominal; g3:stop@codon148
+MG945700.1__D4_3	MG945700.1	D4	3	5006	k=3 of nominal; g4:start-removed,g0:start-removed,g1:start-removed
+MG945700.1__D4_6	MG945700.1	D4	6	5006	k=5 of nominal; g6:start-removed,g3:stop@codon19,g5:start-removed,g1:start-removed,g2:stop@codon40
+MG945700.1__D5_1	MG945700.1	D5	1	4541	k=1; genes [3] removed (465 letters)
+MG945700.1__D5_3	MG945700.1	D5	3	2900	k=3; genes [1, 2, 4] removed (2106 letters)
+MG945700.1__D5_6	MG945700.1	D5	6	2237	k=5; genes [0, 1, 2, 4, 6] removed (2769 letters)
+MG945700.1__D6_2	MG945700.1	D6	2	5006	2 cuts at [2565, 4356], order [1, 0], flips [1, 0]
+MG945700.1__D6_4	MG945700.1	D6	4	5006	4 cuts at [1488, 3729, 4918, 4929], order [2, 1, 3, 0], flips [0, 0, 1, 0]
+MG945700.1__D6_8	MG945700.1	D6	8	5006	8 cuts at [94, 790, 814, 1780, 1802, 2641, 2937, 4635], order [5, 6, 3, 4, 2, 7, 0, 1], flips [1, 1, 0, 0, 1, 1, 1, 1]
+MG945700.1__D7_25	MG945700.1	D7	25	5006	339 codons shuffled within genes (start and stop kept)
+MG945700.1__D7_50	MG945700.1	D7	50	5006	679 codons shuffled within genes (start and stop kept)
+MG945700.1__D7_100	MG945700.1	D7	100	5006	1358 codons shuffled within genes (start and stop kept)
+MG945700.1__D8_1	MG945700.1	D8	1	5006	order-5 chain from calibration genomes
+MG945700.1__D9_1	MG945700.1	D9	1	5456	window of GCF_000240185.1 at 930307
+MG945700.1__D10_revcomp	MG945700.1	D10	revcomp	5006	reverse complement
+MG945700.1__D10_rotation	MG945700.1	D10	rotation	5006	rotated by 3651
+MG945786.1__natural	MG945786.1	natural	-	5164	
+MG945786.1__D1_10	MG945786.1	D1	10	5164	156 codons swapped of 1559 swappable
+MG945786.1__D1_30	MG945786.1	D1	30	5164	468 codons swapped of 1559 swappable
+MG945786.1__D2_0.5	MG945786.1	D2	0.5	5164	26 substitutions
+MG945786.1__D2_1	MG945786.1	D2	1	5164	52 substitutions
+MG945786.1__D2_2	MG945786.1	D2	2	5164	103 substitutions
+MG945786.1__D2_5	MG945786.1	D2	5	5164	258 substitutions
+MG945786.1__D2_10	MG945786.1	D2	10	5164	516 substitutions
+MG945786.1__D3_1	MG945786.1	D3	1	5163	del@2052
+MG945786.1__D3_3	MG945786.1	D3	3	5163	ins@4513,del@4076,del@435
+MG945786.1__D3_6	MG945786.1	D3	6	5162	del@3854,ins@1573,ins@1180,del@1117,del@637,del@284
+MG945786.1__D3_12	MG945786.1	D3	12	5160	del@4805,del@4790,ins@4739,ins@4367,del@4192,del@4116,del@3970,ins@3922,del@3871,del@3251,del@2647,ins@1774
+MG945786.1__D4_1	MG945786.1	D4	1	5164	k=1 of nominal; g7:start-removed
+MG945786.1__D4_3	MG945786.1	D4	3	5164	k=3 of nominal; g7:start-removed,g1:stop@codon31,g6:stop@codon419
+MG945786.1__D4_6	MG945786.1	D4	6	5164	k=4 of nominal; g1:stop@codon47,g0:start-removed,g4:start-removed,g7:stop@codon317
+MG945786.1__D5_1	MG945786.1	D5	1	5050	k=1; genes [2] removed (114 letters)
+MG945786.1__D5_3	MG945786.1	D5	3	3902	k=3; genes [1, 2, 7] removed (1262 letters)
+MG945786.1__D5_6	MG945786.1	D5	6	939	k=6; genes [0, 1, 2, 4, 6, 7] removed (4225 letters)
+MG945786.1__D6_2	MG945786.1	D6	2	5164	2 cuts at [1098, 2074], order [1, 0], flips [1, 0]
+MG945786.1__D6_4	MG945786.1	D6	4	5164	4 cuts at [680, 744, 1902, 3871], order [3, 1, 2, 0], flips [1, 1, 0, 1]
+MG945786.1__D6_8	MG945786.1	D6	8	5164	8 cuts at [1797, 2952, 3033, 3343, 3356, 4031, 4257, 5076], order [4, 3, 2, 7, 6, 5, 0, 1], flips [1, 0, 1, 0, 0, 0, 0, 0]
+MG945786.1__D7_25	MG945786.1	D7	25	5164	405 codons shuffled within genes (start and stop kept)
+MG945786.1__D7_50	MG945786.1	D7	50	5164	811 codons shuffled within genes (start and stop kept)
+MG945786.1__D7_100	MG945786.1	D7	100	5164	1625 codons shuffled within genes (start and stop kept)
+MG945786.1__D8_1	MG945786.1	D8	1	5164	order-5 chain from calibration genomes
+MG945786.1__D9_1	MG945786.1	D9	1	5205	window of NC_003298.1 at 16537
+MG945786.1__D10_revcomp	MG945786.1	D10	revcomp	5164	reverse complement
+MG945786.1__D10_rotation	MG945786.1	D10	rotation	5164	rotated by 4522
+MG945801.1__natural	MG945801.1	natural	-	5190	
+MG945801.1__D1_10	MG945801.1	D1	10	5190	148 codons swapped of 1475 swappable
+MG945801.1__D1_30	MG945801.1	D1	30	5190	442 codons swapped of 1475 swappable
+MG945801.1__D2_0.5	MG945801.1	D2	0.5	5190	26 substitutions
+MG945801.1__D2_1	MG945801.1	D2	1	5190	52 substitutions
+MG945801.1__D2_2	MG945801.1	D2	2	5190	104 substitutions
+MG945801.1__D2_5	MG945801.1	D2	5	5190	260 substitutions
+MG945801.1__D2_10	MG945801.1	D2	10	5190	519 substitutions
+MG945801.1__D3_1	MG945801.1	D3	1	5191	ins@3230
+MG945801.1__D3_3	MG945801.1	D3	3	5189	del@3018,del@1918,ins@709
+MG945801.1__D3_6	MG945801.1	D3	6	5192	ins@4197,del@2908,ins@1511,ins@492,del@162,ins@7
+MG945801.1__D3_12	MG945801.1	D3	12	5194	del@4438,ins@4328,del@3920,ins@3874,ins@2600,ins@2436,ins@2398,del@2104,ins@1550,del@1096,ins@603,ins@438
+MG945801.1__D4_1	MG945801.1	D4	1	5190	k=1 of nominal; g5:stop@codon298
+MG945801.1__D4_3	MG945801.1	D4	3	5190	k=3 of nominal; g3:start-removed,g4:stop@codon323,g1:start-removed
+MG945801.1__D4_6	MG945801.1	D4	6	5190	k=4 of nominal; g2:start-removed,g0:stop@codon103,g1:start-removed,g4:stop@codon116
+MG945801.1__D5_1	MG945801.1	D5	1	3510	k=1; genes [4] removed (1680 letters)
+MG945801.1__D5_3	MG945801.1	D5	3	3045	k=3; genes [1, 2, 4] removed (2145 letters)
+MG945801.1__D5_6	MG945801.1	D5	6	2375	k=4; genes [0, 2, 3, 5] removed (2815 letters)
+MG945801.1__D6_2	MG945801.1	D6	2	5190	2 cuts at [2159, 4901], order [1, 0], flips [1, 0]
+MG945801.1__D6_4	MG945801.1	D6	4	5190	4 cuts at [1054, 1567, 3152, 5049], order [2, 1, 0, 3], flips [0, 0, 0, 1]
+MG945801.1__D6_8	MG945801.1	D6	8	5190	8 cuts at [515, 2193, 2229, 2572, 3766, 4162, 4571, 4593], order [1, 0, 5, 7, 2, 6, 4, 3], flips [0, 1, 1, 0, 1, 1, 0, 1]
+MG945801.1__D7_25	MG945801.1	D7	25	5190	388 codons shuffled within genes (start and stop kept)
+MG945801.1__D7_50	MG945801.1	D7	50	5190	777 codons shuffled within genes (start and stop kept)
+MG945801.1__D7_100	MG945801.1	D7	100	5190	1552 codons shuffled within genes (start and stop kept)
+MG945801.1__D8_1	MG945801.1	D8	1	5190	order-5 chain from calibration genomes
+MG945801.1__D9_1	MG945801.1	D9	1	5112	window of GCF_000240185.1 at 108810
+MG945801.1__D10_revcomp	MG945801.1	D10	revcomp	5190	reverse complement
+MG945801.1__D10_rotation	MG945801.1	D10	rotation	5190	rotated by 989
+MG945809.1__natural	MG945809.1	natural	-	5496	
+MG945809.1__D1_10	MG945809.1	D1	10	5496	153 codons swapped of 1531 swappable
+MG945809.1__D1_30	MG945809.1	D1	30	5496	459 codons swapped of 1531 swappable
+MG945809.1__D2_0.5	MG945809.1	D2	0.5	5496	27 substitutions
+MG945809.1__D2_1	MG945809.1	D2	1	5496	55 substitutions
+MG945809.1__D2_2	MG945809.1	D2	2	5496	110 substitutions
+MG945809.1__D2_5	MG945809.1	D2	5	5496	275 substitutions
+MG945809.1__D2_10	MG945809.1	D2	10	5496	550 substitutions
+MG945809.1__D3_1	MG945809.1	D3	1	5495	del@5071
+MG945809.1__D3_3	MG945809.1	D3	3	5497	del@2513,ins@1586,ins@1477
+MG945809.1__D3_6	MG945809.1	D3	6	5500	ins@4177,del@3480,ins@3013,ins@2694,ins@958,ins@640
+MG945809.1__D3_12	MG945809.1	D3	12	5498	ins@5074,ins@4770,del@3074,ins@3004,ins@2998,ins@2485,ins@1398,ins@1331,del@1327,del@1090,del@430,del@226
+MG945809.1__D4_1	MG945809.1	D4	1	5496	k=1 of nominal; g1:stop@codon37
+MG945809.1__D4_3	MG945809.1	D4	3	5496	k=3 of nominal; g6:stop@codon66,g8:start-removed,g7:start-removed
+MG945809.1__D4_6	MG945809.1	D4	6	5496	k=6 of nominal; g7:stop@codon72,g6:stop@codon78,g1:stop@codon49,g8:stop@codon57,g4:stop@codon28,g5:stop@codon36
+MG945809.1__D5_1	MG945809.1	D5	1	4995	k=1; genes [7] removed (501 letters)
+MG945809.1__D5_3	MG945809.1	D5	3	4461	k=3; genes [2, 6, 9] removed (1035 letters)
+MG945809.1__D5_6	MG945809.1	D5	6	1503	k=6; genes [0, 2, 5, 6, 8, 9] removed (3993 letters)
+MG945809.1__D6_2	MG945809.1	D6	2	5496	2 cuts at [150, 2241], order [0, 1], flips [1, 0]
+MG945809.1__D6_4	MG945809.1	D6	4	5496	4 cuts at [1367, 3238, 4323, 4486], order [2, 0, 1, 3], flips [0, 0, 0, 1]
+MG945809.1__D6_8	MG945809.1	D6	8	5496	8 cuts at [702, 2073, 3212, 3799, 4147, 4245, 4769, 5181], order [0, 3, 2, 6, 5, 4, 7, 1], flips [0, 0, 1, 1, 0, 1, 1, 1]
+MG945809.1__D7_25	MG945809.1	D7	25	5496	416 codons shuffled within genes (start and stop kept)
+MG945809.1__D7_50	MG945809.1	D7	50	5496	831 codons shuffled within genes (start and stop kept)
+MG945809.1__D7_100	MG945809.1	D7	100	5496	1663 codons shuffled within genes (start and stop kept)
+MG945809.1__D8_1	MG945809.1	D8	1	5496	order-5 chain from calibration genomes
+MG945809.1__D9_1	MG945809.1	D9	1	5289	window of NC_001895.1 at 9543
+MG945809.1__D10_revcomp	MG945809.1	D10	revcomp	5496	reverse complement
+MG945809.1__D10_rotation	MG945809.1	D10	rotation	5496	rotated by 4748
+MG945812.1__natural	MG945812.1	natural	-	5732	
+MG945812.1__D1_10	MG945812.1	D1	10	5732	146 codons swapped of 1460 swappable
+MG945812.1__D1_30	MG945812.1	D1	30	5732	438 codons swapped of 1460 swappable
+MG945812.1__D2_0.5	MG945812.1	D2	0.5	5732	29 substitutions
+MG945812.1__D2_1	MG945812.1	D2	1	5732	57 substitutions
+MG945812.1__D2_2	MG945812.1	D2	2	5732	115 substitutions
+MG945812.1__D2_5	MG945812.1	D2	5	5732	287 substitutions
+MG945812.1__D2_10	MG945812.1	D2	10	5732	573 substitutions
+MG945812.1__D3_1	MG945812.1	D3	1	5731	del@3705
+MG945812.1__D3_3	MG945812.1	D3	3	5733	ins@3489,del@3414,ins@929
+MG945812.1__D3_6	MG945812.1	D3	6	5730	ins@5087,del@3392,del@2965,del@2209,ins@323,del@271
+MG945812.1__D3_12	MG945812.1	D3	12	5736	ins@5248,del@5049,ins@4201,del@3380,ins@3052,ins@2364,ins@2251,ins@1601,ins@1519,del@1500,ins@481,del@328
+MG945812.1__D4_1	MG945812.1	D4	1	5732	k=1 of nominal; g1:stop@codon41
+MG945812.1__D4_3	MG945812.1	D4	3	5732	k=3 of nominal; g2:stop@codon135,g5:stop@codon98,g0:stop@codon144
+MG945812.1__D4_6	MG945812.1	D4	6	5732	k=4 of nominal; g3:stop@codon60,g1:start-removed,g5:start-removed,g0:stop@codon271
+MG945812.1__D5_1	MG945812.1	D5	1	4853	k=1; genes [4] removed (879 letters)
+MG945812.1__D5_3	MG945812.1	D5	3	3316	k=3; genes [1, 2, 3] removed (2416 letters)
+MG945812.1__D5_6	MG945812.1	D5	6	1898	k=4; genes [0, 3, 4, 5] removed (3834 letters)
+MG945812.1__D6_2	MG945812.1	D6	2	5732	2 cuts at [2083, 2936], order [1, 0], flips [0, 1]
+MG945812.1__D6_4	MG945812.1	D6	4	5732	4 cuts at [383, 881, 5144, 5689], order [0, 2, 1, 3], flips [1, 0, 0, 0]
+MG945812.1__D6_8	MG945812.1	D6	8	5732	8 cuts at [238, 584, 2668, 3023, 3573, 4288, 5462, 5679], order [0, 3, 5, 6, 7, 4, 1, 2], flips [0, 1, 1, 0, 0, 0, 0, 0]
+MG945812.1__D7_25	MG945812.1	D7	25	5732	383 codons shuffled within genes (start and stop kept)
+MG945812.1__D7_50	MG945812.1	D7	50	5732	766 codons shuffled within genes (start and stop kept)
+MG945812.1__D7_100	MG945812.1	D7	100	5732	1531 codons shuffled within genes (start and stop kept)
+MG945812.1__D8_1	MG945812.1	D8	1	5732	order-5 chain from calibration genomes
+MG945812.1__D9_1	MG945812.1	D9	1	5283	window of GCF_000006945.2 at 3647790
+MG945812.1__D10_revcomp	MG945812.1	D10	revcomp	5732	reverse complement
+MG945812.1__D10_rotation	MG945812.1	D10	rotation	5732	rotated by 1207
+MG945820.1__natural	MG945820.1	natural	-	5063	
+MG945820.1__D1_10	MG945820.1	D1	10	5063	151 codons swapped of 1508 swappable
+MG945820.1__D1_30	MG945820.1	D1	30	5063	452 codons swapped of 1508 swappable
+MG945820.1__D2_0.5	MG945820.1	D2	0.5	5063	25 substitutions
+MG945820.1__D2_1	MG945820.1	D2	1	5063	51 substitutions
+MG945820.1__D2_2	MG945820.1	D2	2	5063	101 substitutions
+MG945820.1__D2_5	MG945820.1	D2	5	5063	253 substitutions
+MG945820.1__D2_10	MG945820.1	D2	10	5063	506 substitutions
+MG945820.1__D3_1	MG945820.1	D3	1	5064	ins@2931
+MG945820.1__D3_3	MG945820.1	D3	3	5066	ins@4901,ins@3881,ins@158
+MG945820.1__D3_6	MG945820.1	D3	6	5061	del@4884,ins@4813,del@4561,ins@3606,del@3359,del@1821
+MG945820.1__D3_12	MG945820.1	D3	12	5059	del@4803,ins@4513,ins@4407,del@4174,del@3352,del@2741,ins@2678,del@2649,ins@644,del@509,del@338,del@153
+MG945820.1__D4_1	MG945820.1	D4	1	5063	k=1 of nominal; g5:start-removed
+MG945820.1__D4_3	MG945820.1	D4	3	5063	k=3 of nominal; g0:stop@codon24,g5:stop@codon278,g2:stop@codon88
+MG945820.1__D4_6	MG945820.1	D4	6	5063	k=4 of nominal; g2:start-removed,g5:start-removed,g0:start-removed,g1:stop@codon37
+MG945820.1__D5_1	MG945820.1	D5	1	3395	k=1; genes [4] removed (1668 letters)
+MG945820.1__D5_3	MG945820.1	D5	3	3286	k=3; genes [2, 3, 5] removed (1777 letters)
+MG945820.1__D5_6	MG945820.1	D5	6	2433	k=4; genes [1, 2, 3, 4] removed (2630 letters)
+MG945820.1__D6_2	MG945820.1	D6	2	5063	2 cuts at [275, 3079], order [0, 1], flips [0, 1]
+MG945820.1__D6_4	MG945820.1	D6	4	5063	4 cuts at [453, 455, 782, 3218], order [0, 3, 1, 2], flips [0, 1, 0, 0]
+MG945820.1__D6_8	MG945820.1	D6	8	5063	8 cuts at [749, 973, 1857, 2575, 2620, 3303, 4074, 4665], order [0, 4, 1, 7, 5, 3, 6, 2], flips [0, 0, 1, 1, 1, 0, 0, 0]
+MG945820.1__D7_25	MG945820.1	D7	25	5063	397 codons shuffled within genes (start and stop kept)
+MG945820.1__D7_50	MG945820.1	D7	50	5063	795 codons shuffled within genes (start and stop kept)
+MG945820.1__D7_100	MG945820.1	D7	100	5063	1590 codons shuffled within genes (start and stop kept)
+MG945820.1__D8_1	MG945820.1	D8	1	5063	order-5 chain from calibration genomes
+MG945820.1__D9_1	MG945820.1	D9	1	5166	window of NC_001604.1 at 20458
+MG945820.1__D10_revcomp	MG945820.1	D10	revcomp	5063	reverse complement
+MG945820.1__D10_rotation	MG945820.1	D10	rotation	5063	rotated by 2662
+MH029519.1__natural	MH029519.1	natural	-	4754	
+MH029519.1__D1_10	MH029519.1	D1	10	4754	136 codons swapped of 1359 swappable
+MH029519.1__D1_30	MH029519.1	D1	30	4754	408 codons swapped of 1359 swappable
+MH029519.1__D2_0.5	MH029519.1	D2	0.5	4754	24 substitutions
+MH029519.1__D2_1	MH029519.1	D2	1	4754	48 substitutions
+MH029519.1__D2_2	MH029519.1	D2	2	4754	95 substitutions
+MH029519.1__D2_5	MH029519.1	D2	5	4754	238 substitutions
+MH029519.1__D2_10	MH029519.1	D2	10	4754	475 substitutions
+MH029519.1__D3_1	MH029519.1	D3	1	4753	del@2218
+MH029519.1__D3_3	MH029519.1	D3	3	4755	ins@2566,ins@2372,del@1680
+MH029519.1__D3_6	MH029519.1	D3	6	4752	del@3557,del@3336,del@2324,ins@903,del@528,ins@424
+MH029519.1__D3_12	MH029519.1	D3	12	4752	del@4238,del@4127,ins@4063,del@3898,ins@3631,del@2703,ins@2463,ins@1868,del@1790,del@1657,del@1409,ins@826
+MH029519.1__D4_1	MH029519.1	D4	1	4754	k=1 of nominal; g3:start-removed
+MH029519.1__D4_3	MH029519.1	D4	3	4754	k=3 of nominal; g2:stop@codon31,g1:stop@codon34,g5:start-removed
+MH029519.1__D4_6	MH029519.1	D4	6	4754	k=4 of nominal; g5:start-removed,g2:stop@codon3,g1:stop@codon41,g3:stop@codon86
+MH029519.1__D5_1	MH029519.1	D5	1	4544	k=1; genes [2] removed (210 letters)
+MH029519.1__D5_3	MH029519.1	D5	3	1763	k=3; genes [0, 3, 5] removed (2991 letters)
+MH029519.1__D5_6	MH029519.1	D5	6	1612	k=4; genes [0, 2, 3, 5] removed (3142 letters)
+MH029519.1__D6_2	MH029519.1	D6	2	4754	2 cuts at [1458, 3412], order [1, 0], flips [0, 1]
+MH029519.1__D6_4	MH029519.1	D6	4	4754	4 cuts at [356, 1204, 2726, 4677], order [1, 2, 0, 3], flips [0, 1, 1, 0]
+MH029519.1__D6_8	MH029519.1	D6	8	4754	8 cuts at [35, 509, 826, 1011, 1048, 1124, 1365, 1474], order [7, 0, 5, 3, 4, 2, 6, 1], flips [1, 1, 0, 0, 0, 0, 0, 1]
+MH029519.1__D7_25	MH029519.1	D7	25	4754	366 codons shuffled within genes (start and stop kept)
+MH029519.1__D7_50	MH029519.1	D7	50	4754	732 codons shuffled within genes (start and stop kept)
+MH029519.1__D7_100	MH029519.1	D7	100	4754	1461 codons shuffled within genes (start and stop kept)
+MH029519.1__D8_1	MH029519.1	D8	1	4754	order-5 chain from calibration genomes
+MH029519.1__D9_1	MH029519.1	D9	1	5025	window of GCF_000006945.2 at 1767507
+MH029519.1__D10_revcomp	MH029519.1	D10	revcomp	4754	reverse complement
+MH029519.1__D10_rotation	MH029519.1	D10	rotation	4754	rotated by 1260
+MH029523.1__natural	MH029523.1	natural	-	4632	
+MH029523.1__D1_10	MH029523.1	D1	10	4632	119 codons swapped of 1189 swappable
+MH029523.1__D1_30	MH029523.1	D1	30	4632	357 codons swapped of 1189 swappable
+MH029523.1__D2_0.5	MH029523.1	D2	0.5	4632	23 substitutions
+MH029523.1__D2_1	MH029523.1	D2	1	4632	46 substitutions
+MH029523.1__D2_2	MH029523.1	D2	2	4632	93 substitutions
+MH029523.1__D2_5	MH029523.1	D2	5	4632	232 substitutions
+MH029523.1__D2_10	MH029523.1	D2	10	4632	463 substitutions
+MH029523.1__D3_1	MH029523.1	D3	1	4633	ins@2452
+MH029523.1__D3_3	MH029523.1	D3	3	4631	del@3276,ins@2274,del@1048
+MH029523.1__D3_6	MH029523.1	D3	6	4636	ins@1912,ins@1576,ins@1369,del@1360,ins@1344,ins@635
+MH029523.1__D3_12	MH029523.1	D3	12	4632	del@3923,del@3442,del@3197,del@3113,ins@3035,ins@2058,ins@1937,del@1726,ins@1500,del@1288,ins@1079,ins@529
+MH029523.1__D4_1	MH029523.1	D4	1	4632	k=1 of nominal; g5:start-removed
+MH029523.1__D4_3	MH029523.1	D4	3	4632	k=3 of nominal; g3:stop@codon245,g0:start-removed,g1:start-removed
+MH029523.1__D4_6	MH029523.1	D4	6	4632	k=4 of nominal; g0:stop@codon93,g5:stop@codon43,g1:start-removed,g4:stop@codon1
+MH029523.1__D5_1	MH029523.1	D5	1	4317	k=1; genes [0] removed (315 letters)
+MH029523.1__D5_3	MH029523.1	D5	3	3895	k=3; genes [0, 1, 5] removed (737 letters)
+MH029523.1__D5_6	MH029523.1	D5	6	2735	k=4; genes [0, 1, 3, 4] removed (1897 letters)
+MH029523.1__D6_2	MH029523.1	D6	2	4632	2 cuts at [958, 1637], order [1, 0], flips [0, 1]
+MH029523.1__D6_4	MH029523.1	D6	4	4632	4 cuts at [1140, 1508, 2446, 3908], order [3, 0, 2, 1], flips [0, 0, 0, 0]
+MH029523.1__D6_8	MH029523.1	D6	8	4632	8 cuts at [45, 408, 739, 1121, 2340, 3020, 3326, 4449], order [4, 0, 3, 5, 7, 1, 2, 6], flips [1, 1, 0, 1, 0, 0, 0, 0]
+MH029523.1__D7_25	MH029523.1	D7	25	4632	308 codons shuffled within genes (start and stop kept)
+MH029523.1__D7_50	MH029523.1	D7	50	4632	616 codons shuffled within genes (start and stop kept)
+MH029523.1__D7_100	MH029523.1	D7	100	4632	1229 codons shuffled within genes (start and stop kept)
+MH029523.1__D8_1	MH029523.1	D8	1	4632	order-5 chain from calibration genomes
+MH029523.1__D9_1	MH029523.1	D9	1	5933	window of NC_011048.1 at 5856
+MH029523.1__D10_revcomp	MH029523.1	D10	revcomp	4632	reverse complement
+MH029523.1__D10_rotation	MH029523.1	D10	rotation	4632	rotated by 1940
+MH029529.1__natural	MH029529.1	natural	-	4595	
+MH029529.1__D1_10	MH029529.1	D1	10	4595	138 codons swapped of 1384 swappable
+MH029529.1__D1_30	MH029529.1	D1	30	4595	415 codons swapped of 1384 swappable
+MH029529.1__D2_0.5	MH029529.1	D2	0.5	4595	23 substitutions
+MH029529.1__D2_1	MH029529.1	D2	1	4595	46 substitutions
+MH029529.1__D2_2	MH029529.1	D2	2	4595	92 substitutions
+MH029529.1__D2_5	MH029529.1	D2	5	4595	230 substitutions
+MH029529.1__D2_10	MH029529.1	D2	10	4595	460 substitutions
+MH029529.1__D3_1	MH029529.1	D3	1	4594	del@2112
+MH029529.1__D3_3	MH029529.1	D3	3	4594	ins@4001,del@3997,del@2555
+MH029529.1__D3_6	MH029529.1	D3	6	4595	ins@3340,ins@2446,del@2379,ins@2253,del@1079,del@502
+MH029529.1__D3_12	MH029529.1	D3	12	4589	del@4357,del@4214,del@3367,ins@3167,ins@2984,del@2948,ins@2939,del@1799,del@1213,del@946,del@449,del@48
+MH029529.1__D4_1	MH029529.1	D4	1	4595	k=1 of nominal; g4:start-removed
+MH029529.1__D4_3	MH029529.1	D4	3	4595	k=3 of nominal; g1:start-removed,g2:start-removed,g0:stop@codon106
+MH029529.1__D4_6	MH029529.1	D4	6	4595	k=4 of nominal; g0:start-removed,g2:start-removed,g4:start-removed,g5:stop@codon65
+MH029529.1__D5_1	MH029529.1	D5	1	3686	k=1; genes [0] removed (909 letters)
+MH029529.1__D5_3	MH029529.1	D5	3	2243	k=3; genes [1, 3, 5] removed (2352 letters)
+MH029529.1__D5_6	MH029529.1	D5	6	563	k=5; genes [0, 2, 3, 4, 5] removed (4032 letters)
+MH029529.1__D6_2	MH029529.1	D6	2	4595	2 cuts at [3351, 3390], order [0, 1], flips [1, 0]
+MH029529.1__D6_4	MH029529.1	D6	4	4595	4 cuts at [350, 784, 2449, 4001], order [1, 0, 3, 2], flips [1, 1, 0, 1]
+MH029529.1__D6_8	MH029529.1	D6	8	4595	8 cuts at [371, 536, 712, 850, 2404, 3034, 3464, 4543], order [0, 4, 6, 2, 5, 3, 7, 1], flips [0, 1, 1, 0, 0, 0, 0, 1]
+MH029529.1__D7_25	MH029529.1	D7	25	4595	363 codons shuffled within genes (start and stop kept)
+MH029529.1__D7_50	MH029529.1	D7	50	4595	727 codons shuffled within genes (start and stop kept)
+MH029529.1__D7_100	MH029529.1	D7	100	4595	1455 codons shuffled within genes (start and stop kept)
+MH029529.1__D8_1	MH029529.1	D8	1	4595	order-5 chain from calibration genomes
+MH029529.1__D9_1	MH029529.1	D9	1	5060	window of GCF_000006945.2 at 2625338
+MH029529.1__D10_revcomp	MH029529.1	D10	revcomp	4595	reverse complement
+MH029529.1__D10_rotation	MH029529.1	D10	rotation	4595	rotated by 2566
+MH029532.1__natural	MH029532.1	natural	-	4515	
+MH029532.1__D1_10	MH029532.1	D1	10	4515	128 codons swapped of 1281 swappable
+MH029532.1__D1_30	MH029532.1	D1	30	4515	384 codons swapped of 1281 swappable
+MH029532.1__D2_0.5	MH029532.1	D2	0.5	4515	23 substitutions
+MH029532.1__D2_1	MH029532.1	D2	1	4515	45 substitutions
+MH029532.1__D2_2	MH029532.1	D2	2	4515	90 substitutions
+MH029532.1__D2_5	MH029532.1	D2	5	4515	226 substitutions
+MH029532.1__D2_10	MH029532.1	D2	10	4515	452 substitutions
+MH029532.1__D3_1	MH029532.1	D3	1	4514	del@2483
+MH029532.1__D3_3	MH029532.1	D3	3	4514	del@3479,ins@1939,del@1637
+MH029532.1__D3_6	MH029532.1	D3	6	4517	ins@3449,ins@3358,del@2283,ins@1681,ins@1539,del@1436
+MH029532.1__D3_12	MH029532.1	D3	12	4517	del@3267,ins@3146,ins@2857,ins@2641,del@2553,del@2436,del@2420,del@2123,ins@1158,ins@968,ins@760,ins@522
+MH029532.1__D4_1	MH029532.1	D4	1	4515	k=1 of nominal; g1:stop@codon27
+MH029532.1__D4_3	MH029532.1	D4	3	4515	k=3 of nominal; g3:stop@codon109,g4:start-removed,g0:stop@codon42
+MH029532.1__D4_6	MH029532.1	D4	6	4515	k=4 of nominal; g3:stop@codon132,g4:start-removed,g1:stop@codon2,g5:stop@codon11
+MH029532.1__D5_1	MH029532.1	D5	1	3534	k=1; genes [0] removed (981 letters)
+MH029532.1__D5_3	MH029532.1	D5	3	2814	k=3; genes [0, 1, 3] removed (1701 letters)
+MH029532.1__D5_6	MH029532.1	D5	6	2446	k=4; genes [1, 3, 4, 5] removed (2069 letters)
+MH029532.1__D6_2	MH029532.1	D6	2	4515	2 cuts at [556, 4288], order [1, 0], flips [0, 1]
+MH029532.1__D6_4	MH029532.1	D6	4	4515	4 cuts at [2173, 2309, 3052, 4411], order [0, 1, 2, 3], flips [1, 1, 0, 1]
+MH029532.1__D6_8	MH029532.1	D6	8	4515	8 cuts at [491, 548, 1534, 2063, 2157, 2161, 3254, 3556], order [1, 2, 5, 4, 7, 0, 3, 6], flips [1, 0, 1, 1, 0, 1, 1, 0]
+MH029532.1__D7_25	MH029532.1	D7	25	4515	333 codons shuffled within genes (start and stop kept)
+MH029532.1__D7_50	MH029532.1	D7	50	4515	668 codons shuffled within genes (start and stop kept)
+MH029532.1__D7_100	MH029532.1	D7	100	4515	1336 codons shuffled within genes (start and stop kept)
+MH029532.1__D8_1	MH029532.1	D8	1	4515	order-5 chain from calibration genomes
+MH029532.1__D9_1	MH029532.1	D9	1	5579	window of NC_011048.1 at 9064
+MH029532.1__D10_revcomp	MH029532.1	D10	revcomp	4515	reverse complement
+MH029532.1__D10_rotation	MH029532.1	D10	rotation	4515	rotated by 3433
+MH029533.1__natural	MH029533.1	natural	-	4514	
+MH029533.1__D1_10	MH029533.1	D1	10	4514	129 codons swapped of 1293 swappable
+MH029533.1__D1_30	MH029533.1	D1	30	4514	388 codons swapped of 1293 swappable
+MH029533.1__D2_0.5	MH029533.1	D2	0.5	4514	23 substitutions
+MH029533.1__D2_1	MH029533.1	D2	1	4514	45 substitutions
+MH029533.1__D2_2	MH029533.1	D2	2	4514	90 substitutions
+MH029533.1__D2_5	MH029533.1	D2	5	4514	226 substitutions
+MH029533.1__D2_10	MH029533.1	D2	10	4514	451 substitutions
+MH029533.1__D3_1	MH029533.1	D3	1	4513	del@3976
+MH029533.1__D3_3	MH029533.1	D3	3	4513	ins@4206,del@3572,del@3518
+MH029533.1__D3_6	MH029533.1	D3	6	4514	del@3962,del@3819,ins@2235,ins@1452,ins@1442,del@1089
+MH029533.1__D3_12	MH029533.1	D3	12	4512	ins@3985,del@3899,del@3454,del@3270,del@2979,ins@2618,ins@2246,del@1901,ins@1226,del@1035,del@756,ins@344
+MH029533.1__D4_1	MH029533.1	D4	1	4514	k=1 of nominal; g5:stop@codon93
+MH029533.1__D4_3	MH029533.1	D4	3	4514	k=3 of nominal; g0:start-removed,g2:start-removed,g3:start-removed
+MH029533.1__D4_6	MH029533.1	D4	6	4514	k=4 of nominal; g1:start-removed,g2:start-removed,g3:stop@codon343,g4:start-removed
+MH029533.1__D5_1	MH029533.1	D5	1	3227	k=1; genes [3] removed (1287 letters)
+MH029533.1__D5_3	MH029533.1	D5	3	2888	k=3; genes [0, 1, 5] removed (1626 letters)
+MH029533.1__D5_6	MH029533.1	D5	6	1076	k=5; genes [0, 1, 2, 3, 4] removed (3438 letters)
+MH029533.1__D6_2	MH029533.1	D6	2	4514	2 cuts at [1240, 4101], order [0, 1], flips [0, 1]
+MH029533.1__D6_4	MH029533.1	D6	4	4514	4 cuts at [17, 960, 2032, 2252], order [3, 0, 1, 2], flips [1, 1, 0, 1]
+MH029533.1__D6_8	MH029533.1	D6	8	4514	8 cuts at [546, 593, 1070, 1451, 2578, 2749, 4333, 4436], order [5, 1, 0, 7, 4, 3, 6, 2], flips [0, 0, 1, 1, 0, 0, 1, 1]
+MH029533.1__D7_25	MH029533.1	D7	25	4514	337 codons shuffled within genes (start and stop kept)
+MH029533.1__D7_50	MH029533.1	D7	50	4514	671 codons shuffled within genes (start and stop kept)
+MH029533.1__D7_100	MH029533.1	D7	100	4514	1340 codons shuffled within genes (start and stop kept)
+MH029533.1__D8_1	MH029533.1	D8	1	4514	order-5 chain from calibration genomes
+MH029533.1__D9_1	MH029533.1	D9	1	5380	window of GCF_000240185.1 at 2984988
+MH029533.1__D10_revcomp	MH029533.1	D10	revcomp	4514	reverse complement
+MH029533.1__D10_rotation	MH029533.1	D10	rotation	4514	rotated by 2913
+MH029535.1__natural	MH029535.1	natural	-	6105	
+MH029535.1__D1_10	MH029535.1	D1	10	6105	185 codons swapped of 1848 swappable
+MH029535.1__D1_30	MH029535.1	D1	30	6105	554 codons swapped of 1848 swappable
+MH029535.1__D2_0.5	MH029535.1	D2	0.5	6105	31 substitutions
+MH029535.1__D2_1	MH029535.1	D2	1	6105	61 substitutions
+MH029535.1__D2_2	MH029535.1	D2	2	6105	122 substitutions
+MH029535.1__D2_5	MH029535.1	D2	5	6105	305 substitutions
+MH029535.1__D2_10	MH029535.1	D2	10	6105	610 substitutions
+MH029535.1__D3_1	MH029535.1	D3	1	6104	del@3322
+MH029535.1__D3_3	MH029535.1	D3	3	6106	ins@5999,del@2050,ins@1374
+MH029535.1__D3_6	MH029535.1	D3	6	6107	ins@5321,ins@4709,ins@3658,ins@2451,del@1478,del@562
+MH029535.1__D3_12	MH029535.1	D3	12	6107	del@5473,ins@5150,del@4983,del@4901,ins@4805,ins@4159,del@4094,del@2150,ins@1796,ins@1227,ins@469,ins@183
+MH029535.1__D4_1	MH029535.1	D4	1	6105	k=1 of nominal; g7:start-removed
+MH029535.1__D4_3	MH029535.1	D4	3	6105	k=3 of nominal; g6:start-removed,g4:stop@codon71,g0:stop@codon328
+MH029535.1__D4_6	MH029535.1	D4	6	6105	k=6 of nominal; g2:start-removed,g1:start-removed,g3:start-removed,g4:start-removed,g6:start-removed,g7:stop@codon24
+MH029535.1__D5_1	MH029535.1	D5	1	5982	k=1; genes [8] removed (123 letters)
+MH029535.1__D5_3	MH029535.1	D5	3	5415	k=3; genes [3, 4, 8] removed (690 letters)
+MH029535.1__D5_6	MH029535.1	D5	6	2356	k=6; genes [1, 3, 4, 5, 6, 7] removed (3749 letters)
+MH029535.1__D6_2	MH029535.1	D6	2	6105	2 cuts at [2911, 3271], order [1, 0], flips [1, 0]
+MH029535.1__D6_4	MH029535.1	D6	4	6105	4 cuts at [1152, 1443, 4326, 5506], order [0, 1, 3, 2], flips [1, 0, 0, 0]
+MH029535.1__D6_8	MH029535.1	D6	8	6105	8 cuts at [549, 1807, 2225, 2751, 2980, 3948, 4022, 5953], order [0, 2, 1, 5, 6, 7, 3, 4], flips [0, 0, 0, 1, 0, 0, 0, 1]
+MH029535.1__D7_25	MH029535.1	D7	25	6105	478 codons shuffled within genes (start and stop kept)
+MH029535.1__D7_50	MH029535.1	D7	50	6105	959 codons shuffled within genes (start and stop kept)
+MH029535.1__D7_100	MH029535.1	D7	100	6105	1915 codons shuffled within genes (start and stop kept)
+MH029535.1__D8_1	MH029535.1	D8	1	6105	order-5 chain from calibration genomes
+MH029535.1__D9_1	MH029535.1	D9	1	5201	window of NC_001895.1 at 2412
+MH029535.1__D10_revcomp	MH029535.1	D10	revcomp	6105	reverse complement
+MH029535.1__D10_rotation	MH029535.1	D10	rotation	6105	rotated by 1034
+MH552523.2__natural	MH552523.2	natural	-	5296	
+MH552523.2__D1_10	MH552523.2	D1	10	5296	160 codons swapped of 1595 swappable
+MH552523.2__D1_30	MH552523.2	D1	30	5296	478 codons swapped of 1595 swappable
+MH552523.2__D2_0.5	MH552523.2	D2	0.5	5296	26 substitutions
+MH552523.2__D2_1	MH552523.2	D2	1	5296	53 substitutions
+MH552523.2__D2_2	MH552523.2	D2	2	5296	106 substitutions
+MH552523.2__D2_5	MH552523.2	D2	5	5296	265 substitutions
+MH552523.2__D2_10	MH552523.2	D2	10	5296	530 substitutions
+MH552523.2__D3_1	MH552523.2	D3	1	5295	del@3082
+MH552523.2__D3_3	MH552523.2	D3	3	5297	ins@4672,ins@4343,del@2731
+MH552523.2__D3_6	MH552523.2	D3	6	5296	ins@2531,ins@2504,del@2165,del@1467,del@811,ins@318
+MH552523.2__D3_12	MH552523.2	D3	12	5296	ins@4951,ins@4724,del@4699,ins@4234,del@3803,del@3631,ins@3470,ins@3455,del@3330,ins@2170,del@928,del@150
+MH552523.2__D4_1	MH552523.2	D4	1	5296	k=1 of nominal; g4:start-removed
+MH552523.2__D4_3	MH552523.2	D4	3	5296	k=3 of nominal; g6:stop@codon20,g5:stop@codon287,g3:start-removed
+MH552523.2__D4_6	MH552523.2	D4	6	5296	k=4 of nominal; g0:stop@codon255,g3:start-removed,g6:stop@codon339,g1:stop@codon45
+MH552523.2__D5_1	MH552523.2	D5	1	3589	k=1; genes [5] removed (1707 letters)
+MH552523.2__D5_3	MH552523.2	D5	3	3127	k=3; genes [1, 3, 5] removed (2169 letters)
+MH552523.2__D5_6	MH552523.2	D5	6	1727	k=5; genes [0, 1, 2, 4, 5] removed (3569 letters)
+MH552523.2__D6_2	MH552523.2	D6	2	5296	2 cuts at [411, 4597], order [1, 0], flips [0, 1]
+MH552523.2__D6_4	MH552523.2	D6	4	5296	4 cuts at [1140, 2031, 4672, 4876], order [1, 2, 3, 0], flips [0, 1, 1, 1]
+MH552523.2__D6_8	MH552523.2	D6	8	5296	8 cuts at [659, 1643, 1915, 3355, 4117, 4151, 4290, 4616], order [3, 7, 6, 5, 1, 2, 4, 0], flips [0, 0, 1, 0, 1, 1, 1, 1]
+MH552523.2__D7_25	MH552523.2	D7	25	5296	414 codons shuffled within genes (start and stop kept)
+MH552523.2__D7_50	MH552523.2	D7	50	5296	827 codons shuffled within genes (start and stop kept)
+MH552523.2__D7_100	MH552523.2	D7	100	5296	1656 codons shuffled within genes (start and stop kept)
+MH552523.2__D8_1	MH552523.2	D8	1	5296	order-5 chain from calibration genomes
+MH552523.2__D9_1	MH552523.2	D9	1	5064	window of GCF_000006765.1 at 1160953
+MH552523.2__D10_revcomp	MH552523.2	D10	revcomp	5296	reverse complement
+MH552523.2__D10_rotation	MH552523.2	D10	rotation	5296	rotated by 3441
+MH572276.1__natural	MH572276.1	natural	-	4767	
+MH572276.1__D1_10	MH572276.1	D1	10	4767	135 codons swapped of 1354 swappable
+MH572276.1__D1_30	MH572276.1	D1	30	4767	406 codons swapped of 1354 swappable
+MH572276.1__D2_0.5	MH572276.1	D2	0.5	4767	24 substitutions
+MH572276.1__D2_1	MH572276.1	D2	1	4767	48 substitutions
+MH572276.1__D2_2	MH572276.1	D2	2	4767	95 substitutions
+MH572276.1__D2_5	MH572276.1	D2	5	4767	238 substitutions
+MH572276.1__D2_10	MH572276.1	D2	10	4767	477 substitutions
+MH572276.1__D3_1	MH572276.1	D3	1	4768	ins@1912
+MH572276.1__D3_3	MH572276.1	D3	3	4768	ins@3693,del@853,ins@366
+MH572276.1__D3_6	MH572276.1	D3	6	4767	ins@4624,ins@3860,del@3642,ins@2187,del@1117,del@899
+MH572276.1__D3_12	MH572276.1	D3	12	4769	ins@4331,ins@3758,del@3105,ins@3088,ins@3050,del@3023,del@2722,ins@2225,del@2065,ins@1855,ins@1385,del@588
+MH572276.1__D4_1	MH572276.1	D4	1	4767	k=1 of nominal; g6:start-removed
+MH572276.1__D4_3	MH572276.1	D4	3	4767	k=3 of nominal; g5:stop@codon164,g4:stop@codon47,g6:start-removed
+MH572276.1__D4_6	MH572276.1	D4	6	4767	k=6 of nominal; g0:start-removed,g3:stop@codon17,g6:stop@codon211,g5:start-removed,g4:start-removed,g7:start-removed
+MH572276.1__D5_1	MH572276.1	D5	1	3201	k=1; genes [6] removed (1566 letters)
+MH572276.1__D5_3	MH572276.1	D5	3	4148	k=3; genes [1, 3, 4] removed (619 letters)
+MH572276.1__D5_6	MH572276.1	D5	6	2290	k=6; genes [0, 2, 3, 4, 5, 7] removed (2477 letters)
+MH572276.1__D6_2	MH572276.1	D6	2	4767	2 cuts at [2468, 3534], order [1, 0], flips [1, 0]
+MH572276.1__D6_4	MH572276.1	D6	4	4767	4 cuts at [948, 1610, 4093, 4251], order [3, 0, 2, 1], flips [0, 1, 1, 0]
+MH572276.1__D6_8	MH572276.1	D6	8	4767	8 cuts at [760, 921, 1503, 2416, 3129, 3277, 3287, 4021], order [4, 0, 1, 3, 7, 5, 6, 2], flips [0, 1, 0, 0, 0, 1, 1, 0]
+MH572276.1__D7_25	MH572276.1	D7	25	4767	353 codons shuffled within genes (start and stop kept)
+MH572276.1__D7_50	MH572276.1	D7	50	4767	705 codons shuffled within genes (start and stop kept)
+MH572276.1__D7_100	MH572276.1	D7	100	4767	1410 codons shuffled within genes (start and stop kept)
+MH572276.1__D8_1	MH572276.1	D8	1	4767	order-5 chain from calibration genomes
+MH572276.1__D9_1	MH572276.1	D9	1	5592	window of NC_001895.1 at 18208
+MH572276.1__D10_revcomp	MH572276.1	D10	revcomp	4767	reverse complement
+MH572276.1__D10_rotation	MH572276.1	D10	rotation	4767	rotated by 1751
+MH616692.2__natural	MH616692.2	natural	-	4919	
+MH616692.2__D1_10	MH616692.2	D1	10	4919	140 codons swapped of 1400 swappable
+MH616692.2__D1_30	MH616692.2	D1	30	4919	420 codons swapped of 1400 swappable
+MH616692.2__D2_0.5	MH616692.2	D2	0.5	4919	25 substitutions
+MH616692.2__D2_1	MH616692.2	D2	1	4919	49 substitutions
+MH616692.2__D2_2	MH616692.2	D2	2	4919	98 substitutions
+MH616692.2__D2_5	MH616692.2	D2	5	4919	246 substitutions
+MH616692.2__D2_10	MH616692.2	D2	10	4919	492 substitutions
+MH616692.2__D3_1	MH616692.2	D3	1	4920	ins@1224
+MH616692.2__D3_3	MH616692.2	D3	3	4922	ins@3364,ins@3343,ins@2247
+MH616692.2__D3_6	MH616692.2	D3	6	4923	ins@4718,ins@4615,del@3159,ins@2917,ins@1945,ins@830
+MH616692.2__D3_12	MH616692.2	D3	12	4919	del@4718,ins@4060,ins@3598,del@3570,ins@3454,ins@3124,del@2585,del@2213,ins@1429,del@997,ins@386,del@160
+MH616692.2__D4_1	MH616692.2	D4	1	4919	k=1 of nominal; g5:stop@codon131
+MH616692.2__D4_3	MH616692.2	D4	3	4919	k=3 of nominal; g0:stop@codon285,g4:start-removed,g2:start-removed
+MH616692.2__D4_6	MH616692.2	D4	6	4919	k=4 of nominal; g0:start-removed,g4:stop@codon78,g2:start-removed,g1:start-removed
+MH616692.2__D5_1	MH616692.2	D5	1	4424	k=1; genes [5] removed (495 letters)
+MH616692.2__D5_3	MH616692.2	D5	3	2058	k=3; genes [0, 1, 3] removed (2861 letters)
+MH616692.2__D5_6	MH616692.2	D5	6	1964	k=4; genes [1, 2, 3, 4] removed (2955 letters)
+MH616692.2__D6_2	MH616692.2	D6	2	4919	2 cuts at [997, 3834], order [0, 1], flips [0, 1]
+MH616692.2__D6_4	MH616692.2	D6	4	4919	4 cuts at [235, 1039, 1403, 1504], order [1, 2, 3, 0], flips [0, 1, 0, 1]
+MH616692.2__D6_8	MH616692.2	D6	8	4919	8 cuts at [346, 464, 604, 1460, 3042, 3168, 3749, 4079], order [0, 6, 3, 4, 7, 1, 2, 5], flips [0, 0, 1, 1, 1, 0, 0, 0]
+MH616692.2__D7_25	MH616692.2	D7	25	4919	362 codons shuffled within genes (start and stop kept)
+MH616692.2__D7_50	MH616692.2	D7	50	4919	725 codons shuffled within genes (start and stop kept)
+MH616692.2__D7_100	MH616692.2	D7	100	4919	1451 codons shuffled within genes (start and stop kept)
+MH616692.2__D8_1	MH616692.2	D8	1	4919	order-5 chain from calibration genomes
+MH616692.2__D9_1	MH616692.2	D9	1	5060	window of GCF_000006765.1 at 4740477
+MH616692.2__D10_revcomp	MH616692.2	D10	revcomp	4919	reverse complement
+MH616692.2__D10_rotation	MH616692.2	D10	rotation	4919	rotated by 2082
+MH617265.1__natural	MH617265.1	natural	-	4804	
+MH617265.1__D1_10	MH617265.1	D1	10	4804	132 codons swapped of 1325 swappable
+MH617265.1__D1_30	MH617265.1	D1	30	4804	398 codons swapped of 1325 swappable
+MH617265.1__D2_0.5	MH617265.1	D2	0.5	4804	24 substitutions
+MH617265.1__D2_1	MH617265.1	D2	1	4804	48 substitutions
+MH617265.1__D2_2	MH617265.1	D2	2	4804	96 substitutions
+MH617265.1__D2_5	MH617265.1	D2	5	4804	240 substitutions
+MH617265.1__D2_10	MH617265.1	D2	10	4804	480 substitutions
+MH617265.1__D3_1	MH617265.1	D3	1	4805	ins@3848
+MH617265.1__D3_3	MH617265.1	D3	3	4807	ins@4000,ins@920,ins@856
+MH617265.1__D3_6	MH617265.1	D3	6	4808	ins@3355,ins@3010,ins@2928,ins@773,ins@660,del@304
+MH617265.1__D3_12	MH617265.1	D3	12	4806	ins@3755,ins@3161,del@2752,ins@2705,del@2208,del@1893,ins@1545,del@1081,ins@962,ins@883,del@699,ins@383
+MH617265.1__D4_1	MH617265.1	D4	1	4804	k=1 of nominal; g5:start-removed
+MH617265.1__D4_3	MH617265.1	D4	3	4804	k=3 of nominal; g3:stop@codon13,g1:stop@codon69,g4:start-removed
+MH617265.1__D4_6	MH617265.1	D4	6	4804	k=4 of nominal; g2:stop@codon394,g4:stop@codon162,g3:start-removed,g0:stop@codon45
+MH617265.1__D5_1	MH617265.1	D5	1	4375	k=1; genes [5] removed (429 letters)
+MH617265.1__D5_3	MH617265.1	D5	3	2557	k=3; genes [2, 5, 6] removed (2247 letters)
+MH617265.1__D5_6	MH617265.1	D5	6	2120	k=5; genes [1, 2, 3, 5, 6] removed (2684 letters)
+MH617265.1__D6_2	MH617265.1	D6	2	4804	2 cuts at [2303, 3532], order [1, 0], flips [1, 0]
+MH617265.1__D6_4	MH617265.1	D6	4	4804	4 cuts at [1657, 1826, 3102, 4589], order [1, 2, 0, 3], flips [0, 0, 0, 1]
+MH617265.1__D6_8	MH617265.1	D6	8	4804	8 cuts at [308, 388, 390, 675, 945, 1014, 2426, 3058], order [4, 1, 2, 7, 0, 5, 3, 6], flips [1, 1, 1, 0, 0, 1, 0, 1]
+MH617265.1__D7_25	MH617265.1	D7	25	4804	349 codons shuffled within genes (start and stop kept)
+MH617265.1__D7_50	MH617265.1	D7	50	4804	699 codons shuffled within genes (start and stop kept)
+MH617265.1__D7_100	MH617265.1	D7	100	4804	1400 codons shuffled within genes (start and stop kept)
+MH617265.1__D8_1	MH617265.1	D8	1	4804	order-5 chain from calibration genomes
+MH617265.1__D9_1	MH617265.1	D9	1	5746	window of NC_001416.1 at 29594
+MH617265.1__D10_revcomp	MH617265.1	D10	revcomp	4804	reverse complement
+MH617265.1__D10_rotation	MH617265.1	D10	rotation	4804	rotated by 2753
+MH617473.2__natural	MH617473.2	natural	-	4857	
+MH617473.2__D1_10	MH617473.2	D1	10	4857	143 codons swapped of 1434 swappable
+MH617473.2__D1_30	MH617473.2	D1	30	4857	430 codons swapped of 1434 swappable
+MH617473.2__D2_0.5	MH617473.2	D2	0.5	4857	24 substitutions
+MH617473.2__D2_1	MH617473.2	D2	1	4857	49 substitutions
+MH617473.2__D2_2	MH617473.2	D2	2	4857	97 substitutions
+MH617473.2__D2_5	MH617473.2	D2	5	4857	243 substitutions
+MH617473.2__D2_10	MH617473.2	D2	10	4857	486 substitutions
+MH617473.2__D3_1	MH617473.2	D3	1	4858	ins@1533
+MH617473.2__D3_3	MH617473.2	D3	3	4856	del@2993,ins@1422,del@453
+MH617473.2__D3_6	MH617473.2	D3	6	4855	del@4797,ins@3436,ins@2087,del@2046,del@1512,del@648
+MH617473.2__D3_12	MH617473.2	D3	12	4857	del@4359,del@3900,ins@3319,del@3063,del@2800,ins@2610,ins@1744,ins@1538,ins@1131,ins@749,del@537,del@179
+MH617473.2__D4_1	MH617473.2	D4	1	4857	k=1 of nominal; g4:start-removed
+MH617473.2__D4_3	MH617473.2	D4	3	4857	k=3 of nominal; g5:stop@codon6,g7:stop@codon43,g4:start-removed
+MH617473.2__D4_6	MH617473.2	D4	6	4857	k=6 of nominal; g2:stop@codon300,g6:start-removed,g3:stop@codon171,g0:stop@codon95,g7:stop@codon2,g5:stop@codon38
+MH617473.2__D5_1	MH617473.2	D5	1	4698	k=1; genes [4] removed (159 letters)
+MH617473.2__D5_3	MH617473.2	D5	3	4251	k=3; genes [1, 4, 7] removed (606 letters)
+MH617473.2__D5_6	MH617473.2	D5	6	1349	k=6; genes [1, 2, 3, 4, 6, 7] removed (3508 letters)
+MH617473.2__D6_2	MH617473.2	D6	2	4857	2 cuts at [3044, 4676], order [1, 0], flips [0, 1]
+MH617473.2__D6_4	MH617473.2	D6	4	4857	4 cuts at [1311, 2443, 2909, 4462], order [1, 3, 2, 0], flips [0, 1, 0, 0]
+MH617473.2__D6_8	MH617473.2	D6	8	4857	8 cuts at [382, 692, 973, 1244, 2512, 2866, 3403, 3890], order [4, 0, 2, 7, 3, 6, 5, 1], flips [0, 0, 1, 0, 1, 0, 0, 1]
+MH617473.2__D7_25	MH617473.2	D7	25	4857	384 codons shuffled within genes (start and stop kept)
+MH617473.2__D7_50	MH617473.2	D7	50	4857	768 codons shuffled within genes (start and stop kept)
+MH617473.2__D7_100	MH617473.2	D7	100	4857	1535 codons shuffled within genes (start and stop kept)
+MH617473.2__D8_1	MH617473.2	D8	1	4857	order-5 chain from calibration genomes
+MH617473.2__D9_1	MH617473.2	D9	1	5838	window of GCF_000240185.1 at 4951751
+MH617473.2__D10_revcomp	MH617473.2	D10	revcomp	4857	reverse complement
+MH617473.2__D10_rotation	MH617473.2	D10	rotation	4857	rotated by 1137
+MK249149.1__natural	MK249149.1	natural	-	4565	
+MK249149.1__D1_10	MK249149.1	D1	10	4565	131 codons swapped of 1314 swappable
+MK249149.1__D1_30	MK249149.1	D1	30	4565	394 codons swapped of 1314 swappable
+MK249149.1__D2_0.5	MK249149.1	D2	0.5	4565	23 substitutions
+MK249149.1__D2_1	MK249149.1	D2	1	4565	46 substitutions
+MK249149.1__D2_2	MK249149.1	D2	2	4565	91 substitutions
+MK249149.1__D2_5	MK249149.1	D2	5	4565	228 substitutions
+MK249149.1__D2_10	MK249149.1	D2	10	4565	456 substitutions
+MK249149.1__D3_1	MK249149.1	D3	1	4564	del@2036
+MK249149.1__D3_3	MK249149.1	D3	3	4564	ins@3967,del@2606,del@258
+MK249149.1__D3_6	MK249149.1	D3	6	4563	del@3896,del@3810,del@2889,del@2351,ins@2080,ins@91
+MK249149.1__D3_12	MK249149.1	D3	12	4565	ins@3922,ins@3563,ins@2974,ins@2090,del@1689,del@1513,del@1422,del@1398,ins@1361,ins@1302,del@714,del@547
+MK249149.1__D4_1	MK249149.1	D4	1	4565	k=1 of nominal; g2:start-removed
+MK249149.1__D4_3	MK249149.1	D4	3	4565	k=3 of nominal; g3:start-removed,g4:start-removed,g0:start-removed
+MK249149.1__D4_6	MK249149.1	D4	6	4565	k=4 of nominal; g4:start-removed,g1:stop@codon28,g2:start-removed,g0:stop@codon179
+MK249149.1__D5_1	MK249149.1	D5	1	3839	k=1; genes [0] removed (726 letters)
+MK249149.1__D5_3	MK249149.1	D5	3	3704	k=3; genes [1, 5, 6] removed (861 letters)
+MK249149.1__D5_6	MK249149.1	D5	6	762	k=5; genes [0, 1, 3, 4, 5] removed (3803 letters)
+MK249149.1__D6_2	MK249149.1	D6	2	4565	2 cuts at [632, 3027], order [1, 0], flips [0, 1]
+MK249149.1__D6_4	MK249149.1	D6	4	4565	4 cuts at [194, 340, 2308, 4545], order [2, 3, 0, 1], flips [1, 1, 1, 1]
+MK249149.1__D6_8	MK249149.1	D6	8	4565	8 cuts at [369, 728, 814, 984, 1066, 1330, 2836, 4359], order [7, 1, 0, 2, 4, 5, 6, 3], flips [0, 0, 0, 0, 0, 0, 1, 0]
+MK249149.1__D7_25	MK249149.1	D7	25	4565	337 codons shuffled within genes (start and stop kept)
+MK249149.1__D7_50	MK249149.1	D7	50	4565	675 codons shuffled within genes (start and stop kept)
+MK249149.1__D7_100	MK249149.1	D7	100	4565	1352 codons shuffled within genes (start and stop kept)
+MK249149.1__D8_1	MK249149.1	D8	1	4565	order-5 chain from calibration genomes
+MK249149.1__D9_1	MK249149.1	D9	1	5430	window of NC_002371.2 at 13495
+MK249149.1__D10_revcomp	MK249149.1	D10	revcomp	4565	reverse complement
+MK249149.1__D10_rotation	MK249149.1	D10	rotation	4565	rotated by 2399
+MK496793.1__natural	MK496793.1	natural	-	5235	
+MK496793.1__D1_10	MK496793.1	D1	10	5235	147 codons swapped of 1474 swappable
+MK496793.1__D1_30	MK496793.1	D1	30	5235	442 codons swapped of 1474 swappable
+MK496793.1__D2_0.5	MK496793.1	D2	0.5	5235	26 substitutions
+MK496793.1__D2_1	MK496793.1	D2	1	5235	52 substitutions
+MK496793.1__D2_2	MK496793.1	D2	2	5235	105 substitutions
+MK496793.1__D2_5	MK496793.1	D2	5	5235	262 substitutions
+MK496793.1__D2_10	MK496793.1	D2	10	5235	524 substitutions
+MK496793.1__D3_1	MK496793.1	D3	1	5234	del@3355
+MK496793.1__D3_3	MK496793.1	D3	3	5234	del@2621,ins@1842,del@583
+MK496793.1__D3_6	MK496793.1	D3	6	5233	ins@4801,del@4785,ins@3019,del@2876,del@2330,del@1997
+MK496793.1__D3_12	MK496793.1	D3	12	5235	ins@4871,ins@4348,del@3818,ins@3496,del@3486,ins@3387,del@2987,del@2336,ins@2313,ins@1770,del@544,del@21
+MK496793.1__D4_1	MK496793.1	D4	1	5235	k=1 of nominal; g2:start-removed
+MK496793.1__D4_3	MK496793.1	D4	3	5235	k=3 of nominal; g1:stop@codon11,g7:stop@codon108,g2:start-removed
+MK496793.1__D4_6	MK496793.1	D4	6	5235	k=5 of nominal; g2:start-removed,g6:stop@codon173,g4:start-removed,g0:stop@codon245,g5:start-removed
+MK496793.1__D5_1	MK496793.1	D5	1	3651	k=1; genes [6] removed (1584 letters)
+MK496793.1__D5_3	MK496793.1	D5	3	2202	k=3; genes [0, 6, 7] removed (3033 letters)
+MK496793.1__D5_6	MK496793.1	D5	6	1991	k=6; genes [1, 3, 4, 5, 6, 7] removed (3244 letters)
+MK496793.1__D6_2	MK496793.1	D6	2	5235	2 cuts at [932, 1475], order [0, 1], flips [0, 1]
+MK496793.1__D6_4	MK496793.1	D6	4	5235	4 cuts at [1055, 2018, 2932, 3405], order [2, 1, 0, 3], flips [0, 1, 1, 1]
+MK496793.1__D6_8	MK496793.1	D6	8	5235	8 cuts at [426, 616, 748, 1288, 2640, 3651, 3926, 5210], order [5, 6, 2, 3, 4, 1, 7, 0], flips [1, 1, 0, 1, 0, 0, 0, 0]
+MK496793.1__D7_25	MK496793.1	D7	25	5235	382 codons shuffled within genes (start and stop kept)
+MK496793.1__D7_50	MK496793.1	D7	50	5235	761 codons shuffled within genes (start and stop kept)
+MK496793.1__D7_100	MK496793.1	D7	100	5235	1519 codons shuffled within genes (start and stop kept)
+MK496793.1__D8_1	MK496793.1	D8	1	5235	order-5 chain from calibration genomes
+MK496793.1__D9_1	MK496793.1	D9	1	5791	window of GCF_000240185.1 at 2585742
+MK496793.1__D10_revcomp	MK496793.1	D10	revcomp	5235	reverse complement
+MK496793.1__D10_rotation	MK496793.1	D10	rotation	5235	rotated by 1225
+MK496799.1__natural	MK496799.1	natural	-	5129	
+MK496799.1__D1_10	MK496799.1	D1	10	5129	152 codons swapped of 1523 swappable
+MK496799.1__D1_30	MK496799.1	D1	30	5129	457 codons swapped of 1523 swappable
+MK496799.1__D2_0.5	MK496799.1	D2	0.5	5129	26 substitutions
+MK496799.1__D2_1	MK496799.1	D2	1	5129	51 substitutions
+MK496799.1__D2_2	MK496799.1	D2	2	5129	103 substitutions
+MK496799.1__D2_5	MK496799.1	D2	5	5129	256 substitutions
+MK496799.1__D2_10	MK496799.1	D2	10	5129	513 substitutions
+MK496799.1__D3_1	MK496799.1	D3	1	5128	del@3066
+MK496799.1__D3_3	MK496799.1	D3	3	5130	ins@4752,ins@3746,del@1131
+MK496799.1__D3_6	MK496799.1	D3	6	5127	del@4042,ins@3021,del@2683,del@2097,ins@417,del@117
+MK496799.1__D3_12	MK496799.1	D3	12	5131	del@4492,del@4187,del@3354,ins@3310,ins@2347,ins@2161,ins@1832,ins@887,del@835,ins@326,del@261,ins@145
+MK496799.1__D4_1	MK496799.1	D4	1	5129	k=1 of nominal; g5:start-removed
+MK496799.1__D4_3	MK496799.1	D4	3	5129	k=3 of nominal; g5:stop@codon535,g0:stop@codon302,g3:stop@codon45
+MK496799.1__D4_6	MK496799.1	D4	6	5129	k=4 of nominal; g4:start-removed,g6:start-removed,g3:start-removed,g1:stop@codon88
+MK496799.1__D5_1	MK496799.1	D5	1	4856	k=1; genes [1] removed (273 letters)
+MK496799.1__D5_3	MK496799.1	D5	3	2872	k=3; genes [2, 4, 5] removed (2257 letters)
+MK496799.1__D5_6	MK496799.1	D5	6	1706	k=5; genes [2, 3, 4, 5, 6] removed (3423 letters)
+MK496799.1__D6_2	MK496799.1	D6	2	5129	2 cuts at [775, 3643], order [0, 1], flips [1, 0]
+MK496799.1__D6_4	MK496799.1	D6	4	5129	4 cuts at [367, 2078, 3085, 4362], order [0, 3, 1, 2], flips [0, 1, 1, 1]
+MK496799.1__D6_8	MK496799.1	D6	8	5129	8 cuts at [86, 1173, 1303, 1972, 2160, 2554, 3645, 4979], order [4, 2, 3, 6, 5, 1, 0, 7], flips [1, 0, 1, 1, 1, 0, 0, 0]
+MK496799.1__D7_25	MK496799.1	D7	25	5129	393 codons shuffled within genes (start and stop kept)
+MK496799.1__D7_50	MK496799.1	D7	50	5129	786 codons shuffled within genes (start and stop kept)
+MK496799.1__D7_100	MK496799.1	D7	100	5129	1575 codons shuffled within genes (start and stop kept)
+MK496799.1__D8_1	MK496799.1	D8	1	5129	order-5 chain from calibration genomes
+MK496799.1__D9_1	MK496799.1	D9	1	5318	window of NC_011048.1 at 6770
+MK496799.1__D10_revcomp	MK496799.1	D10	revcomp	5129	reverse complement
+MK496799.1__D10_rotation	MK496799.1	D10	rotation	5129	rotated by 4059
+MT135261.1__natural	MT135261.1	natural	-	5054	
+MT135261.1__D1_10	MT135261.1	D1	10	5054	145 codons swapped of 1449 swappable
+MT135261.1__D1_30	MT135261.1	D1	30	5054	435 codons swapped of 1449 swappable
+MT135261.1__D2_0.5	MT135261.1	D2	0.5	5054	25 substitutions
+MT135261.1__D2_1	MT135261.1	D2	1	5054	51 substitutions
+MT135261.1__D2_2	MT135261.1	D2	2	5054	101 substitutions
+MT135261.1__D2_5	MT135261.1	D2	5	5054	253 substitutions
+MT135261.1__D2_10	MT135261.1	D2	10	5054	505 substitutions
+MT135261.1__D3_1	MT135261.1	D3	1	5053	del@627
+MT135261.1__D3_3	MT135261.1	D3	3	5055	ins@3244,ins@2889,del@796
+MT135261.1__D3_6	MT135261.1	D3	6	5054	del@4375,ins@3418,ins@2908,ins@1593,del@1330,del@1268
+MT135261.1__D3_12	MT135261.1	D3	12	5054	ins@4943,ins@4792,del@4310,del@4278,del@2546,del@2207,del@1496,ins@1033,ins@844,del@734,ins@624,ins@334
+MT135261.1__D4_1	MT135261.1	D4	1	5054	k=1 of nominal; g2:start-removed
+MT135261.1__D4_3	MT135261.1	D4	3	5054	k=3 of nominal; g2:stop@codon48,g0:start-removed,g5:stop@codon147
+MT135261.1__D4_6	MT135261.1	D4	6	5054	k=4 of nominal; g6:start-removed,g2:start-removed,g0:start-removed,g5:stop@codon462
+MT135261.1__D5_1	MT135261.1	D5	1	4070	k=1; genes [0] removed (984 letters)
+MT135261.1__D5_3	MT135261.1	D5	3	2084	k=3; genes [4, 5, 6] removed (2970 letters)
+MT135261.1__D5_6	MT135261.1	D5	6	3259	k=5; genes [1, 2, 3, 4, 6] removed (1795 letters)
+MT135261.1__D6_2	MT135261.1	D6	2	5054	2 cuts at [3781, 4569], order [1, 0], flips [1, 0]
+MT135261.1__D6_4	MT135261.1	D6	4	5054	4 cuts at [214, 974, 2298, 3479], order [0, 2, 1, 3], flips [0, 0, 1, 1]
+MT135261.1__D6_8	MT135261.1	D6	8	5054	8 cuts at [288, 939, 2659, 3081, 3482, 3757, 4053, 4336], order [6, 2, 1, 4, 7, 3, 0, 5], flips [1, 0, 1, 0, 0, 1, 1, 1]
+MT135261.1__D7_25	MT135261.1	D7	25	5054	376 codons shuffled within genes (start and stop kept)
+MT135261.1__D7_50	MT135261.1	D7	50	5054	750 codons shuffled within genes (start and stop kept)
+MT135261.1__D7_100	MT135261.1	D7	100	5054	1499 codons shuffled within genes (start and stop kept)
+MT135261.1__D8_1	MT135261.1	D8	1	5054	order-5 chain from calibration genomes
+MT135261.1__D9_1	MT135261.1	D9	1	5365	window of GCF_000006765.1 at 968973
+MT135261.1__D10_revcomp	MT135261.1	D10	revcomp	5054	reverse complement
+MT135261.1__D10_rotation	MT135261.1	D10	rotation	5054	rotated by 3678
+MT135264.1__natural	MT135264.1	natural	-	5025	
+MT135264.1__D1_10	MT135264.1	D1	10	5025	152 codons swapped of 1521 swappable
+MT135264.1__D1_30	MT135264.1	D1	30	5025	456 codons swapped of 1521 swappable
+MT135264.1__D2_0.5	MT135264.1	D2	0.5	5025	25 substitutions
+MT135264.1__D2_1	MT135264.1	D2	1	5025	50 substitutions
+MT135264.1__D2_2	MT135264.1	D2	2	5025	100 substitutions
+MT135264.1__D2_5	MT135264.1	D2	5	5025	251 substitutions
+MT135264.1__D2_10	MT135264.1	D2	10	5025	502 substitutions
+MT135264.1__D3_1	MT135264.1	D3	1	5026	ins@1628
+MT135264.1__D3_3	MT135264.1	D3	3	5024	del@3438,ins@1663,del@1136
+MT135264.1__D3_6	MT135264.1	D3	6	5025	ins@4146,del@3396,ins@3142,del@2494,ins@94,del@45
+MT135264.1__D3_12	MT135264.1	D3	12	5023	ins@4704,del@3942,del@3460,del@2813,del@2261,ins@1426,del@1098,del@886,del@624,ins@334,ins@126,ins@120
+MT135264.1__D4_1	MT135264.1	D4	1	5025	k=1 of nominal; g4:start-removed
+MT135264.1__D4_3	MT135264.1	D4	3	5025	k=3 of nominal; g2:start-removed,g6:start-removed,g4:stop@codon118
+MT135264.1__D4_6	MT135264.1	D4	6	5025	k=4 of nominal; g2:start-removed,g4:stop@codon122,g6:stop@codon43,g5:stop@codon287
+MT135264.1__D5_1	MT135264.1	D5	1	3363	k=1; genes [5] removed (1662 letters)
+MT135264.1__D5_3	MT135264.1	D5	3	3663	k=3; genes [1, 3, 6] removed (1362 letters)
+MT135264.1__D5_6	MT135264.1	D5	6	2278	k=5; genes [1, 2, 3, 4, 5] removed (2747 letters)
+MT135264.1__D6_2	MT135264.1	D6	2	5025	2 cuts at [3508, 4923], order [0, 1], flips [1, 0]
+MT135264.1__D6_4	MT135264.1	D6	4	5025	4 cuts at [189, 2101, 3038, 4915], order [0, 1, 2, 3], flips [1, 1, 0, 1]
+MT135264.1__D6_8	MT135264.1	D6	8	5025	8 cuts at [279, 1258, 1396, 2131, 2192, 2435, 2497, 3423], order [2, 5, 4, 7, 0, 6, 3, 1], flips [0, 1, 0, 1, 0, 1, 0, 1]
+MT135264.1__D7_25	MT135264.1	D7	25	5025	398 codons shuffled within genes (start and stop kept)
+MT135264.1__D7_50	MT135264.1	D7	50	5025	795 codons shuffled within genes (start and stop kept)
+MT135264.1__D7_100	MT135264.1	D7	100	5025	1590 codons shuffled within genes (start and stop kept)
+MT135264.1__D8_1	MT135264.1	D8	1	5025	order-5 chain from calibration genomes
+MT135264.1__D9_1	MT135264.1	D9	1	5648	window of NC_005856.1 at 66902
+MT135264.1__D10_revcomp	MT135264.1	D10	revcomp	5025	reverse complement
+MT135264.1__D10_rotation	MT135264.1	D10	rotation	5025	rotated by 2442
+MT135265.1__natural	MT135265.1	natural	-	4717	
+MT135265.1__D1_10	MT135265.1	D1	10	4717	135 codons swapped of 1353 swappable
+MT135265.1__D1_30	MT135265.1	D1	30	4717	406 codons swapped of 1353 swappable
+MT135265.1__D2_0.5	MT135265.1	D2	0.5	4717	24 substitutions
+MT135265.1__D2_1	MT135265.1	D2	1	4717	47 substitutions
+MT135265.1__D2_2	MT135265.1	D2	2	4717	94 substitutions
+MT135265.1__D2_5	MT135265.1	D2	5	4717	236 substitutions
+MT135265.1__D2_10	MT135265.1	D2	10	4717	472 substitutions
+MT135265.1__D3_1	MT135265.1	D3	1	4716	del@1926
+MT135265.1__D3_3	MT135265.1	D3	3	4718	del@3566,ins@3441,ins@1225
+MT135265.1__D3_6	MT135265.1	D3	6	4717	del@3736,ins@2581,ins@2100,del@1878,ins@1791,del@1260
+MT135265.1__D3_12	MT135265.1	D3	12	4719	ins@4324,del@4321,ins@4236,del@3241,del@3185,del@2600,del@2503,ins@1847,ins@1635,ins@1156,ins@763,ins@26
+MT135265.1__D4_1	MT135265.1	D4	1	4717	k=1 of nominal; g3:start-removed
+MT135265.1__D4_3	MT135265.1	D4	3	4717	k=3 of nominal; g4:start-removed,g3:start-removed,g5:stop@codon115
+MT135265.1__D4_6	MT135265.1	D4	6	4717	k=4 of nominal; g3:start-removed,g0:stop@codon188,g4:stop@codon73,g2:stop@codon26
+MT135265.1__D5_1	MT135265.1	D5	1	4096	k=1; genes [2] removed (621 letters)
+MT135265.1__D5_3	MT135265.1	D5	3	3082	k=3; genes [0, 3, 5] removed (1635 letters)
+MT135265.1__D5_6	MT135265.1	D5	6	2461	k=4; genes [0, 2, 3, 5] removed (2256 letters)
+MT135265.1__D6_2	MT135265.1	D6	2	4717	2 cuts at [832, 1991], order [0, 1], flips [1, 0]
+MT135265.1__D6_4	MT135265.1	D6	4	4717	4 cuts at [1001, 1141, 3191, 3443], order [2, 1, 3, 0], flips [1, 1, 1, 1]
+MT135265.1__D6_8	MT135265.1	D6	8	4717	8 cuts at [181, 1603, 2590, 2628, 2854, 3106, 4169, 4549], order [4, 1, 0, 6, 5, 3, 7, 2], flips [1, 1, 0, 0, 0, 1, 0, 0]
+MT135265.1__D7_25	MT135265.1	D7	25	4717	346 codons shuffled within genes (start and stop kept)
+MT135265.1__D7_50	MT135265.1	D7	50	4717	692 codons shuffled within genes (start and stop kept)
+MT135265.1__D7_100	MT135265.1	D7	100	4717	1389 codons shuffled within genes (start and stop kept)
+MT135265.1__D8_1	MT135265.1	D8	1	4717	order-5 chain from calibration genomes
+MT135265.1__D9_1	MT135265.1	D9	1	5544	window of GCF_000006945.2 at 3530427
+MT135265.1__D10_revcomp	MT135265.1	D10	revcomp	4717	reverse complement
+MT135265.1__D10_rotation	MT135265.1	D10	rotation	4717	rotated by 638
+MT135277.1__natural	MT135277.1	natural	-	5565	
+MT135277.1__D1_10	MT135277.1	D1	10	5565	152 codons swapped of 1516 swappable
+MT135277.1__D1_30	MT135277.1	D1	30	5565	455 codons swapped of 1516 swappable
+MT135277.1__D2_0.5	MT135277.1	D2	0.5	5565	28 substitutions
+MT135277.1__D2_1	MT135277.1	D2	1	5565	56 substitutions
+MT135277.1__D2_2	MT135277.1	D2	2	5565	111 substitutions
+MT135277.1__D2_5	MT135277.1	D2	5	5565	278 substitutions
+MT135277.1__D2_10	MT135277.1	D2	10	5565	556 substitutions
+MT135277.1__D3_1	MT135277.1	D3	1	5564	del@4007
+MT135277.1__D3_3	MT135277.1	D3	3	5568	ins@5036,ins@3551,ins@2553
+MT135277.1__D3_6	MT135277.1	D3	6	5565	del@5051,ins@3318,del@1727,ins@1724,ins@960,del@883
+MT135277.1__D3_12	MT135277.1	D3	12	5565	del@5414,del@5407,ins@4974,del@4336,del@3604,ins@3253,ins@2675,ins@2563,ins@2385,ins@790,del@702,del@372
+MT135277.1__D4_1	MT135277.1	D4	1	5565	k=1 of nominal; g7:stop@codon87
+MT135277.1__D4_3	MT135277.1	D4	3	5565	k=3 of nominal; g0:stop@codon38,g7:stop@codon29,g5:start-removed
+MT135277.1__D4_6	MT135277.1	D4	6	5565	k=6 of nominal; g2:stop@codon10,g8:stop@codon23,g6:start-removed,g5:stop@codon18,g1:start-removed,g7:start-removed
+MT135277.1__D5_1	MT135277.1	D5	1	5388	k=1; genes [2] removed (177 letters)
+MT135277.1__D5_3	MT135277.1	D5	3	4293	k=3; genes [2, 5, 8] removed (1272 letters)
+MT135277.1__D5_6	MT135277.1	D5	6	2676	k=6; genes [0, 1, 2, 3, 6, 8] removed (2889 letters)
+MT135277.1__D6_2	MT135277.1	D6	2	5565	2 cuts at [4526, 5161], order [0, 1], flips [1, 0]
+MT135277.1__D6_4	MT135277.1	D6	4	5565	4 cuts at [1436, 1721, 1871, 3701], order [3, 0, 2, 1], flips [0, 0, 1, 0]
+MT135277.1__D6_8	MT135277.1	D6	8	5565	8 cuts at [637, 737, 2162, 2463, 2741, 2964, 3770, 5251], order [4, 1, 0, 7, 6, 5, 3, 2], flips [0, 0, 1, 1, 1, 0, 1, 0]
+MT135277.1__D7_25	MT135277.1	D7	25	5565	405 codons shuffled within genes (start and stop kept)
+MT135277.1__D7_50	MT135277.1	D7	50	5565	810 codons shuffled within genes (start and stop kept)
+MT135277.1__D7_100	MT135277.1	D7	100	5565	1623 codons shuffled within genes (start and stop kept)
+MT135277.1__D8_1	MT135277.1	D8	1	5565	order-5 chain from calibration genomes
+MT135277.1__D9_1	MT135277.1	D9	1	5386	window of NC_001604.1 at 18814
+MT135277.1__D10_revcomp	MT135277.1	D10	revcomp	5565	reverse complement
+MT135277.1__D10_rotation	MT135277.1	D10	rotation	5565	rotated by 1866
+MT202207.1__natural	MT202207.1	natural	-	4642	
+MT202207.1__D1_10	MT202207.1	D1	10	4642	135 codons swapped of 1354 swappable
+MT202207.1__D1_30	MT202207.1	D1	30	4642	406 codons swapped of 1354 swappable
+MT202207.1__D2_0.5	MT202207.1	D2	0.5	4642	23 substitutions
+MT202207.1__D2_1	MT202207.1	D2	1	4642	46 substitutions
+MT202207.1__D2_2	MT202207.1	D2	2	4642	93 substitutions
+MT202207.1__D2_5	MT202207.1	D2	5	4642	232 substitutions
+MT202207.1__D2_10	MT202207.1	D2	10	4642	464 substitutions
+MT202207.1__D3_1	MT202207.1	D3	1	4641	del@2643
+MT202207.1__D3_3	MT202207.1	D3	3	4641	del@3999,ins@2071,del@179
+MT202207.1__D3_6	MT202207.1	D3	6	4644	ins@4348,ins@3366,ins@2497,del@1448,del@943,ins@254
+MT202207.1__D3_12	MT202207.1	D3	12	4640	ins@3739,del@3658,del@3117,del@2486,del@1622,del@1520,del@1507,del@969,ins@964,ins@809,ins@150,ins@147
+MT202207.1__D4_1	MT202207.1	D4	1	4642	k=1 of nominal; g5:start-removed
+MT202207.1__D4_3	MT202207.1	D4	3	4642	k=3 of nominal; g4:start-removed,g1:start-removed,g5:start-removed
+MT202207.1__D4_6	MT202207.1	D4	6	4642	k=4 of nominal; g1:start-removed,g5:start-removed,g3:stop@codon206,g0:start-removed
+MT202207.1__D5_1	MT202207.1	D5	1	3019	k=1; genes [2] removed (1623 letters)
+MT202207.1__D5_3	MT202207.1	D5	3	1648	k=3; genes [0, 2, 4] removed (2994 letters)
+MT202207.1__D5_6	MT202207.1	D5	6	841	k=4; genes [0, 2, 3, 4] removed (3801 letters)
+MT202207.1__D6_2	MT202207.1	D6	2	4642	2 cuts at [2676, 4217], order [1, 0], flips [0, 1]
+MT202207.1__D6_4	MT202207.1	D6	4	4642	4 cuts at [819, 2408, 4034, 4372], order [3, 0, 1, 2], flips [1, 1, 0, 1]
+MT202207.1__D6_8	MT202207.1	D6	8	4642	8 cuts at [503, 509, 840, 960, 1894, 2528, 2858, 3848], order [6, 4, 3, 1, 5, 0, 7, 2], flips [1, 0, 0, 1, 1, 1, 0, 1]
+MT202207.1__D7_25	MT202207.1	D7	25	4642	354 codons shuffled within genes (start and stop kept)
+MT202207.1__D7_50	MT202207.1	D7	50	4642	709 codons shuffled within genes (start and stop kept)
+MT202207.1__D7_100	MT202207.1	D7	100	4642	1415 codons shuffled within genes (start and stop kept)
+MT202207.1__D8_1	MT202207.1	D8	1	4642	order-5 chain from calibration genomes
+MT202207.1__D9_1	MT202207.1	D9	1	5689	window of GCF_000240185.1 at 5320129
+MT202207.1__D10_revcomp	MT202207.1	D10	revcomp	4642	reverse complement
+MT202207.1__D10_rotation	MT202207.1	D10	rotation	4642	rotated by 470
+MT203029.1__natural	MT203029.1	natural	-	4386	
+MT203029.1__D1_10	MT203029.1	D1	10	4386	133 codons swapped of 1328 swappable
+MT203029.1__D1_30	MT203029.1	D1	30	4386	398 codons swapped of 1328 swappable
+MT203029.1__D2_0.5	MT203029.1	D2	0.5	4386	22 substitutions
+MT203029.1__D2_1	MT203029.1	D2	1	4386	44 substitutions
+MT203029.1__D2_2	MT203029.1	D2	2	4386	88 substitutions
+MT203029.1__D2_5	MT203029.1	D2	5	4386	219 substitutions
+MT203029.1__D2_10	MT203029.1	D2	10	4386	439 substitutions
+MT203029.1__D3_1	MT203029.1	D3	1	4387	ins@1908
+MT203029.1__D3_3	MT203029.1	D3	3	4387	ins@3086,del@2066,ins@643
+MT203029.1__D3_6	MT203029.1	D3	6	4386	del@3655,ins@2549,del@2094,ins@1798,ins@1439,del@307
+MT203029.1__D3_12	MT203029.1	D3	12	4386	ins@4252,ins@4194,del@4177,del@3959,ins@3825,ins@3330,ins@2455,del@1822,del@987,del@918,ins@408,del@43
+MT203029.1__D4_1	MT203029.1	D4	1	4386	k=1 of nominal; g3:start-removed
+MT203029.1__D4_3	MT203029.1	D4	3	4386	k=3 of nominal; g3:stop@codon53,g6:stop@codon114,g2:start-removed
+MT203029.1__D4_6	MT203029.1	D4	6	4386	k=4 of nominal; g5:start-removed,g3:stop@codon54,g2:stop@codon23,g0:stop@codon271
+MT203029.1__D5_1	MT203029.1	D5	1	3942	k=1; genes [4] removed (444 letters)
+MT203029.1__D5_3	MT203029.1	D5	3	1944	k=3; genes [3, 5, 6] removed (2442 letters)
+MT203029.1__D5_6	MT203029.1	D5	6	750	k=6; genes [0, 1, 2, 3, 5, 6] removed (3636 letters)
+MT203029.1__D6_2	MT203029.1	D6	2	4386	2 cuts at [1475, 4041], order [1, 0], flips [0, 1]
+MT203029.1__D6_4	MT203029.1	D6	4	4386	4 cuts at [136, 2931, 2990, 3968], order [3, 1, 2, 0], flips [1, 1, 0, 1]
+MT203029.1__D6_8	MT203029.1	D6	8	4386	8 cuts at [1187, 1208, 1326, 1496, 1533, 1900, 3611, 3935], order [3, 4, 5, 7, 2, 0, 1, 6], flips [0, 1, 1, 0, 1, 1, 1, 1]
+MT203029.1__D7_25	MT203029.1	D7	25	4386	347 codons shuffled within genes (start and stop kept)
+MT203029.1__D7_50	MT203029.1	D7	50	4386	697 codons shuffled within genes (start and stop kept)
+MT203029.1__D7_100	MT203029.1	D7	100	4386	1393 codons shuffled within genes (start and stop kept)
+MT203029.1__D8_1	MT203029.1	D8	1	4386	order-5 chain from calibration genomes
+MT203029.1__D9_1	MT203029.1	D9	1	5828	window of NC_003298.1 at 16827
+MT203029.1__D10_revcomp	MT203029.1	D10	revcomp	4386	reverse complement
+MT203029.1__D10_rotation	MT203029.1	D10	rotation	4386	rotated by 1588
+MT203873.1__natural	MT203873.1	natural	-	4397	
+MT203873.1__D1_10	MT203873.1	D1	10	4397	129 codons swapped of 1293 swappable
+MT203873.1__D1_30	MT203873.1	D1	30	4397	388 codons swapped of 1293 swappable
+MT203873.1__D2_0.5	MT203873.1	D2	0.5	4397	22 substitutions
+MT203873.1__D2_1	MT203873.1	D2	1	4397	44 substitutions
+MT203873.1__D2_2	MT203873.1	D2	2	4397	88 substitutions
+MT203873.1__D2_5	MT203873.1	D2	5	4397	220 substitutions
+MT203873.1__D2_10	MT203873.1	D2	10	4397	440 substitutions
+MT203873.1__D3_1	MT203873.1	D3	1	4398	ins@2393
+MT203873.1__D3_3	MT203873.1	D3	3	4396	ins@2270,del@1946,del@652
+MT203873.1__D3_6	MT203873.1	D3	6	4395	del@3556,ins@3037,del@1190,ins@575,del@378,del@101
+MT203873.1__D3_12	MT203873.1	D3	12	4399	ins@3916,del@3711,ins@3188,del@2532,ins@2257,ins@1663,del@1582,ins@1476,ins@1222,ins@1199,del@677,del@286
+MT203873.1__D4_1	MT203873.1	D4	1	4397	k=1 of nominal; g3:stop@codon82
+MT203873.1__D4_3	MT203873.1	D4	3	4397	k=3 of nominal; g5:start-removed,g3:start-removed,g4:start-removed
+MT203873.1__D4_6	MT203873.1	D4	6	4397	k=4 of nominal; g3:start-removed,g4:start-removed,g2:stop@codon525,g1:start-removed
+MT203873.1__D5_1	MT203873.1	D5	1	3587	k=1; genes [0] removed (810 letters)
+MT203873.1__D5_3	MT203873.1	D5	3	1325	k=3; genes [0, 2, 3] removed (3072 letters)
+MT203873.1__D5_6	MT203873.1	D5	6	2523	k=4; genes [0, 1, 4, 5] removed (1874 letters)
+MT203873.1__D6_2	MT203873.1	D6	2	4397	2 cuts at [210, 4324], order [1, 0], flips [1, 0]
+MT203873.1__D6_4	MT203873.1	D6	4	4397	4 cuts at [2944, 3740, 4179, 4278], order [3, 2, 1, 0], flips [1, 0, 0, 0]
+MT203873.1__D6_8	MT203873.1	D6	8	4397	8 cuts at [167, 706, 1592, 1868, 1950, 2021, 2762, 3244], order [7, 3, 5, 0, 6, 4, 1, 2], flips [0, 1, 0, 0, 1, 1, 0, 0]
+MT203873.1__D7_25	MT203873.1	D7	25	4397	349 codons shuffled within genes (start and stop kept)
+MT203873.1__D7_50	MT203873.1	D7	50	4397	698 codons shuffled within genes (start and stop kept)
+MT203873.1__D7_100	MT203873.1	D7	100	4397	1395 codons shuffled within genes (start and stop kept)
+MT203873.1__D8_1	MT203873.1	D8	1	4397	order-5 chain from calibration genomes
+MT203873.1__D9_1	MT203873.1	D9	1	5426	window of GCF_000006945.2 at 5028
+MT203873.1__D10_revcomp	MT203873.1	D10	revcomp	4397	reverse complement
+MT203873.1__D10_rotation	MT203873.1	D10	rotation	4397	rotated by 976
+MT204714.1__natural	MT204714.1	natural	-	4552	
+MT204714.1__D1_10	MT204714.1	D1	10	4552	135 codons swapped of 1353 swappable
+MT204714.1__D1_30	MT204714.1	D1	30	4552	406 codons swapped of 1353 swappable
+MT204714.1__D2_0.5	MT204714.1	D2	0.5	4552	23 substitutions
+MT204714.1__D2_1	MT204714.1	D2	1	4552	46 substitutions
+MT204714.1__D2_2	MT204714.1	D2	2	4552	91 substitutions
+MT204714.1__D2_5	MT204714.1	D2	5	4552	228 substitutions
+MT204714.1__D2_10	MT204714.1	D2	10	4552	455 substitutions
+MT204714.1__D3_1	MT204714.1	D3	1	4551	del@2610
+MT204714.1__D3_3	MT204714.1	D3	3	4553	ins@4086,del@966,ins@563
+MT204714.1__D3_6	MT204714.1	D3	6	4550	del@3977,del@3253,ins@2525,ins@2141,del@1405,del@130
+MT204714.1__D3_12	MT204714.1	D3	12	4556	ins@4176,ins@3997,ins@3987,del@3837,ins@2940,ins@2459,del@2118,del@1604,ins@929,del@928,ins@400,ins@23
+MT204714.1__D4_1	MT204714.1	D4	1	4552	k=1 of nominal; g3:start-removed
+MT204714.1__D4_3	MT204714.1	D4	3	4552	k=3 of nominal; g1:stop@codon46,g5:start-removed,g2:start-removed
+MT204714.1__D4_6	MT204714.1	D4	6	4552	k=4 of nominal; g2:start-removed,g4:start-removed,g0:start-removed,g1:start-removed
+MT204714.1__D5_1	MT204714.1	D5	1	3784	k=1; genes [3] removed (768 letters)
+MT204714.1__D5_3	MT204714.1	D5	3	1729	k=3; genes [0, 1, 2] removed (2823 letters)
+MT204714.1__D5_6	MT204714.1	D5	6	1681	k=4; genes [1, 2, 3, 5] removed (2871 letters)
+MT204714.1__D6_2	MT204714.1	D6	2	4552	2 cuts at [2023, 4530], order [0, 1], flips [0, 1]
+MT204714.1__D6_4	MT204714.1	D6	4	4552	4 cuts at [1352, 1957, 2920, 3632], order [0, 3, 2, 1], flips [1, 0, 0, 1]
+MT204714.1__D6_8	MT204714.1	D6	8	4552	8 cuts at [144, 190, 762, 1428, 1467, 3265, 3492, 4013], order [7, 2, 3, 6, 0, 4, 1, 5], flips [0, 1, 1, 1, 1, 0, 0, 0]
+MT204714.1__D7_25	MT204714.1	D7	25	4552	356 codons shuffled within genes (start and stop kept)
+MT204714.1__D7_50	MT204714.1	D7	50	4552	712 codons shuffled within genes (start and stop kept)
+MT204714.1__D7_100	MT204714.1	D7	100	4552	1422 codons shuffled within genes (start and stop kept)
+MT204714.1__D8_1	MT204714.1	D8	1	4552	order-5 chain from calibration genomes
+MT204714.1__D9_1	MT204714.1	D9	1	5227	window of NC_005856.1 at 29226
+MT204714.1__D10_revcomp	MT204714.1	D10	revcomp	4552	reverse complement
+MT204714.1__D10_rotation	MT204714.1	D10	rotation	4552	rotated by 3260
+MT205418.1__natural	MT205418.1	natural	-	4669	
+MT205418.1__D1_10	MT205418.1	D1	10	4669	138 codons swapped of 1382 swappable
+MT205418.1__D1_30	MT205418.1	D1	30	4669	415 codons swapped of 1382 swappable
+MT205418.1__D2_0.5	MT205418.1	D2	0.5	4669	23 substitutions
+MT205418.1__D2_1	MT205418.1	D2	1	4669	47 substitutions
+MT205418.1__D2_2	MT205418.1	D2	2	4669	93 substitutions
+MT205418.1__D2_5	MT205418.1	D2	5	4669	233 substitutions
+MT205418.1__D2_10	MT205418.1	D2	10	4669	467 substitutions
+MT205418.1__D3_1	MT205418.1	D3	1	4670	ins@2376
+MT205418.1__D3_3	MT205418.1	D3	3	4670	del@4509,ins@3585,ins@486
+MT205418.1__D3_6	MT205418.1	D3	6	4671	del@4590,ins@3482,ins@2619,del@2363,ins@1845,ins@1337
+MT205418.1__D3_12	MT205418.1	D3	12	4671	del@4341,ins@4336,del@3615,del@2718,ins@2708,del@2507,ins@1770,ins@1635,ins@1020,ins@464,ins@184,del@11
+MT205418.1__D4_1	MT205418.1	D4	1	4669	k=1 of nominal; g4:stop@codon20
+MT205418.1__D4_3	MT205418.1	D4	3	4669	k=3 of nominal; g0:stop@codon64,g1:start-removed,g3:stop@codon206
+MT205418.1__D4_6	MT205418.1	D4	6	4669	k=4 of nominal; g0:start-removed,g1:start-removed,g5:stop@codon115,g2:stop@codon249
+MT205418.1__D5_1	MT205418.1	D5	1	4216	k=1; genes [4] removed (453 letters)
+MT205418.1__D5_3	MT205418.1	D5	3	3340	k=3; genes [1, 3, 5] removed (1329 letters)
+MT205418.1__D5_6	MT205418.1	D5	6	1393	k=5; genes [0, 1, 2, 5, 6] removed (3276 letters)
+MT205418.1__D6_2	MT205418.1	D6	2	4669	2 cuts at [166, 3616], order [1, 0], flips [1, 0]
+MT205418.1__D6_4	MT205418.1	D6	4	4669	4 cuts at [58, 1116, 3938, 4540], order [0, 2, 1, 3], flips [1, 1, 1, 0]
+MT205418.1__D6_8	MT205418.1	D6	8	4669	8 cuts at [384, 623, 771, 1232, 3066, 3096, 3858, 4339], order [6, 5, 2, 7, 1, 0, 3, 4], flips [0, 0, 1, 1, 0, 0, 1, 0]
+MT205418.1__D7_25	MT205418.1	D7	25	4669	363 codons shuffled within genes (start and stop kept)
+MT205418.1__D7_50	MT205418.1	D7	50	4669	723 codons shuffled within genes (start and stop kept)
+MT205418.1__D7_100	MT205418.1	D7	100	4669	1446 codons shuffled within genes (start and stop kept)
+MT205418.1__D8_1	MT205418.1	D8	1	4669	order-5 chain from calibration genomes
+MT205418.1__D9_1	MT205418.1	D9	1	5692	window of GCF_000006945.2 at 3739912
+MT205418.1__D10_revcomp	MT205418.1	D10	revcomp	4669	reverse complement
+MT205418.1__D10_rotation	MT205418.1	D10	rotation	4669	rotated by 3116
+MT310155.1__natural	MT310155.1	natural	-	4949	
+MT310155.1__D1_10	MT310155.1	D1	10	4949	146 codons swapped of 1462 swappable
+MT310155.1__D1_30	MT310155.1	D1	30	4949	439 codons swapped of 1462 swappable
+MT310155.1__D2_0.5	MT310155.1	D2	0.5	4949	25 substitutions
+MT310155.1__D2_1	MT310155.1	D2	1	4949	49 substitutions
+MT310155.1__D2_2	MT310155.1	D2	2	4949	99 substitutions
+MT310155.1__D2_5	MT310155.1	D2	5	4949	247 substitutions
+MT310155.1__D2_10	MT310155.1	D2	10	4949	495 substitutions
+MT310155.1__D3_1	MT310155.1	D3	1	4950	ins@417
+MT310155.1__D3_3	MT310155.1	D3	3	4950	ins@4407,del@1297,ins@1292
+MT310155.1__D3_6	MT310155.1	D3	6	4945	del@2936,del@2525,del@2316,ins@1297,del@1282,del@1013
+MT310155.1__D3_12	MT310155.1	D3	12	4943	del@4807,del@4796,del@4585,del@4576,del@4271,ins@4123,ins@3548,del@3182,ins@2649,del@2414,del@2261,del@893
+MT310155.1__D4_1	MT310155.1	D4	1	4949	k=1 of nominal; g6:stop@codon11
+MT310155.1__D4_3	MT310155.1	D4	3	4949	k=3 of nominal; g1:start-removed,g3:stop@codon55,g2:stop@codon79
+MT310155.1__D4_6	MT310155.1	D4	6	4949	k=5 of nominal; g2:start-removed,g3:start-removed,g4:start-removed,g5:stop@codon164,g0:stop@codon282
+MT310155.1__D5_1	MT310155.1	D5	1	4709	k=1; genes [1] removed (240 letters)
+MT310155.1__D5_3	MT310155.1	D5	3	3899	k=3; genes [1, 5, 7] removed (1050 letters)
+MT310155.1__D5_6	MT310155.1	D5	6	1363	k=6; genes [1, 2, 3, 4, 5, 6] removed (3586 letters)
+MT310155.1__D6_2	MT310155.1	D6	2	4949	2 cuts at [1738, 4419], order [1, 0], flips [1, 0]
+MT310155.1__D6_4	MT310155.1	D6	4	4949	4 cuts at [1404, 2659, 4000, 4495], order [3, 1, 2, 0], flips [1, 1, 0, 1]
+MT310155.1__D6_8	MT310155.1	D6	8	4949	8 cuts at [1241, 1269, 1519, 1806, 2783, 2804, 4168, 4520], order [6, 5, 4, 2, 7, 0, 3, 1], flips [1, 0, 0, 1, 0, 0, 1, 0]
+MT310155.1__D7_25	MT310155.1	D7	25	4949	385 codons shuffled within genes (start and stop kept)
+MT310155.1__D7_50	MT310155.1	D7	50	4949	767 codons shuffled within genes (start and stop kept)
+MT310155.1__D7_100	MT310155.1	D7	100	4949	1531 codons shuffled within genes (start and stop kept)
+MT310155.1__D8_1	MT310155.1	D8	1	4949	order-5 chain from calibration genomes
+MT310155.1__D9_1	MT310155.1	D9	1	5056	window of NC_005856.1 at 3226
+MT310155.1__D10_revcomp	MT310155.1	D10	revcomp	4949	reverse complement
+MT310155.1__D10_rotation	MT310155.1	D10	rotation	4949	rotated by 3163
+MT310159.1__natural	MT310159.1	natural	-	5120	
+MT310159.1__D1_10	MT310159.1	D1	10	5120	152 codons swapped of 1522 swappable
+MT310159.1__D1_30	MT310159.1	D1	30	5120	457 codons swapped of 1522 swappable
+MT310159.1__D2_0.5	MT310159.1	D2	0.5	5120	26 substitutions
+MT310159.1__D2_1	MT310159.1	D2	1	5120	51 substitutions
+MT310159.1__D2_2	MT310159.1	D2	2	5120	102 substitutions
+MT310159.1__D2_5	MT310159.1	D2	5	5120	256 substitutions
+MT310159.1__D2_10	MT310159.1	D2	10	5120	512 substitutions
+MT310159.1__D3_1	MT310159.1	D3	1	5119	del@3097
+MT310159.1__D3_3	MT310159.1	D3	3	5119	del@3989,ins@3720,del@470
+MT310159.1__D3_6	MT310159.1	D3	6	5120	ins@4297,del@3473,del@3304,del@2961,ins@1793,ins@264
+MT310159.1__D3_12	MT310159.1	D3	12	5124	ins@4363,del@3967,del@3943,ins@3690,ins@3555,ins@2930,del@2858,ins@2335,ins@2061,del@821,ins@451,ins@119
+MT310159.1__D4_1	MT310159.1	D4	1	5120	k=1 of nominal; g6:stop@codon25
+MT310159.1__D4_3	MT310159.1	D4	3	5120	k=3 of nominal; g2:stop@codon133,g7:stop@codon54,g3:start-removed
+MT310159.1__D4_6	MT310159.1	D4	6	5120	k=6 of nominal; g1:start-removed,g3:start-removed,g5:stop@codon19,g2:start-removed,g7:stop@codon55,g0:stop@codon178
+MT310159.1__D5_1	MT310159.1	D5	1	4823	k=1; genes [1] removed (297 letters)
+MT310159.1__D5_3	MT310159.1	D5	3	2865	k=3; genes [1, 2, 5] removed (2255 letters)
+MT310159.1__D5_6	MT310159.1	D5	6	2852	k=6; genes [0, 4, 5, 6, 7, 8] removed (2268 letters)
+MT310159.1__D6_2	MT310159.1	D6	2	5120	2 cuts at [3576, 3590], order [1, 0], flips [0, 1]
+MT310159.1__D6_4	MT310159.1	D6	4	5120	4 cuts at [476, 1403, 1502, 2823], order [0, 1, 3, 2], flips [0, 1, 1, 0]
+MT310159.1__D6_8	MT310159.1	D6	8	5120	8 cuts at [238, 322, 751, 809, 1156, 2593, 2646, 3066], order [0, 6, 1, 5, 3, 2, 7, 4], flips [1, 1, 1, 1, 1, 1, 0, 0]
+MT310159.1__D7_25	MT310159.1	D7	25	5120	395 codons shuffled within genes (start and stop kept)
+MT310159.1__D7_50	MT310159.1	D7	50	5120	790 codons shuffled within genes (start and stop kept)
+MT310159.1__D7_100	MT310159.1	D7	100	5120	1585 codons shuffled within genes (start and stop kept)
+MT310159.1__D8_1	MT310159.1	D8	1	5120	order-5 chain from calibration genomes
+MT310159.1__D9_1	MT310159.1	D9	1	5416	window of GCF_000006945.2 at 2496449
+MT310159.1__D10_revcomp	MT310159.1	D10	revcomp	5120	reverse complement
+MT310159.1__D10_rotation	MT310159.1	D10	rotation	5120	rotated by 1844
+MT310332.1__natural	MT310332.1	natural	-	5001	
+MT310332.1__D1_10	MT310332.1	D1	10	5001	98 codons swapped of 976 swappable
+MT310332.1__D1_30	MT310332.1	D1	30	5001	293 codons swapped of 976 swappable
+MT310332.1__D2_0.5	MT310332.1	D2	0.5	5001	25 substitutions
+MT310332.1__D2_1	MT310332.1	D2	1	5001	50 substitutions
+MT310332.1__D2_2	MT310332.1	D2	2	5001	100 substitutions
+MT310332.1__D2_5	MT310332.1	D2	5	5001	250 substitutions
+MT310332.1__D2_10	MT310332.1	D2	10	5001	500 substitutions
+MT310332.1__D3_1	MT310332.1	D3	1	5000	del@1258
+MT310332.1__D3_3	MT310332.1	D3	3	5004	ins@4074,ins@1477,ins@1435
+MT310332.1__D3_6	MT310332.1	D3	6	5001	ins@3946,del@3441,del@1312,ins@1180,ins@994,del@702
+MT310332.1__D3_12	MT310332.1	D3	12	4999	ins@4199,del@4080,del@3975,del@3413,del@3322,del@1482,ins@1413,ins@1165,ins@1049,ins@969,del@593,del@375
+MT310332.1__D4_1	MT310332.1	D4	1	5001	k=1 of nominal; g5:stop@codon113
+MT310332.1__D4_3	MT310332.1	D4	3	5001	k=3 of nominal; g0:stop@codon211,g2:stop@codon22,g1:stop@codon51
+MT310332.1__D4_6	MT310332.1	D4	6	5001	k=4 of nominal; g1:start-removed,g4:stop@codon119,g2:stop@codon28,g0:start-removed
+MT310332.1__D5_1	MT310332.1	D5	1	4851	k=1; genes [2] removed (150 letters)
+MT310332.1__D5_3	MT310332.1	D5	3	3942	k=3; genes [1, 2, 4] removed (1059 letters)
+MT310332.1__D5_6	MT310332.1	D5	6	2943	k=5; genes [0, 1, 2, 5, 6] removed (2058 letters)
+MT310332.1__D6_2	MT310332.1	D6	2	5001	2 cuts at [1026, 4329], order [0, 1], flips [0, 1]
+MT310332.1__D6_4	MT310332.1	D6	4	5001	4 cuts at [206, 1907, 3223, 4764], order [3, 0, 2, 1], flips [1, 0, 0, 0]
+MT310332.1__D6_8	MT310332.1	D6	8	5001	8 cuts at [821, 942, 1552, 1647, 3532, 3900, 4727, 4806], order [5, 2, 1, 0, 7, 4, 3, 6], flips [0, 1, 0, 1, 0, 0, 0, 1]
+MT310332.1__D7_25	MT310332.1	D7	25	5001	254 codons shuffled within genes (start and stop kept)
+MT310332.1__D7_50	MT310332.1	D7	50	5001	508 codons shuffled within genes (start and stop kept)
+MT310332.1__D7_100	MT310332.1	D7	100	5001	1016 codons shuffled within genes (start and stop kept)
+MT310332.1__D8_1	MT310332.1	D8	1	5001	order-5 chain from calibration genomes
+MT310332.1__D9_1	MT310332.1	D9	1	5168	window of NC_001604.1 at 24537
+MT310332.1__D10_revcomp	MT310332.1	D10	revcomp	5001	reverse complement
+MT310332.1__D10_rotation	MT310332.1	D10	rotation	5001	rotated by 2817
+MT310334.1__natural	MT310334.1	natural	-	5014	
+MT310334.1__D1_10	MT310334.1	D1	10	5014	148 codons swapped of 1485 swappable
+MT310334.1__D1_30	MT310334.1	D1	30	5014	446 codons swapped of 1485 swappable
+MT310334.1__D2_0.5	MT310334.1	D2	0.5	5014	25 substitutions
+MT310334.1__D2_1	MT310334.1	D2	1	5014	50 substitutions
+MT310334.1__D2_2	MT310334.1	D2	2	5014	100 substitutions
+MT310334.1__D2_5	MT310334.1	D2	5	5014	251 substitutions
+MT310334.1__D2_10	MT310334.1	D2	10	5014	501 substitutions
+MT310334.1__D3_1	MT310334.1	D3	1	5013	del@3809
+MT310334.1__D3_3	MT310334.1	D3	3	5017	ins@4075,ins@3209,ins@1760
+MT310334.1__D3_6	MT310334.1	D3	6	5010	ins@4656,del@4440,del@4263,del@4150,del@2279,del@185
+MT310334.1__D3_12	MT310334.1	D3	12	5010	del@4082,ins@3174,ins@3167,del@3031,del@1952,del@1813,del@1806,ins@834,del@777,del@765,ins@459,del@120
+MT310334.1__D4_1	MT310334.1	D4	1	5014	k=1 of nominal; g3:start-removed
+MT310334.1__D4_3	MT310334.1	D4	3	5014	k=3 of nominal; g3:start-removed,g6:stop@codon67,g4:start-removed
+MT310334.1__D4_6	MT310334.1	D4	6	5014	k=5 of nominal; g4:stop@codon127,g5:start-removed,g2:stop@codon97,g3:stop@codon26,g1:stop@codon47
+MT310334.1__D5_1	MT310334.1	D5	1	4771	k=1; genes [1] removed (243 letters)
+MT310334.1__D5_3	MT310334.1	D5	3	3755	k=3; genes [0, 6, 7] removed (1259 letters)
+MT310334.1__D5_6	MT310334.1	D5	6	818	k=6; genes [0, 3, 4, 5, 6, 7] removed (4196 letters)
+MT310334.1__D6_2	MT310334.1	D6	2	5014	2 cuts at [2190, 2643], order [1, 0], flips [1, 0]
+MT310334.1__D6_4	MT310334.1	D6	4	5014	4 cuts at [1772, 3556, 4438, 4560], order [2, 3, 1, 0], flips [1, 0, 0, 1]
+MT310334.1__D6_8	MT310334.1	D6	8	5014	8 cuts at [381, 1185, 1492, 2099, 4417, 4812, 4934, 4967], order [7, 1, 6, 2, 5, 0, 4, 3], flips [1, 1, 0, 0, 1, 0, 0, 0]
+MT310334.1__D7_25	MT310334.1	D7	25	5014	393 codons shuffled within genes (start and stop kept)
+MT310334.1__D7_50	MT310334.1	D7	50	5014	784 codons shuffled within genes (start and stop kept)
+MT310334.1__D7_100	MT310334.1	D7	100	5014	1568 codons shuffled within genes (start and stop kept)
+MT310334.1__D8_1	MT310334.1	D8	1	5014	order-5 chain from calibration genomes
+MT310334.1__D9_1	MT310334.1	D9	1	5174	window of GCF_000240185.1 at 786838
+MT310334.1__D10_revcomp	MT310334.1	D10	revcomp	5014	reverse complement
+MT310334.1__D10_rotation	MT310334.1	D10	rotation	5014	rotated by 2674
+MW202414.1__natural	MW202414.1	natural	-	4367	
+MW202414.1__D1_10	MW202414.1	D1	10	4367	132 codons swapped of 1323 swappable
+MW202414.1__D1_30	MW202414.1	D1	30	4367	397 codons swapped of 1323 swappable
+MW202414.1__D2_0.5	MW202414.1	D2	0.5	4367	22 substitutions
+MW202414.1__D2_1	MW202414.1	D2	1	4367	44 substitutions
+MW202414.1__D2_2	MW202414.1	D2	2	4367	87 substitutions
+MW202414.1__D2_5	MW202414.1	D2	5	4367	218 substitutions
+MW202414.1__D2_10	MW202414.1	D2	10	4367	437 substitutions
+MW202414.1__D3_1	MW202414.1	D3	1	4368	ins@1729
+MW202414.1__D3_3	MW202414.1	D3	3	4368	ins@3169,del@2106,ins@1413
+MW202414.1__D3_6	MW202414.1	D3	6	4369	del@4035,ins@2799,ins@2790,ins@2308,ins@2185,del@2049
+MW202414.1__D3_12	MW202414.1	D3	12	4367	ins@4142,ins@4102,del@3987,ins@3586,ins@3177,ins@2832,del@2658,del@2314,del@1643,ins@740,del@413,del@380
+MW202414.1__D4_1	MW202414.1	D4	1	4367	k=1 of nominal; g2:stop@codon75
+MW202414.1__D4_3	MW202414.1	D4	3	4367	k=3 of nominal; g3:start-removed,g4:stop@codon22,g2:start-removed
+MW202414.1__D4_6	MW202414.1	D4	6	4367	k=4 of nominal; g2:stop@codon9,g4:start-removed,g0:start-removed,g3:start-removed
+MW202414.1__D5_1	MW202414.1	D5	1	3446	k=1; genes [0] removed (921 letters)
+MW202414.1__D5_3	MW202414.1	D5	3	2099	k=3; genes [1, 3, 5] removed (2268 letters)
+MW202414.1__D5_6	MW202414.1	D5	6	1803	k=5; genes [1, 3, 4, 5, 6] removed (2564 letters)
+MW202414.1__D6_2	MW202414.1	D6	2	4367	2 cuts at [2058, 3802], order [1, 0], flips [1, 0]
+MW202414.1__D6_4	MW202414.1	D6	4	4367	4 cuts at [1144, 2139, 2915, 4056], order [3, 0, 1, 2], flips [0, 1, 1, 1]
+MW202414.1__D6_8	MW202414.1	D6	8	4367	8 cuts at [101, 627, 763, 1585, 1987, 2446, 3147, 3709], order [4, 3, 1, 2, 7, 6, 5, 0], flips [0, 0, 0, 1, 1, 1, 1, 0]
+MW202414.1__D7_25	MW202414.1	D7	25	4367	344 codons shuffled within genes (start and stop kept)
+MW202414.1__D7_50	MW202414.1	D7	50	4367	687 codons shuffled within genes (start and stop kept)
+MW202414.1__D7_100	MW202414.1	D7	100	4367	1373 codons shuffled within genes (start and stop kept)
+MW202414.1__D8_1	MW202414.1	D8	1	4367	order-5 chain from calibration genomes
+MW202414.1__D9_1	MW202414.1	D9	1	5338	window of NC_000866.4 at 106646
+MW202414.1__D10_revcomp	MW202414.1	D10	revcomp	4367	reverse complement
+MW202414.1__D10_rotation	MW202414.1	D10	rotation	4367	rotated by 3922
+MW202581.1__natural	MW202581.1	natural	-	5035	
+MW202581.1__D1_10	MW202581.1	D1	10	5035	137 codons swapped of 1366 swappable
+MW202581.1__D1_30	MW202581.1	D1	30	5035	410 codons swapped of 1366 swappable
+MW202581.1__D2_0.5	MW202581.1	D2	0.5	5035	25 substitutions
+MW202581.1__D2_1	MW202581.1	D2	1	5035	50 substitutions
+MW202581.1__D2_2	MW202581.1	D2	2	5035	101 substitutions
+MW202581.1__D2_5	MW202581.1	D2	5	5035	252 substitutions
+MW202581.1__D2_10	MW202581.1	D2	10	5035	504 substitutions
+MW202581.1__D3_1	MW202581.1	D3	1	5034	del@3877
+MW202581.1__D3_3	MW202581.1	D3	3	5032	del@2868,del@2787,del@484
+MW202581.1__D3_6	MW202581.1	D3	6	5033	ins@4709,del@4682,del@1922,del@1558,del@1024,ins@638
+MW202581.1__D3_12	MW202581.1	D3	12	5037	del@4310,ins@4194,ins@3957,del@2823,del@2821,ins@2506,ins@2465,del@2440,ins@1464,del@1280,ins@332,ins@100
+MW202581.1__D4_1	MW202581.1	D4	1	5035	k=1 of nominal; g3:start-removed
+MW202581.1__D4_3	MW202581.1	D4	3	5035	k=3 of nominal; g0:stop@codon213,g5:start-removed,g1:stop@codon30
+MW202581.1__D4_6	MW202581.1	D4	6	5035	k=4 of nominal; g1:stop@codon8,g3:start-removed,g0:stop@codon321,g4:stop@codon104
+MW202581.1__D5_1	MW202581.1	D5	1	3991	k=1; genes [0] removed (1044 letters)
+MW202581.1__D5_3	MW202581.1	D5	3	2269	k=3; genes [0, 3, 6] removed (2766 letters)
+MW202581.1__D5_6	MW202581.1	D5	6	1954	k=5; genes [1, 3, 4, 5, 6] removed (3081 letters)
+MW202581.1__D6_2	MW202581.1	D6	2	5035	2 cuts at [572, 3371], order [0, 1], flips [0, 1]
+MW202581.1__D6_4	MW202581.1	D6	4	5035	4 cuts at [1327, 1913, 3736, 4709], order [1, 3, 0, 2], flips [0, 1, 1, 1]
+MW202581.1__D6_8	MW202581.1	D6	8	5035	8 cuts at [631, 652, 1020, 2226, 2322, 4006, 4189, 4393], order [3, 6, 7, 4, 1, 2, 0, 5], flips [1, 0, 0, 1, 0, 0, 0, 1]
+MW202581.1__D7_25	MW202581.1	D7	25	5035	352 codons shuffled within genes (start and stop kept)
+MW202581.1__D7_50	MW202581.1	D7	50	5035	705 codons shuffled within genes (start and stop kept)
+MW202581.1__D7_100	MW202581.1	D7	100	5035	1411 codons shuffled within genes (start and stop kept)
+MW202581.1__D8_1	MW202581.1	D8	1	5035	order-5 chain from calibration genomes
+MW202581.1__D9_1	MW202581.1	D9	1	5052	window of GCF_000006945.2 at 4594061
+MW202581.1__D10_revcomp	MW202581.1	D10	revcomp	5035	reverse complement
+MW202581.1__D10_rotation	MW202581.1	D10	rotation	5035	rotated by 2401
+MW697720.1__natural	MW697720.1	natural	-	4611	
+MW697720.1__D1_10	MW697720.1	D1	10	4611	140 codons swapped of 1398 swappable
+MW697720.1__D1_30	MW697720.1	D1	30	4611	419 codons swapped of 1398 swappable
+MW697720.1__D2_0.5	MW697720.1	D2	0.5	4611	23 substitutions
+MW697720.1__D2_1	MW697720.1	D2	1	4611	46 substitutions
+MW697720.1__D2_2	MW697720.1	D2	2	4611	92 substitutions
+MW697720.1__D2_5	MW697720.1	D2	5	4611	231 substitutions
+MW697720.1__D2_10	MW697720.1	D2	10	4611	461 substitutions
+MW697720.1__D3_1	MW697720.1	D3	1	4610	del@1383
+MW697720.1__D3_3	MW697720.1	D3	3	4612	ins@3226,del@1110,ins@124
+MW697720.1__D3_6	MW697720.1	D3	6	4613	ins@3544,ins@3214,del@2691,ins@2158,del@1650,ins@638
+MW697720.1__D3_12	MW697720.1	D3	12	4607	ins@4560,del@4414,del@4390,del@3156,del@3043,del@1986,del@1761,ins@1365,del@587,ins@580,del@439,ins@58
+MW697720.1__D4_1	MW697720.1	D4	1	4611	k=1 of nominal; g4:stop@codon75
+MW697720.1__D4_3	MW697720.1	D4	3	4611	k=3 of nominal; g6:start-removed,g4:stop@codon182,g1:start-removed
+MW697720.1__D4_6	MW697720.1	D4	6	4611	k=5 of nominal; g2:start-removed,g6:start-removed,g5:start-removed,g4:stop@codon253,g1:start-removed
+MW697720.1__D5_1	MW697720.1	D5	1	4323	k=1; genes [5] removed (288 letters)
+MW697720.1__D5_3	MW697720.1	D5	3	4083	k=3; genes [1, 3, 7] removed (528 letters)
+MW697720.1__D5_6	MW697720.1	D5	6	535	k=6; genes [0, 2, 3, 4, 5, 6] removed (4076 letters)
+MW697720.1__D6_2	MW697720.1	D6	2	4611	2 cuts at [617, 1735], order [1, 0], flips [0, 1]
+MW697720.1__D6_4	MW697720.1	D6	4	4611	4 cuts at [91, 405, 4242, 4303], order [2, 0, 1, 3], flips [1, 1, 1, 1]
+MW697720.1__D6_8	MW697720.1	D6	8	4611	8 cuts at [98, 130, 1122, 1249, 3090, 3649, 3969, 4364], order [6, 5, 4, 7, 0, 1, 3, 2], flips [1, 0, 0, 0, 1, 0, 1, 0]
+MW697720.1__D7_25	MW697720.1	D7	25	4611	366 codons shuffled within genes (start and stop kept)
+MW697720.1__D7_50	MW697720.1	D7	50	4611	732 codons shuffled within genes (start and stop kept)
+MW697720.1__D7_100	MW697720.1	D7	100	4611	1465 codons shuffled within genes (start and stop kept)
+MW697720.1__D8_1	MW697720.1	D8	1	4611	order-5 chain from calibration genomes
+MW697720.1__D9_1	MW697720.1	D9	1	5414	window of NC_005856.1 at 40975
+MW697720.1__D10_revcomp	MW697720.1	D10	revcomp	4611	reverse complement
+MW697720.1__D10_rotation	MW697720.1	D10	rotation	4611	rotated by 3599
+MZ286294.1__natural	MZ286294.1	natural	-	4806	
+MZ286294.1__D1_10	MZ286294.1	D1	10	4806	138 codons swapped of 1375 swappable
+MZ286294.1__D1_30	MZ286294.1	D1	30	4806	412 codons swapped of 1375 swappable
+MZ286294.1__D2_0.5	MZ286294.1	D2	0.5	4806	24 substitutions
+MZ286294.1__D2_1	MZ286294.1	D2	1	4806	48 substitutions
+MZ286294.1__D2_2	MZ286294.1	D2	2	4806	96 substitutions
+MZ286294.1__D2_5	MZ286294.1	D2	5	4806	240 substitutions
+MZ286294.1__D2_10	MZ286294.1	D2	10	4806	481 substitutions
+MZ286294.1__D3_1	MZ286294.1	D3	1	4805	del@5
+MZ286294.1__D3_3	MZ286294.1	D3	3	4803	del@3808,del@2812,del@1933
+MZ286294.1__D3_6	MZ286294.1	D3	6	4812	ins@3644,ins@3423,ins@1692,ins@1289,ins@1027,ins@648
+MZ286294.1__D3_12	MZ286294.1	D3	12	4808	ins@4085,ins@3373,del@3208,del@2435,del@1732,ins@1253,ins@1074,ins@701,del@449,ins@200,ins@172,del@119
+MZ286294.1__D4_1	MZ286294.1	D4	1	4806	k=1 of nominal; g0:stop@codon33
+MZ286294.1__D4_3	MZ286294.1	D4	3	4806	k=3 of nominal; g4:stop@codon200,g0:start-removed,g2:start-removed
+MZ286294.1__D4_6	MZ286294.1	D4	6	4806	k=5 of nominal; g1:start-removed,g0:start-removed,g5:stop@codon191,g2:stop@codon67,g3:start-removed
+MZ286294.1__D5_1	MZ286294.1	D5	1	4131	k=1; genes [5] removed (675 letters)
+MZ286294.1__D5_3	MZ286294.1	D5	3	3879	k=3; genes [2, 3, 6] removed (927 letters)
+MZ286294.1__D5_6	MZ286294.1	D5	6	1752	k=5; genes [1, 3, 4, 5, 6] removed (3054 letters)
+MZ286294.1__D6_2	MZ286294.1	D6	2	4806	2 cuts at [420, 2410], order [1, 0], flips [0, 1]
+MZ286294.1__D6_4	MZ286294.1	D6	4	4806	4 cuts at [2783, 3170, 3917, 4262], order [1, 0, 3, 2], flips [0, 0, 0, 0]
+MZ286294.1__D6_8	MZ286294.1	D6	8	4806	8 cuts at [126, 213, 292, 903, 2469, 3020, 3157, 3577], order [1, 4, 0, 6, 5, 7, 3, 2], flips [1, 0, 0, 1, 0, 1, 0, 1]
+MZ286294.1__D7_25	MZ286294.1	D7	25	4806	356 codons shuffled within genes (start and stop kept)
+MZ286294.1__D7_50	MZ286294.1	D7	50	4806	712 codons shuffled within genes (start and stop kept)
+MZ286294.1__D7_100	MZ286294.1	D7	100	4806	1422 codons shuffled within genes (start and stop kept)
+MZ286294.1__D8_1	MZ286294.1	D8	1	4806	order-5 chain from calibration genomes
+MZ286294.1__D9_1	MZ286294.1	D9	1	5996	window of GCF_000006765.1 at 5710571
+MZ286294.1__D10_revcomp	MZ286294.1	D10	revcomp	4806	reverse complement
+MZ286294.1__D10_rotation	MZ286294.1	D10	rotation	4806	rotated by 3727
+MZ364261.1__natural	MZ364261.1	natural	-	4670	
+MZ364261.1__D1_10	MZ364261.1	D1	10	4670	135 codons swapped of 1352 swappable
+MZ364261.1__D1_30	MZ364261.1	D1	30	4670	406 codons swapped of 1352 swappable
+MZ364261.1__D2_0.5	MZ364261.1	D2	0.5	4670	23 substitutions
+MZ364261.1__D2_1	MZ364261.1	D2	1	4670	47 substitutions
+MZ364261.1__D2_2	MZ364261.1	D2	2	4670	93 substitutions
+MZ364261.1__D2_5	MZ364261.1	D2	5	4670	234 substitutions
+MZ364261.1__D2_10	MZ364261.1	D2	10	4670	467 substitutions
+MZ364261.1__D3_1	MZ364261.1	D3	1	4669	del@2487
+MZ364261.1__D3_3	MZ364261.1	D3	3	4671	del@2680,ins@1061,ins@1052
+MZ364261.1__D3_6	MZ364261.1	D3	6	4672	ins@4147,del@3985,ins@3759,ins@1946,ins@1494,del@966
+MZ364261.1__D3_12	MZ364261.1	D3	12	4670	ins@4541,ins@4131,del@4035,del@3076,ins@2880,ins@2635,del@2402,ins@2297,del@1521,del@816,ins@532,del@126
+MZ364261.1__D4_1	MZ364261.1	D4	1	4670	k=1 of nominal; g0:stop@codon236
+MZ364261.1__D4_3	MZ364261.1	D4	3	4670	k=3 of nominal; g3:stop@codon405,g0:start-removed,g5:stop@codon144
+MZ364261.1__D4_6	MZ364261.1	D4	6	4670	k=4 of nominal; g4:start-removed,g1:start-removed,g0:start-removed,g3:start-removed
+MZ364261.1__D5_1	MZ364261.1	D5	1	4400	k=1; genes [1] removed (270 letters)
+MZ364261.1__D5_3	MZ364261.1	D5	3	3671	k=3; genes [2, 4, 6] removed (999 letters)
+MZ364261.1__D5_6	MZ364261.1	D5	6	1382	k=5; genes [1, 2, 3, 4, 5] removed (3288 letters)
+MZ364261.1__D6_2	MZ364261.1	D6	2	4670	2 cuts at [4435, 4441], order [0, 1], flips [1, 0]
+MZ364261.1__D6_4	MZ364261.1	D6	4	4670	4 cuts at [268, 1356, 3508, 3527], order [0, 3, 2, 1], flips [0, 0, 0, 0]
+MZ364261.1__D6_8	MZ364261.1	D6	8	4670	8 cuts at [93, 939, 2270, 2457, 3097, 3715, 4076, 4496], order [2, 6, 5, 3, 7, 0, 1, 4], flips [0, 1, 0, 0, 1, 1, 0, 1]
+MZ364261.1__D7_25	MZ364261.1	D7	25	4670	351 codons shuffled within genes (start and stop kept)
+MZ364261.1__D7_50	MZ364261.1	D7	50	4670	701 codons shuffled within genes (start and stop kept)
+MZ364261.1__D7_100	MZ364261.1	D7	100	4670	1404 codons shuffled within genes (start and stop kept)
+MZ364261.1__D8_1	MZ364261.1	D8	1	4670	order-5 chain from calibration genomes
+MZ364261.1__D9_1	MZ364261.1	D9	1	5933	window of NC_011048.1 at 1517
+MZ364261.1__D10_revcomp	MZ364261.1	D10	revcomp	4670	reverse complement
+MZ364261.1__D10_rotation	MZ364261.1	D10	rotation	4670	rotated by 984
+OM869701.1__natural	OM869701.1	natural	-	5257	
+OM869701.1__D1_10	OM869701.1	D1	10	5257	158 codons swapped of 1585 swappable
+OM869701.1__D1_30	OM869701.1	D1	30	5257	476 codons swapped of 1585 swappable
+OM869701.1__D2_0.5	OM869701.1	D2	0.5	5257	26 substitutions
+OM869701.1__D2_1	OM869701.1	D2	1	5257	53 substitutions
+OM869701.1__D2_2	OM869701.1	D2	2	5257	105 substitutions
+OM869701.1__D2_5	OM869701.1	D2	5	5257	263 substitutions
+OM869701.1__D2_10	OM869701.1	D2	10	5257	526 substitutions
+OM869701.1__D3_1	OM869701.1	D3	1	5256	del@3752
+OM869701.1__D3_3	OM869701.1	D3	3	5256	del@1200,del@897,ins@441
+OM869701.1__D3_6	OM869701.1	D3	6	5257	del@3824,del@3048,ins@2551,del@453,ins@354,ins@151
+OM869701.1__D3_12	OM869701.1	D3	12	5253	del@4603,del@3973,ins@2783,ins@2641,ins@2614,del@2093,del@1133,del@1122,ins@931,del@746,del@407,del@211
+OM869701.1__D4_1	OM869701.1	D4	1	5257	k=1 of nominal; g1:stop@codon51
+OM869701.1__D4_3	OM869701.1	D4	3	5257	k=3 of nominal; g0:start-removed,g1:start-removed,g5:stop@codon556
+OM869701.1__D4_6	OM869701.1	D4	6	5257	k=4 of nominal; g0:start-removed,g1:start-removed,g5:stop@codon85,g6:start-removed
+OM869701.1__D5_1	OM869701.1	D5	1	4078	k=1; genes [6] removed (1179 letters)
+OM869701.1__D5_3	OM869701.1	D5	3	3893	k=3; genes [0, 2, 3] removed (1364 letters)
+OM869701.1__D5_6	OM869701.1	D5	6	1382	k=5; genes [1, 3, 4, 5, 6] removed (3875 letters)
+OM869701.1__D6_2	OM869701.1	D6	2	5257	2 cuts at [490, 2111], order [1, 0], flips [0, 1]
+OM869701.1__D6_4	OM869701.1	D6	4	5257	4 cuts at [1407, 1910, 2840, 3147], order [0, 2, 3, 1], flips [1, 1, 1, 1]
+OM869701.1__D6_8	OM869701.1	D6	8	5257	8 cuts at [58, 152, 376, 610, 2479, 3350, 3876, 4920], order [7, 4, 6, 3, 5, 1, 2, 0], flips [0, 0, 0, 1, 0, 0, 1, 0]
+OM869701.1__D7_25	OM869701.1	D7	25	5257	412 codons shuffled within genes (start and stop kept)
+OM869701.1__D7_50	OM869701.1	D7	50	5257	823 codons shuffled within genes (start and stop kept)
+OM869701.1__D7_100	OM869701.1	D7	100	5257	1647 codons shuffled within genes (start and stop kept)
+OM869701.1__D8_1	OM869701.1	D8	1	5257	order-5 chain from calibration genomes
+OM869701.1__D9_1	OM869701.1	D9	1	5132	window of GCF_000006945.2 at 2161637
+OM869701.1__D10_revcomp	OM869701.1	D10	revcomp	5257	reverse complement
+OM869701.1__D10_rotation	OM869701.1	D10	rotation	5257	rotated by 4436
+OP209174.1__natural	OP209174.1	natural	-	5227	
+OP209174.1__D1_10	OP209174.1	D1	10	5227	141 codons swapped of 1408 swappable
+OP209174.1__D1_30	OP209174.1	D1	30	5227	422 codons swapped of 1408 swappable
+OP209174.1__D2_0.5	OP209174.1	D2	0.5	5227	26 substitutions
+OP209174.1__D2_1	OP209174.1	D2	1	5227	52 substitutions
+OP209174.1__D2_2	OP209174.1	D2	2	5227	105 substitutions
+OP209174.1__D2_5	OP209174.1	D2	5	5227	261 substitutions
+OP209174.1__D2_10	OP209174.1	D2	10	5227	523 substitutions
+OP209174.1__D3_1	OP209174.1	D3	1	5228	ins@3523
+OP209174.1__D3_3	OP209174.1	D3	3	5226	ins@4920,del@1690,del@386
+OP209174.1__D3_6	OP209174.1	D3	6	5225	del@4728,ins@2751,del@1610,del@1379,ins@947,del@333
+OP209174.1__D3_12	OP209174.1	D3	12	5233	ins@3801,ins@3340,del@3085,ins@3053,ins@2281,del@1871,ins@1847,ins@1641,ins@1459,ins@1126,del@969,ins@460
+OP209174.1__D4_1	OP209174.1	D4	1	5227	k=1 of nominal; g2:start-removed
+OP209174.1__D4_3	OP209174.1	D4	3	5227	k=3 of nominal; g7:start-removed,g9:stop@codon92,g8:start-removed
+OP209174.1__D4_6	OP209174.1	D4	6	5227	k=6 of nominal; g5:start-removed,g0:start-removed,g9:start-removed,g2:stop@codon50,g3:stop@codon6,g8:stop@codon51
+OP209174.1__D5_1	OP209174.1	D5	1	4228	k=1; genes [0] removed (999 letters)
+OP209174.1__D5_3	OP209174.1	D5	3	4144	k=3; genes [4, 6, 7] removed (1083 letters)
+OP209174.1__D5_6	OP209174.1	D5	6	1869	k=6; genes [0, 1, 3, 4, 7, 9] removed (3358 letters)
+OP209174.1__D6_2	OP209174.1	D6	2	5227	2 cuts at [1551, 4422], order [1, 0], flips [1, 0]
+OP209174.1__D6_4	OP209174.1	D6	4	5227	4 cuts at [1547, 2228, 2492, 4566], order [0, 2, 1, 3], flips [1, 1, 1, 0]
+OP209174.1__D6_8	OP209174.1	D6	8	5227	8 cuts at [1092, 1290, 1656, 3776, 3984, 4476, 4658, 5169], order [4, 6, 5, 0, 3, 2, 1, 7], flips [0, 0, 0, 1, 1, 0, 0, 1]
+OP209174.1__D7_25	OP209174.1	D7	25	5227	370 codons shuffled within genes (start and stop kept)
+OP209174.1__D7_50	OP209174.1	D7	50	5227	741 codons shuffled within genes (start and stop kept)
+OP209174.1__D7_100	OP209174.1	D7	100	5227	1482 codons shuffled within genes (start and stop kept)
+OP209174.1__D8_1	OP209174.1	D8	1	5227	order-5 chain from calibration genomes
+OP209174.1__D9_1	OP209174.1	D9	1	5423	window of NC_000866.4 at 79229
+OP209174.1__D10_revcomp	OP209174.1	D10	revcomp	5227	reverse complement
+OP209174.1__D10_rotation	OP209174.1	D10	rotation	5227	rotated by 3981
+OX614293.1__natural	OX614293.1	natural	-	5370	
+OX614293.1__D1_10	OX614293.1	D1	10	5370	153 codons swapped of 1530 swappable
+OX614293.1__D1_30	OX614293.1	D1	30	5370	459 codons swapped of 1530 swappable
+OX614293.1__D2_0.5	OX614293.1	D2	0.5	5370	27 substitutions
+OX614293.1__D2_1	OX614293.1	D2	1	5370	54 substitutions
+OX614293.1__D2_2	OX614293.1	D2	2	5370	107 substitutions
+OX614293.1__D2_5	OX614293.1	D2	5	5370	268 substitutions
+OX614293.1__D2_10	OX614293.1	D2	10	5370	537 substitutions
+OX614293.1__D3_1	OX614293.1	D3	1	5369	del@4575
+OX614293.1__D3_3	OX614293.1	D3	3	5371	ins@3804,ins@2706,del@833
+OX614293.1__D3_6	OX614293.1	D3	6	5368	del@4513,ins@1936,del@1514,del@1394,del@1285,ins@218
+OX614293.1__D3_12	OX614293.1	D3	12	5376	ins@4565,del@3698,ins@3647,ins@3354,ins@3287,ins@3204,del@3009,ins@2861,ins@2636,ins@1578,ins@1354,del@144
+OX614293.1__D4_1	OX614293.1	D4	1	5370	k=1 of nominal; g4:start-removed
+OX614293.1__D4_3	OX614293.1	D4	3	5370	k=3 of nominal; g0:stop@codon200,g2:stop@codon64,g5:stop@codon93
+OX614293.1__D4_6	OX614293.1	D4	6	5370	k=4 of nominal; g0:start-removed,g2:stop@codon67,g4:stop@codon37,g6:stop@codon2
+OX614293.1__D5_1	OX614293.1	D5	1	5211	k=1; genes [6] removed (159 letters)
+OX614293.1__D5_3	OX614293.1	D5	3	2803	k=3; genes [3, 4, 6] removed (2567 letters)
+OX614293.1__D5_6	OX614293.1	D5	6	1580	k=5; genes [0, 1, 2, 3, 4] removed (3790 letters)
+OX614293.1__D6_2	OX614293.1	D6	2	5370	2 cuts at [2809, 4826], order [1, 0], flips [0, 1]
+OX614293.1__D6_4	OX614293.1	D6	4	5370	4 cuts at [1083, 2661, 2875, 5259], order [2, 0, 3, 1], flips [0, 1, 0, 0]
+OX614293.1__D6_8	OX614293.1	D6	8	5370	8 cuts at [514, 1798, 2325, 2487, 2683, 3229, 4480, 4628], order [6, 5, 3, 2, 1, 0, 7, 4], flips [0, 0, 0, 0, 0, 0, 0, 0]
+OX614293.1__D7_25	OX614293.1	D7	25	5370	397 codons shuffled within genes (start and stop kept)
+OX614293.1__D7_50	OX614293.1	D7	50	5370	796 codons shuffled within genes (start and stop kept)
+OX614293.1__D7_100	OX614293.1	D7	100	5370	1591 codons shuffled within genes (start and stop kept)
+OX614293.1__D8_1	OX614293.1	D8	1	5370	order-5 chain from calibration genomes
+OX614293.1__D9_1	OX614293.1	D9	1	5965	window of GCF_000240185.1 at 2501780
+OX614293.1__D10_revcomp	OX614293.1	D10	revcomp	5370	reverse complement
+OX614293.1__D10_rotation	OX614293.1	D10	rotation	5370	rotated by 2816
+OX614490.1__natural	OX614490.1	natural	-	6000	
+OX614490.1__D1_10	OX614490.1	D1	10	6000	154 codons swapped of 1539 swappable
+OX614490.1__D1_30	OX614490.1	D1	30	6000	462 codons swapped of 1539 swappable
+OX614490.1__D2_0.5	OX614490.1	D2	0.5	6000	30 substitutions
+OX614490.1__D2_1	OX614490.1	D2	1	6000	60 substitutions
+OX614490.1__D2_2	OX614490.1	D2	2	6000	120 substitutions
+OX614490.1__D2_5	OX614490.1	D2	5	6000	300 substitutions
+OX614490.1__D2_10	OX614490.1	D2	10	6000	600 substitutions
+OX614490.1__D3_1	OX614490.1	D3	1	5999	del@3161
+OX614490.1__D3_3	OX614490.1	D3	3	5997	del@3830,del@3536,del@474
+OX614490.1__D3_6	OX614490.1	D3	6	5998	ins@5695,ins@5617,del@3828,del@2655,del@1371,del@460
+OX614490.1__D3_12	OX614490.1	D3	12	5994	del@5679,del@5218,ins@4499,ins@3398,del@3349,ins@2161,del@1842,del@1739,del@1325,del@939,del@806,del@379
+OX614490.1__D4_1	OX614490.1	D4	1	6000	k=1 of nominal; g1:start-removed
+OX614490.1__D4_3	OX614490.1	D4	3	6000	k=3 of nominal; g4:stop@codon3,g5:start-removed,g1:start-removed
+OX614490.1__D4_6	OX614490.1	D4	6	6000	k=4 of nominal; g4:stop@codon17,g5:start-removed,g2:start-removed,g1:stop@codon23
+OX614490.1__D5_1	OX614490.1	D5	1	4092	k=1; genes [3] removed (1908 letters)
+OX614490.1__D5_3	OX614490.1	D5	3	3990	k=3; genes [0, 2, 4] removed (2010 letters)
+OX614490.1__D5_6	OX614490.1	D5	6	2136	k=4; genes [0, 1, 3, 5] removed (3864 letters)
+OX614490.1__D6_2	OX614490.1	D6	2	6000	2 cuts at [2334, 2699], order [1, 0], flips [1, 0]
+OX614490.1__D6_4	OX614490.1	D6	4	6000	4 cuts at [124, 1329, 2272, 2481], order [0, 1, 3, 2], flips [0, 1, 0, 1]
+OX614490.1__D6_8	OX614490.1	D6	8	6000	8 cuts at [486, 943, 2010, 2984, 3498, 4159, 5680, 5774], order [1, 3, 0, 2, 7, 4, 5, 6], flips [1, 0, 0, 0, 0, 0, 0, 1]
+OX614490.1__D7_25	OX614490.1	D7	25	6000	403 codons shuffled within genes (start and stop kept)
+OX614490.1__D7_50	OX614490.1	D7	50	6000	806 codons shuffled within genes (start and stop kept)
+OX614490.1__D7_100	OX614490.1	D7	100	6000	1613 codons shuffled within genes (start and stop kept)
+OX614490.1__D8_1	OX614490.1	D8	1	6000	order-5 chain from calibration genomes
+OX614490.1__D9_1	OX614490.1	D9	1	5519	window of NC_003298.1 at 20236
+OX614490.1__D10_revcomp	OX614490.1	D10	revcomp	6000	reverse complement
+OX614490.1__D10_rotation	OX614490.1	D10	rotation	6000	rotated by 3833
+OX614603.1__natural	OX614603.1	natural	-	5851	
+OX614603.1__D1_10	OX614603.1	D1	10	5851	159 codons swapped of 1592 swappable
+OX614603.1__D1_30	OX614603.1	D1	30	5851	478 codons swapped of 1592 swappable
+OX614603.1__D2_0.5	OX614603.1	D2	0.5	5851	29 substitutions
+OX614603.1__D2_1	OX614603.1	D2	1	5851	59 substitutions
+OX614603.1__D2_2	OX614603.1	D2	2	5851	117 substitutions
+OX614603.1__D2_5	OX614603.1	D2	5	5851	293 substitutions
+OX614603.1__D2_10	OX614603.1	D2	10	5851	585 substitutions
+OX614603.1__D3_1	OX614603.1	D3	1	5852	ins@1689
+OX614603.1__D3_3	OX614603.1	D3	3	5852	ins@2400,del@2271,ins@1657
+OX614603.1__D3_6	OX614603.1	D3	6	5853	del@3549,ins@435,ins@344,ins@259,ins@206,del@129
+OX614603.1__D3_12	OX614603.1	D3	12	5855	del@5144,ins@4471,del@3998,ins@3502,ins@3376,ins@2554,del@2470,ins@1500,ins@1110,ins@898,ins@845,del@764
+OX614603.1__D4_1	OX614603.1	D4	1	5851	k=1 of nominal; g4:start-removed
+OX614603.1__D4_3	OX614603.1	D4	3	5851	k=3 of nominal; g0:stop@codon155,g4:start-removed,g3:start-removed
+OX614603.1__D4_6	OX614603.1	D4	6	5851	k=4 of nominal; g1:start-removed,g3:start-removed,g6:stop@codon120,g5:start-removed
+OX614603.1__D5_1	OX614603.1	D5	1	3682	k=1; genes [4] removed (2169 letters)
+OX614603.1__D5_3	OX614603.1	D5	3	4057	k=3; genes [0, 2, 6] removed (1794 letters)
+OX614603.1__D5_6	OX614603.1	D5	6	1416	k=5; genes [0, 2, 3, 4, 6] removed (4435 letters)
+OX614603.1__D6_2	OX614603.1	D6	2	5851	2 cuts at [2917, 3478], order [1, 0], flips [0, 1]
+OX614603.1__D6_4	OX614603.1	D6	4	5851	4 cuts at [3048, 3824, 3911, 4261], order [3, 2, 1, 0], flips [1, 1, 0, 1]
+OX614603.1__D6_8	OX614603.1	D6	8	5851	8 cuts at [1005, 1158, 1175, 1586, 2403, 2694, 3473, 4008], order [3, 4, 1, 0, 6, 5, 2, 7], flips [1, 1, 1, 0, 1, 0, 1, 1]
+OX614603.1__D7_25	OX614603.1	D7	25	5851	413 codons shuffled within genes (start and stop kept)
+OX614603.1__D7_50	OX614603.1	D7	50	5851	826 codons shuffled within genes (start and stop kept)
+OX614603.1__D7_100	OX614603.1	D7	100	5851	1652 codons shuffled within genes (start and stop kept)
+OX614603.1__D8_1	OX614603.1	D8	1	5851	order-5 chain from calibration genomes
+OX614603.1__D9_1	OX614603.1	D9	1	5028	window of GCF_000006765.1 at 716406
+OX614603.1__D10_revcomp	OX614603.1	D10	revcomp	5851	reverse complement
+OX614603.1__D10_rotation	OX614603.1	D10	rotation	5851	rotated by 2738
+OX614619.1__natural	OX614619.1	natural	-	5987	
+OX614619.1__D1_10	OX614619.1	D1	10	5987	164 codons swapped of 1644 swappable
+OX614619.1__D1_30	OX614619.1	D1	30	5987	493 codons swapped of 1644 swappable
+OX614619.1__D2_0.5	OX614619.1	D2	0.5	5987	30 substitutions
+OX614619.1__D2_1	OX614619.1	D2	1	5987	60 substitutions
+OX614619.1__D2_2	OX614619.1	D2	2	5987	120 substitutions
+OX614619.1__D2_5	OX614619.1	D2	5	5987	299 substitutions
+OX614619.1__D2_10	OX614619.1	D2	10	5987	599 substitutions
+OX614619.1__D3_1	OX614619.1	D3	1	5986	del@2638
+OX614619.1__D3_3	OX614619.1	D3	3	5984	del@5628,del@5413,del@4745
+OX614619.1__D3_6	OX614619.1	D3	6	5987	ins@5894,del@5401,del@5031,ins@3899,del@3121,ins@2782
+OX614619.1__D3_12	OX614619.1	D3	12	5985	del@5651,del@5343,ins@3279,ins@3222,del@3155,del@2933,ins@2744,del@2252,del@2192,del@1564,ins@584,ins@456
+OX614619.1__D4_1	OX614619.1	D4	1	5987	k=1 of nominal; g9:start-removed
+OX614619.1__D4_3	OX614619.1	D4	3	5987	k=3 of nominal; g1:stop@codon78,g0:start-removed,g4:start-removed
+OX614619.1__D4_6	OX614619.1	D4	6	5987	k=6 of nominal; g9:stop@codon38,g1:stop@codon85,g5:stop@codon438,g0:start-removed,g4:start-removed,g7:stop@codon13
+OX614619.1__D5_1	OX614619.1	D5	1	5867	k=1; genes [8] removed (120 letters)
+OX614619.1__D5_3	OX614619.1	D5	3	4730	k=3; genes [3, 7, 8] removed (1257 letters)
+OX614619.1__D5_6	OX614619.1	D5	6	3038	k=6; genes [0, 1, 2, 6, 7, 8] removed (2949 letters)
+OX614619.1__D6_2	OX614619.1	D6	2	5987	2 cuts at [1226, 3476], order [0, 1], flips [1, 0]
+OX614619.1__D6_4	OX614619.1	D6	4	5987	4 cuts at [2800, 4634, 4842, 5002], order [1, 3, 2, 0], flips [0, 0, 1, 0]
+OX614619.1__D6_8	OX614619.1	D6	8	5987	8 cuts at [251, 288, 430, 1440, 1861, 2558, 3610, 3904], order [5, 3, 2, 0, 4, 6, 1, 7], flips [1, 1, 1, 0, 0, 0, 1, 0]
+OX614619.1__D7_25	OX614619.1	D7	25	5987	427 codons shuffled within genes (start and stop kept)
+OX614619.1__D7_50	OX614619.1	D7	50	5987	852 codons shuffled within genes (start and stop kept)
+OX614619.1__D7_100	OX614619.1	D7	100	5987	1704 codons shuffled within genes (start and stop kept)
+OX614619.1__D8_1	OX614619.1	D8	1	5987	order-5 chain from calibration genomes
+OX614619.1__D9_1	OX614619.1	D9	1	5069	window of NC_001416.1 at 23948
+OX614619.1__D10_revcomp	OX614619.1	D10	revcomp	5987	reverse complement
+OX614619.1__D10_rotation	OX614619.1	D10	rotation	5987	rotated by 1648
+PP511325.1__natural	PP511325.1	natural	-	5107	
+PP511325.1__D1_10	PP511325.1	D1	10	5107	154 codons swapped of 1535 swappable
+PP511325.1__D1_30	PP511325.1	D1	30	5107	460 codons swapped of 1535 swappable
+PP511325.1__D2_0.5	PP511325.1	D2	0.5	5107	26 substitutions
+PP511325.1__D2_1	PP511325.1	D2	1	5107	51 substitutions
+PP511325.1__D2_2	PP511325.1	D2	2	5107	102 substitutions
+PP511325.1__D2_5	PP511325.1	D2	5	5107	255 substitutions
+PP511325.1__D2_10	PP511325.1	D2	10	5107	511 substitutions
+PP511325.1__D3_1	PP511325.1	D3	1	5106	del@1022
+PP511325.1__D3_3	PP511325.1	D3	3	5106	del@3714,del@1881,ins@2
+PP511325.1__D3_6	PP511325.1	D3	6	5107	ins@4336,ins@4323,del@4085,del@3805,del@3566,ins@669
+PP511325.1__D3_12	PP511325.1	D3	12	5109	ins@5030,ins@4353,del@3532,ins@2997,ins@2273,ins@1929,ins@1640,del@1506,ins@1320,del@1183,del@923,del@642
+PP511325.1__D4_1	PP511325.1	D4	1	5107	k=1 of nominal; g4:stop@codon75
+PP511325.1__D4_3	PP511325.1	D4	3	5107	k=3 of nominal; g5:start-removed,g3:stop@codon45,g0:stop@codon332
+PP511325.1__D4_6	PP511325.1	D4	6	5107	k=4 of nominal; g2:start-removed,g0:start-removed,g5:start-removed,g4:stop@codon35
+PP511325.1__D5_1	PP511325.1	D5	1	4615	k=1; genes [4] removed (492 letters)
+PP511325.1__D5_3	PP511325.1	D5	3	3808	k=3; genes [0, 2, 7] removed (1299 letters)
+PP511325.1__D5_6	PP511325.1	D5	6	1523	k=6; genes [1, 2, 4, 5, 6, 7] removed (3584 letters)
+PP511325.1__D6_2	PP511325.1	D6	2	5107	2 cuts at [180, 3357], order [0, 1], flips [0, 1]
+PP511325.1__D6_4	PP511325.1	D6	4	5107	4 cuts at [496, 1157, 3234, 4474], order [3, 1, 0, 2], flips [1, 1, 1, 1]
+PP511325.1__D6_8	PP511325.1	D6	8	5107	8 cuts at [583, 1288, 3207, 3504, 3657, 3669, 3939, 4090], order [3, 6, 7, 4, 1, 5, 2, 0], flips [1, 0, 0, 0, 0, 1, 0, 1]
+PP511325.1__D7_25	PP511325.1	D7	25	5107	401 codons shuffled within genes (start and stop kept)
+PP511325.1__D7_50	PP511325.1	D7	50	5107	804 codons shuffled within genes (start and stop kept)
+PP511325.1__D7_100	PP511325.1	D7	100	5107	1607 codons shuffled within genes (start and stop kept)
+PP511325.1__D8_1	PP511325.1	D8	1	5107	order-5 chain from calibration genomes
+PP511325.1__D9_1	PP511325.1	D9	1	5054	window of GCF_000006945.2 at 3395321
+PP511325.1__D10_revcomp	PP511325.1	D10	revcomp	5107	reverse complement
+PP511325.1__D10_rotation	PP511325.1	D10	rotation	5107	rotated by 2624
+PQ006516.1__natural	PQ006516.1	natural	-	5182	
+PQ006516.1__D1_10	PQ006516.1	D1	10	5182	156 codons swapped of 1565 swappable
+PQ006516.1__D1_30	PQ006516.1	D1	30	5182	470 codons swapped of 1565 swappable
+PQ006516.1__D2_0.5	PQ006516.1	D2	0.5	5182	26 substitutions
+PQ006516.1__D2_1	PQ006516.1	D2	1	5182	52 substitutions
+PQ006516.1__D2_2	PQ006516.1	D2	2	5182	104 substitutions
+PQ006516.1__D2_5	PQ006516.1	D2	5	5182	259 substitutions
+PQ006516.1__D2_10	PQ006516.1	D2	10	5182	518 substitutions
+PQ006516.1__D3_1	PQ006516.1	D3	1	5181	del@329
+PQ006516.1__D3_3	PQ006516.1	D3	3	5185	ins@4033,ins@3797,ins@3185
+PQ006516.1__D3_6	PQ006516.1	D3	6	5182	del@4832,ins@3956,del@3649,ins@2316,ins@1148,del@27
+PQ006516.1__D3_12	PQ006516.1	D3	12	5184	ins@4099,ins@3588,del@3375,ins@2592,ins@2591,del@2303,ins@1528,del@611,del@475,del@311,ins@44,ins@5
+PQ006516.1__D4_1	PQ006516.1	D4	1	5182	k=1 of nominal; g0:start-removed
+PQ006516.1__D4_3	PQ006516.1	D4	3	5182	k=3 of nominal; g3:stop@codon46,g1:stop@codon15,g6:start-removed
+PQ006516.1__D4_6	PQ006516.1	D4	6	5182	k=4 of nominal; g5:start-removed,g0:start-removed,g4:start-removed,g1:start-removed
+PQ006516.1__D5_1	PQ006516.1	D5	1	4921	k=1; genes [3] removed (261 letters)
+PQ006516.1__D5_3	PQ006516.1	D5	3	2752	k=3; genes [1, 4, 5] removed (2430 letters)
+PQ006516.1__D5_6	PQ006516.1	D5	6	1763	k=5; genes [1, 2, 3, 5, 6] removed (3419 letters)
+PQ006516.1__D6_2	PQ006516.1	D6	2	5182	2 cuts at [1071, 1257], order [0, 1], flips [1, 0]
+PQ006516.1__D6_4	PQ006516.1	D6	4	5182	4 cuts at [2235, 2243, 2559, 3555], order [3, 2, 0, 1], flips [0, 1, 0, 0]
+PQ006516.1__D6_8	PQ006516.1	D6	8	5182	8 cuts at [250, 2656, 2969, 3439, 3625, 4481, 4558, 5009], order [6, 0, 2, 4, 1, 3, 5, 7], flips [1, 0, 1, 1, 0, 1, 1, 0]
+PQ006516.1__D7_25	PQ006516.1	D7	25	5182	409 codons shuffled within genes (start and stop kept)
+PQ006516.1__D7_50	PQ006516.1	D7	50	5182	818 codons shuffled within genes (start and stop kept)
+PQ006516.1__D7_100	PQ006516.1	D7	100	5182	1636 codons shuffled within genes (start and stop kept)
+PQ006516.1__D8_1	PQ006516.1	D8	1	5182	order-5 chain from calibration genomes
+PQ006516.1__D9_1	PQ006516.1	D9	1	5216	window of NC_001604.1 at 4177
+PQ006516.1__D10_revcomp	PQ006516.1	D10	revcomp	5182	reverse complement
+PQ006516.1__D10_rotation	PQ006516.1	D10	rotation	5182	rotated by 2489
+PQ006826.1__natural	PQ006826.1	natural	-	5770	
+PQ006826.1__D1_10	PQ006826.1	D1	10	5770	115 codons swapped of 1150 swappable
+PQ006826.1__D1_30	PQ006826.1	D1	30	5770	345 codons swapped of 1150 swappable
+PQ006826.1__D2_0.5	PQ006826.1	D2	0.5	5770	29 substitutions
+PQ006826.1__D2_1	PQ006826.1	D2	1	5770	58 substitutions
+PQ006826.1__D2_2	PQ006826.1	D2	2	5770	115 substitutions
+PQ006826.1__D2_5	PQ006826.1	D2	5	5770	288 substitutions
+PQ006826.1__D2_10	PQ006826.1	D2	10	5770	577 substitutions
+PQ006826.1__D3_1	PQ006826.1	D3	1	5771	ins@4691
+PQ006826.1__D3_3	PQ006826.1	D3	3	5769	del@2496,ins@1139,del@679
+PQ006826.1__D3_6	PQ006826.1	D3	6	5772	ins@4856,del@2362,ins@1825,del@1221,ins@835,ins@199
+PQ006826.1__D3_12	PQ006826.1	D3	12	5766	ins@5454,del@4724,del@2666,del@2663,ins@2593,del@2477,ins@2236,del@1830,ins@1330,del@1127,del@909,del@150
+PQ006826.1__D4_1	PQ006826.1	D4	1	5770	k=1 of nominal; g3:stop@codon1
+PQ006826.1__D4_3	PQ006826.1	D4	3	5770	k=3 of nominal; g4:stop@codon26,g2:start-removed,g3:start-removed
+PQ006826.1__D4_6	PQ006826.1	D4	6	5770	k=4 of nominal; g0:stop@codon173,g5:start-removed,g3:start-removed,g2:start-removed
+PQ006826.1__D5_1	PQ006826.1	D5	1	4249	k=1; genes [0] removed (1521 letters)
+PQ006826.1__D5_3	PQ006826.1	D5	3	3610	k=3; genes [0, 3, 6] removed (2160 letters)
+PQ006826.1__D5_6	PQ006826.1	D5	6	3107	k=5; genes [0, 1, 2, 3, 6] removed (2663 letters)
+PQ006826.1__D6_2	PQ006826.1	D6	2	5770	2 cuts at [459, 2305], order [0, 1], flips [1, 0]
+PQ006826.1__D6_4	PQ006826.1	D6	4	5770	4 cuts at [1888, 3394, 4553, 4910], order [3, 0, 1, 2], flips [1, 0, 1, 0]
+PQ006826.1__D6_8	PQ006826.1	D6	8	5770	8 cuts at [446, 1162, 1336, 3890, 4245, 4587, 4608, 5367], order [1, 5, 7, 0, 2, 6, 3, 4], flips [0, 0, 1, 1, 1, 1, 1, 0]
+PQ006826.1__D7_25	PQ006826.1	D7	25	5770	294 codons shuffled within genes (start and stop kept)
+PQ006826.1__D7_50	PQ006826.1	D7	50	5770	588 codons shuffled within genes (start and stop kept)
+PQ006826.1__D7_100	PQ006826.1	D7	100	5770	1179 codons shuffled within genes (start and stop kept)
+PQ006826.1__D8_1	PQ006826.1	D8	1	5770	order-5 chain from calibration genomes
+PQ006826.1__D9_1	PQ006826.1	D9	1	5926	window of GCF_000006945.2 at 4558621
+PQ006826.1__D10_revcomp	PQ006826.1	D10	revcomp	5770	reverse complement
+PQ006826.1__D10_rotation	PQ006826.1	D10	rotation	5770	rotated by 5071
+PQ006857.1__natural	PQ006857.1	natural	-	4845	
+PQ006857.1__D1_10	PQ006857.1	D1	10	4845	133 codons swapped of 1333 swappable
+PQ006857.1__D1_30	PQ006857.1	D1	30	4845	400 codons swapped of 1333 swappable
+PQ006857.1__D2_0.5	PQ006857.1	D2	0.5	4845	24 substitutions
+PQ006857.1__D2_1	PQ006857.1	D2	1	4845	48 substitutions
+PQ006857.1__D2_2	PQ006857.1	D2	2	4845	97 substitutions
+PQ006857.1__D2_5	PQ006857.1	D2	5	4845	242 substitutions
+PQ006857.1__D2_10	PQ006857.1	D2	10	4845	484 substitutions
+PQ006857.1__D3_1	PQ006857.1	D3	1	4846	ins@1778
+PQ006857.1__D3_3	PQ006857.1	D3	3	4846	ins@4149,ins@1653,del@541
+PQ006857.1__D3_6	PQ006857.1	D3	6	4845	ins@4158,del@3479,ins@3094,del@1968,del@1085,ins@9
+PQ006857.1__D3_12	PQ006857.1	D3	12	4841	del@3983,ins@3507,del@2991,del@2963,del@2842,del@2551,del@1823,del@1489,del@412,ins@333,ins@167,ins@78
+PQ006857.1__D4_1	PQ006857.1	D4	1	4845	k=1 of nominal; g2:start-removed
+PQ006857.1__D4_3	PQ006857.1	D4	3	4845	k=3 of nominal; g4:start-removed,g3:start-removed,g5:stop@codon2
+PQ006857.1__D4_6	PQ006857.1	D4	6	4845	k=4 of nominal; g5:stop@codon31,g4:stop@codon51,g1:stop@codon194,g0:stop@codon115
+PQ006857.1__D5_1	PQ006857.1	D5	1	4641	k=1; genes [4] removed (204 letters)
+PQ006857.1__D5_3	PQ006857.1	D5	3	2100	k=3; genes [0, 3, 4] removed (2745 letters)
+PQ006857.1__D5_6	PQ006857.1	D5	6	1661	k=4; genes [1, 2, 3, 5] removed (3184 letters)
+PQ006857.1__D6_2	PQ006857.1	D6	2	4845	2 cuts at [2546, 3312], order [1, 0], flips [1, 0]
+PQ006857.1__D6_4	PQ006857.1	D6	4	4845	4 cuts at [27, 1629, 2859, 4842], order [1, 3, 2, 0], flips [0, 0, 1, 0]
+PQ006857.1__D6_8	PQ006857.1	D6	8	4845	8 cuts at [48, 314, 441, 940, 1956, 2834, 3463, 3741], order [5, 4, 3, 7, 6, 2, 0, 1], flips [1, 0, 1, 0, 1, 1, 1, 0]
+PQ006857.1__D7_25	PQ006857.1	D7	25	4845	345 codons shuffled within genes (start and stop kept)
+PQ006857.1__D7_50	PQ006857.1	D7	50	4845	693 codons shuffled within genes (start and stop kept)
+PQ006857.1__D7_100	PQ006857.1	D7	100	4845	1389 codons shuffled within genes (start and stop kept)
+PQ006857.1__D8_1	PQ006857.1	D8	1	4845	order-5 chain from calibration genomes
+PQ006857.1__D9_1	PQ006857.1	D9	1	5466	window of NC_011048.1 at 2820
+PQ006857.1__D10_revcomp	PQ006857.1	D10	revcomp	4845	reverse complement
+PQ006857.1__D10_rotation	PQ006857.1	D10	rotation	4845	rotated by 4006
+PQ007124.1__natural	PQ007124.1	natural	-	5366	
+PQ007124.1__D1_10	PQ007124.1	D1	10	5366	152 codons swapped of 1522 swappable
+PQ007124.1__D1_30	PQ007124.1	D1	30	5366	457 codons swapped of 1522 swappable
+PQ007124.1__D2_0.5	PQ007124.1	D2	0.5	5366	27 substitutions
+PQ007124.1__D2_1	PQ007124.1	D2	1	5366	54 substitutions
+PQ007124.1__D2_2	PQ007124.1	D2	2	5366	107 substitutions
+PQ007124.1__D2_5	PQ007124.1	D2	5	5366	268 substitutions
+PQ007124.1__D2_10	PQ007124.1	D2	10	5366	537 substitutions
+PQ007124.1__D3_1	PQ007124.1	D3	1	5367	ins@4428
+PQ007124.1__D3_3	PQ007124.1	D3	3	5365	del@3197,ins@1970,del@218
+PQ007124.1__D3_6	PQ007124.1	D3	6	5368	ins@4840,ins@3397,ins@2366,del@1921,del@1626,ins@972
+PQ007124.1__D3_12	PQ007124.1	D3	12	5368	ins@4572,del@4250,ins@3223,ins@3121,ins@2936,ins@2353,del@1804,del@983,ins@971,ins@333,del@310,del@129
+PQ007124.1__D4_1	PQ007124.1	D4	1	5366	k=1 of nominal; g5:stop@codon289
+PQ007124.1__D4_3	PQ007124.1	D4	3	5366	k=3 of nominal; g0:start-removed,g6:start-removed,g5:stop@codon2
+PQ007124.1__D4_6	PQ007124.1	D4	6	5366	k=4 of nominal; g0:start-removed,g3:start-removed,g6:stop@codon327,g7:start-removed
+PQ007124.1__D5_1	PQ007124.1	D5	1	5261	k=1; genes [2] removed (105 letters)
+PQ007124.1__D5_3	PQ007124.1	D5	3	3230	k=3; genes [3, 5, 7] removed (2136 letters)
+PQ007124.1__D5_6	PQ007124.1	D5	6	2397	k=6; genes [0, 1, 2, 3, 4, 6] removed (2969 letters)
+PQ007124.1__D6_2	PQ007124.1	D6	2	5366	2 cuts at [2931, 4862], order [1, 0], flips [1, 0]
+PQ007124.1__D6_4	PQ007124.1	D6	4	5366	4 cuts at [57, 1130, 1992, 4340], order [0, 1, 2, 3], flips [0, 1, 1, 1]
+PQ007124.1__D6_8	PQ007124.1	D6	8	5366	8 cuts at [1032, 1137, 1361, 1892, 3163, 3865, 4425, 4710], order [7, 1, 6, 5, 4, 2, 3, 0], flips [1, 0, 0, 1, 0, 1, 0, 0]
+PQ007124.1__D7_25	PQ007124.1	D7	25	5366	400 codons shuffled within genes (start and stop kept)
+PQ007124.1__D7_50	PQ007124.1	D7	50	5366	800 codons shuffled within genes (start and stop kept)
+PQ007124.1__D7_100	PQ007124.1	D7	100	5366	1603 codons shuffled within genes (start and stop kept)
+PQ007124.1__D8_1	PQ007124.1	D8	1	5366	order-5 chain from calibration genomes
+PQ007124.1__D9_1	PQ007124.1	D9	1	5998	window of GCF_000240185.1 at 714319
+PQ007124.1__D10_revcomp	PQ007124.1	D10	revcomp	5366	reverse complement
+PQ007124.1__D10_rotation	PQ007124.1	D10	rotation	5366	rotated by 1532
+PQ007287.1__natural	PQ007287.1	natural	-	5291	
+PQ007287.1__D1_10	PQ007287.1	D1	10	5291	157 codons swapped of 1573 swappable
+PQ007287.1__D1_30	PQ007287.1	D1	30	5291	472 codons swapped of 1573 swappable
+PQ007287.1__D2_0.5	PQ007287.1	D2	0.5	5291	26 substitutions
+PQ007287.1__D2_1	PQ007287.1	D2	1	5291	53 substitutions
+PQ007287.1__D2_2	PQ007287.1	D2	2	5291	106 substitutions
+PQ007287.1__D2_5	PQ007287.1	D2	5	5291	265 substitutions
+PQ007287.1__D2_10	PQ007287.1	D2	10	5291	529 substitutions
+PQ007287.1__D3_1	PQ007287.1	D3	1	5292	ins@1021
+PQ007287.1__D3_3	PQ007287.1	D3	3	5290	del@4408,del@4152,ins@978
+PQ007287.1__D3_6	PQ007287.1	D3	6	5287	del@4681,del@3811,del@3470,del@1755,ins@1691,del@497
+PQ007287.1__D3_12	PQ007287.1	D3	12	5291	ins@4677,del@4659,ins@4368,del@3471,ins@3110,del@3082,ins@2924,ins@2528,ins@2284,del@1746,del@1629,del@656
+PQ007287.1__D4_1	PQ007287.1	D4	1	5291	k=1 of nominal; g5:start-removed
+PQ007287.1__D4_3	PQ007287.1	D4	3	5291	k=3 of nominal; g1:stop@codon3,g5:stop@codon30,g0:stop@codon122
+PQ007287.1__D4_6	PQ007287.1	D4	6	5291	k=4 of nominal; g0:stop@codon80,g6:start-removed,g1:stop@codon45,g4:start-removed
+PQ007287.1__D5_1	PQ007287.1	D5	1	5174	k=1; genes [2] removed (117 letters)
+PQ007287.1__D5_3	PQ007287.1	D5	3	3918	k=3; genes [0, 2, 3] removed (1373 letters)
+PQ007287.1__D5_6	PQ007287.1	D5	6	649	k=5; genes [0, 3, 4, 5, 6] removed (4642 letters)
+PQ007287.1__D6_2	PQ007287.1	D6	2	5291	2 cuts at [573, 1603], order [1, 0], flips [1, 0]
+PQ007287.1__D6_4	PQ007287.1	D6	4	5291	4 cuts at [160, 1265, 1795, 2596], order [3, 1, 2, 0], flips [1, 0, 1, 0]
+PQ007287.1__D6_8	PQ007287.1	D6	8	5291	8 cuts at [71, 632, 1618, 1925, 2627, 2796, 3378, 5125], order [6, 7, 1, 0, 4, 3, 2, 5], flips [0, 1, 1, 1, 0, 0, 1, 0]
+PQ007287.1__D7_25	PQ007287.1	D7	25	5291	409 codons shuffled within genes (start and stop kept)
+PQ007287.1__D7_50	PQ007287.1	D7	50	5291	818 codons shuffled within genes (start and stop kept)
+PQ007287.1__D7_100	PQ007287.1	D7	100	5291	1636 codons shuffled within genes (start and stop kept)
+PQ007287.1__D8_1	PQ007287.1	D8	1	5291	order-5 chain from calibration genomes
+PQ007287.1__D9_1	PQ007287.1	D9	1	5683	window of NC_000866.4 at 9108
+PQ007287.1__D10_revcomp	PQ007287.1	D10	revcomp	5291	reverse complement
+PQ007287.1__D10_rotation	PQ007287.1	D10	rotation	5291	rotated by 1619
+PQ007416.1__natural	PQ007416.1	natural	-	5208	
+PQ007416.1__D1_10	PQ007416.1	D1	10	5208	156 codons swapped of 1560 swappable
+PQ007416.1__D1_30	PQ007416.1	D1	30	5208	468 codons swapped of 1560 swappable
+PQ007416.1__D2_0.5	PQ007416.1	D2	0.5	5208	26 substitutions
+PQ007416.1__D2_1	PQ007416.1	D2	1	5208	52 substitutions
+PQ007416.1__D2_2	PQ007416.1	D2	2	5208	104 substitutions
+PQ007416.1__D2_5	PQ007416.1	D2	5	5208	260 substitutions
+PQ007416.1__D2_10	PQ007416.1	D2	10	5208	521 substitutions
+PQ007416.1__D3_1	PQ007416.1	D3	1	5209	ins@10
+PQ007416.1__D3_3	PQ007416.1	D3	3	5205	del@1214,del@756,del@533
+PQ007416.1__D3_6	PQ007416.1	D3	6	5208	del@4583,del@4289,ins@4266,del@2810,ins@2797,ins@175
+PQ007416.1__D3_12	PQ007416.1	D3	12	5212	del@4850,ins@4418,ins@3890,ins@2971,ins@2846,ins@2638,ins@2511,del@1454,del@1126,ins@285,del@95,ins@84
+PQ007416.1__D4_1	PQ007416.1	D4	1	5208	k=1 of nominal; g5:start-removed
+PQ007416.1__D4_3	PQ007416.1	D4	3	5208	k=3 of nominal; g5:start-removed,g3:start-removed,g6:stop@codon129
+PQ007416.1__D4_6	PQ007416.1	D4	6	5208	k=4 of nominal; g3:stop@codon73,g1:stop@codon40,g4:start-removed,g6:stop@codon86
+PQ007416.1__D5_1	PQ007416.1	D5	1	5091	k=1; genes [2] removed (117 letters)
+PQ007416.1__D5_3	PQ007416.1	D5	3	3780	k=3; genes [1, 2, 6] removed (1428 letters)
+PQ007416.1__D5_6	PQ007416.1	D5	6	951	k=5; genes [0, 1, 3, 5, 6] removed (4257 letters)
+PQ007416.1__D6_2	PQ007416.1	D6	2	5208	2 cuts at [2082, 4801], order [0, 1], flips [1, 0]
+PQ007416.1__D6_4	PQ007416.1	D6	4	5208	4 cuts at [106, 1234, 2851, 4731], order [0, 2, 1, 3], flips [0, 0, 0, 1]
+PQ007416.1__D6_8	PQ007416.1	D6	8	5208	8 cuts at [1021, 1577, 1810, 3914, 4200, 4207, 5101, 5139], order [3, 7, 1, 4, 0, 2, 5, 6], flips [1, 1, 1, 1, 1, 0, 1, 1]
+PQ007416.1__D7_25	PQ007416.1	D7	25	5208	406 codons shuffled within genes (start and stop kept)
+PQ007416.1__D7_50	PQ007416.1	D7	50	5208	811 codons shuffled within genes (start and stop kept)
+PQ007416.1__D7_100	PQ007416.1	D7	100	5208	1622 codons shuffled within genes (start and stop kept)
+PQ007416.1__D8_1	PQ007416.1	D8	1	5208	order-5 chain from calibration genomes
+PQ007416.1__D9_1	PQ007416.1	D9	1	5871	window of GCF_000006945.2 at 3222737
+PQ007416.1__D10_revcomp	PQ007416.1	D10	revcomp	5208	reverse complement
+PQ007416.1__D10_rotation	PQ007416.1	D10	rotation	5208	rotated by 4468
+PQ491838.1__natural	PQ491838.1	natural	-	4723	
+PQ491838.1__D1_10	PQ491838.1	D1	10	4723	138 codons swapped of 1385 swappable
+PQ491838.1__D1_30	PQ491838.1	D1	30	4723	416 codons swapped of 1385 swappable
+PQ491838.1__D2_0.5	PQ491838.1	D2	0.5	4723	24 substitutions
+PQ491838.1__D2_1	PQ491838.1	D2	1	4723	47 substitutions
+PQ491838.1__D2_2	PQ491838.1	D2	2	4723	94 substitutions
+PQ491838.1__D2_5	PQ491838.1	D2	5	4723	236 substitutions
+PQ491838.1__D2_10	PQ491838.1	D2	10	4723	472 substitutions
+PQ491838.1__D3_1	PQ491838.1	D3	1	4722	del@1400
+PQ491838.1__D3_3	PQ491838.1	D3	3	4722	del@4104,del@179,ins@155
+PQ491838.1__D3_6	PQ491838.1	D3	6	4725	ins@4391,del@4050,del@2958,ins@1796,ins@1424,ins@963
+PQ491838.1__D3_12	PQ491838.1	D3	12	4721	ins@4631,ins@4382,del@4231,del@3620,ins@3601,del@3599,ins@3121,del@3027,ins@2294,del@2278,del@1583,del@582
+PQ491838.1__D4_1	PQ491838.1	D4	1	4723	k=1 of nominal; g0:start-removed
+PQ491838.1__D4_3	PQ491838.1	D4	3	4723	k=3 of nominal; g3:stop@codon124,g1:stop@codon44,g0:start-removed
+PQ491838.1__D4_6	PQ491838.1	D4	6	4723	k=4 of nominal; g5:start-removed,g0:stop@codon144,g3:stop@codon127,g1:start-removed
+PQ491838.1__D5_1	PQ491838.1	D5	1	4471	k=1; genes [1] removed (252 letters)
+PQ491838.1__D5_3	PQ491838.1	D5	3	2677	k=3; genes [1, 2, 4] removed (2046 letters)
+PQ491838.1__D5_6	PQ491838.1	D5	6	1089	k=5; genes [0, 2, 4, 5, 6] removed (3634 letters)
+PQ491838.1__D6_2	PQ491838.1	D6	2	4723	2 cuts at [2727, 3702], order [0, 1], flips [1, 0]
+PQ491838.1__D6_4	PQ491838.1	D6	4	4723	4 cuts at [383, 551, 3397, 3630], order [1, 3, 0, 2], flips [1, 1, 0, 1]
+PQ491838.1__D6_8	PQ491838.1	D6	8	4723	8 cuts at [631, 870, 1262, 1756, 1794, 2363, 2721, 3198], order [2, 6, 4, 7, 3, 1, 5, 0], flips [0, 0, 1, 1, 1, 0, 1, 1]
+PQ491838.1__D7_25	PQ491838.1	D7	25	4723	366 codons shuffled within genes (start and stop kept)
+PQ491838.1__D7_50	PQ491838.1	D7	50	4723	734 codons shuffled within genes (start and stop kept)
+PQ491838.1__D7_100	PQ491838.1	D7	100	4723	1469 codons shuffled within genes (start and stop kept)
+PQ491838.1__D8_1	PQ491838.1	D8	1	4723	order-5 chain from calibration genomes
+PQ491838.1__D9_1	PQ491838.1	D9	1	5589	window of NC_003298.1 at 10338
+PQ491838.1__D10_revcomp	PQ491838.1	D10	revcomp	4723	reverse complement
+PQ491838.1__D10_rotation	PQ491838.1	D10	rotation	4723	rotated by 3533
+PQ492055.1__natural	PQ492055.1	natural	-	4877	
+PQ492055.1__D1_10	PQ492055.1	D1	10	4877	141 codons swapped of 1410 swappable
+PQ492055.1__D1_30	PQ492055.1	D1	30	4877	423 codons swapped of 1410 swappable
+PQ492055.1__D2_0.5	PQ492055.1	D2	0.5	4877	24 substitutions
+PQ492055.1__D2_1	PQ492055.1	D2	1	4877	49 substitutions
+PQ492055.1__D2_2	PQ492055.1	D2	2	4877	98 substitutions
+PQ492055.1__D2_5	PQ492055.1	D2	5	4877	244 substitutions
+PQ492055.1__D2_10	PQ492055.1	D2	10	4877	488 substitutions
+PQ492055.1__D3_1	PQ492055.1	D3	1	4876	del@24
+PQ492055.1__D3_3	PQ492055.1	D3	3	4878	ins@3720,ins@2310,del@1800
+PQ492055.1__D3_6	PQ492055.1	D3	6	4877	del@3932,del@3077,ins@2738,ins@2323,del@2007,ins@1383
+PQ492055.1__D3_12	PQ492055.1	D3	12	4881	ins@4169,ins@3713,del@2931,ins@2244,ins@2116,del@1918,ins@1821,del@1263,ins@911,ins@314,del@280,ins@93
+PQ492055.1__D4_1	PQ492055.1	D4	1	4877	k=1 of nominal; g5:start-removed
+PQ492055.1__D4_3	PQ492055.1	D4	3	4877	k=3 of nominal; g2:stop@codon181,g6:start-removed,g0:stop@codon9
+PQ492055.1__D4_6	PQ492055.1	D4	6	4877	k=4 of nominal; g6:start-removed,g3:start-removed,g2:start-removed,g1:start-removed
+PQ492055.1__D5_1	PQ492055.1	D5	1	3866	k=1; genes [0] removed (1011 letters)
+PQ492055.1__D5_3	PQ492055.1	D5	3	3521	k=3; genes [0, 1, 4] removed (1356 letters)
+PQ492055.1__D5_6	PQ492055.1	D5	6	2086	k=5; genes [1, 2, 3, 4, 6] removed (2791 letters)
+PQ492055.1__D6_2	PQ492055.1	D6	2	4877	2 cuts at [2571, 4202], order [1, 0], flips [0, 1]
+PQ492055.1__D6_4	PQ492055.1	D6	4	4877	4 cuts at [291, 2059, 4196, 4248], order [3, 1, 2, 0], flips [1, 1, 1, 1]
+PQ492055.1__D6_8	PQ492055.1	D6	8	4877	8 cuts at [64, 1995, 2051, 2480, 2696, 3135, 4063, 4146], order [0, 1, 5, 4, 7, 2, 3, 6], flips [0, 1, 1, 1, 0, 0, 1, 1]
+PQ492055.1__D7_25	PQ492055.1	D7	25	4877	371 codons shuffled within genes (start and stop kept)
+PQ492055.1__D7_50	PQ492055.1	D7	50	4877	741 codons shuffled within genes (start and stop kept)
+PQ492055.1__D7_100	PQ492055.1	D7	100	4877	1480 codons shuffled within genes (start and stop kept)
+PQ492055.1__D8_1	PQ492055.1	D8	1	4877	order-5 chain from calibration genomes
+PQ492055.1__D9_1	PQ492055.1	D9	1	5202	window of GCF_000006765.1 at 4998553
+PQ492055.1__D10_revcomp	PQ492055.1	D10	revcomp	4877	reverse complement
+PQ492055.1__D10_rotation	PQ492055.1	D10	rotation	4877	rotated by 1619

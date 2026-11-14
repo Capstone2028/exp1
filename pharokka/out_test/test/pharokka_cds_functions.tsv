@@ -1,0 +1,40 @@
+Description	Count	contig
+CDS	9	KC131023.1__natural
+connector	0	KC131023.1__natural
+DNA, RNA and nucleotide metabolism	2	KC131023.1__natural
+head and packaging	3	KC131023.1__natural
+integration and excision	0	KC131023.1__natural
+lysis	0	KC131023.1__natural
+moron, auxiliary metabolic gene and host takeover	0	KC131023.1__natural
+other	0	KC131023.1__natural
+tail	1	KC131023.1__natural
+transcription regulation	0	KC131023.1__natural
+unknown function	3	KC131023.1__natural
+VFDB_Virulence_Factors	0	KC131023.1__natural
+CARD_AMR_Genes	0	KC131023.1__natural
+CDS	13	KC131023.1__D2_5
+connector	0	KC131023.1__D2_5
+DNA, RNA and nucleotide metabolism	2	KC131023.1__D2_5
+head and packaging	2	KC131023.1__D2_5
+integration and excision	0	KC131023.1__D2_5
+lysis	0	KC131023.1__D2_5
+moron, auxiliary metabolic gene and host takeover	0	KC131023.1__D2_5
+other	0	KC131023.1__D2_5
+tail	1	KC131023.1__D2_5
+transcription regulation	0	KC131023.1__D2_5
+unknown function	8	KC131023.1__D2_5
+VFDB_Virulence_Factors	0	KC131023.1__D2_5
+CARD_AMR_Genes	0	KC131023.1__D2_5
+CDS	20	KC131023.1__D8_1
+connector	0	KC131023.1__D8_1
+DNA, RNA and nucleotide metabolism	0	KC131023.1__D8_1
+head and packaging	0	KC131023.1__D8_1
+integration and excision	0	KC131023.1__D8_1
+lysis	0	KC131023.1__D8_1
+moron, auxiliary metabolic gene and host takeover	0	KC131023.1__D8_1
+other	0	KC131023.1__D8_1
+tail	0	KC131023.1__D8_1
+transcription regulation	0	KC131023.1__D8_1
+unknown function	20	KC131023.1__D8_1
+VFDB_Virulence_Factors	0	KC131023.1__D8_1
+CARD_AMR_Genes	0	KC131023.1__D8_1

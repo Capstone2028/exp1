@@ -1,0 +1,25 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+MT135277.1__NATIVE_8 -          K02822               -            0.00028   16.9   2.8   0.00048   16.2   2.5   1.4   1   1   0   1   1   1   1 # 3753 # 4058 # 1 # partial=00
+MT310334.1__SAE_4    -          K03088               -            4.2e-28   94.5   0.0   5.3e-28   94.2   0.0   1.0   1   0   0   1   1   1   1 # 1778 # 2314 # -1 # partial=00
+MW697720.1__SAE_3    -          K03088               -            0.00026   16.4   0.1   0.00027   16.4   0.1   1.2   1   0   0   1   1   1   1 # 951 # 1427 # 1 # partial=00
+MT310334.1__SAE_4    -          K03090               -              4e-08   28.6   0.2   4.9e-08   28.3   0.2   1.2   1   0   0   1   1   1   1 # 1778 # 2314 # -1 # partial=00
+MT135277.1__SAE_6    -          K03195               -             0.0018   13.4   0.0    0.0025   13.0   0.0   1.2   1   0   0   1   1   1   1 # 2332 # 3111 # 1 # partial=00
+PQ007416.1__SAE_4    -          K03301               -              0.038    7.8   1.7     0.042    7.6   1.7   1.0   1   0   0   1   1   1   0 # 3301 # 3768 # 1 # partial=00
+PQ491838.1__T07_6    -          K03313               -                1.2    3.3   7.5       1.4    3.1   7.5   1.2   1   0   0   1   1   1   0 # 3147 # 3878 # 1 # partial=00
+PQ491838.1__T07_6    -          K03320               -               0.62    4.3   5.3      0.73    4.1   5.3   1.2   1   0   0   1   1   1   0 # 3147 # 3878 # 1 # partial=00
+PQ491838.1__T07_6    -          K03455               -               0.27    5.4   7.1      0.29    5.3   7.1   1.0   1   0   0   1   1   1   0 # 3147 # 3878 # 1 # partial=00
+MT310155.1__NATIVE_8 -          K03546               -            1.9e-11   38.8   0.0     2e-11   38.8   0.0   1.0   1   0   0   1   1   1   1 # 4556 # 4948 # -1 # partial=01
+MT310334.1__SAE_4    -          K03556               -             0.0002   15.9   0.1   0.00022   15.8   0.1   1.1   1   0   0   1   1   1   1 # 1778 # 2314 # -1 # partial=00
+MT310334.1__SAE_4    -          K03709               -             0.0054   11.7   0.1    0.0064   11.5   0.1   1.2   1   0   0   1   1   1   1 # 1778 # 2314 # -1 # partial=00
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/c/Users/Meghna/Documents/College/capstone/exp1/db/checkv/checkv-db-v1.5/hmm_db/checkv_hmms/27.hmm
+# Target file:     checkv_out/tmp/proteins.faa
+# Option settings: hmmsearch -o /dev/null --tblout checkv_out/tmp/hmmsearch/27.hmmout --noali -E 10 --cpu 0 /mnt/c/Users/Meghna/Documents/College/capstone/exp1/db/checkv/checkv-db-v1.5/hmm_db/checkv_hmms/27.hmm checkv_out/tmp/proteins.faa 
+# Current dir:     /mnt/c/Users/Meghna/Documents/College/capstone/exp1/saearm
+# Date:            Sat Nov 14 05:06:32 2026
+# [ok]

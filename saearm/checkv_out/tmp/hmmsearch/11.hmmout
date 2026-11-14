@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+OM869701.1__SAE_5    -          Plug                 PF07715.15    0.0017   14.7   0.2    0.0062   13.0   0.1   1.9   2   1   1   3   3   3   1 # 1851 # 2852 # 1 # partial=00
+PQ007124.1__SAE_8    -          Pox_A14              PF05767.12       1.7    4.7   8.6      0.78    5.8   0.0   3.1   2   1   1   3   3   3   0 # 3327 # 5042 # 1 # partial=00
+PQ491838.1__T07_6    -          PYNP_C               PF07831.13   0.00039   15.9   0.5   0.00098   14.6   0.5   1.6   1   0   0   1   1   1   1 # 3147 # 3878 # 1 # partial=00
+PQ006826.1__NATIVE_11 -          ResIII               PF04851.15    0.0067   12.3   0.1     0.014   11.2   0.1   1.5   1   1   0   1   1   1   1 # 4454 # 5755 # 1 # partial=00
+MT310332.1__natural_1 -          Ribosomal_L33        PF00471.20     0.003   13.8   1.1     0.083    9.2   0.1   3.4   3   0   0   3   3   3   1 # 1 # 1053 # 1 # partial=10
+MW697720.1__NATIVE_8 -          Ribosomal_S27e       PF01667.17     0.021   10.4   4.9    0.0077   11.8   1.4   1.9   2   0   0   2   2   2   0 # 4101 # 4376 # -1 # partial=00
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/c/Users/Meghna/Documents/College/capstone/exp1/db/checkv/checkv-db-v1.5/hmm_db/checkv_hmms/11.hmm
+# Target file:     checkv_out/tmp/proteins.faa
+# Option settings: hmmsearch -o /dev/null --tblout checkv_out/tmp/hmmsearch/11.hmmout --noali -E 10 --cpu 0 /mnt/c/Users/Meghna/Documents/College/capstone/exp1/db/checkv/checkv-db-v1.5/hmm_db/checkv_hmms/11.hmm checkv_out/tmp/proteins.faa 
+# Current dir:     /mnt/c/Users/Meghna/Documents/College/capstone/exp1/saearm
+# Date:            Sat Nov 14 05:05:44 2026
+# [ok]

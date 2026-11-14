@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+ecoli_nati_s0_8      -          FAD_binding_3        PF01494.19   1.5e-05   15.9   0.0   1.8e-05   15.6   0.0   1.1   1   0   0   1   1   1   1 # 7828 # 8190 # 1 # partial=01
+ecoli_spec_s2_1      -          FixH                 PF05751.11   0.00023   12.8   0.1    0.0019    9.8   0.0   2.3   2   0   0   2   2   2   1 # 2 # 1087 # 1 # partial=10
+ecoli_real_1         -          FixH                 PF05751.11    0.0015   10.2   5.2     0.056    5.1   0.0   5.1   5   1   1   6   6   6   1 # 2 # 3052 # 1 # partial=10
+ecoli_spec_s2_1      -          FlgD_ig              PF13860.6      0.014    6.9   7.6    0.0029    9.1   0.5   3.4   3   2   0   3   3   3   0 # 2 # 1087 # 1 # partial=10
+ecoli_real_1         -          fn3_3                PF14686.6    4.5e-06   18.0  17.9    0.0029    9.1   0.3   6.3   5   0   0   5   5   5   4 # 2 # 3052 # 1 # partial=10
+ecoli_real_1         -          Glyco_hydro2_C5      PF18565.1    6.7e-11   33.6  28.7   8.5e-05   14.0   4.1  10.5   8   4   1   9   9   9   3 # 2 # 3052 # 1 # partial=10
+ecoli_nati_s1_1      -          Glyco_hydro2_C5      PF18565.1    9.9e-09   26.7  17.7   0.00014   13.3   0.5   6.9   6   1   0   6   6   6   3 # 2 # 3046 # 1 # partial=10
+ecoli_spec_s2_1      -          Glyco_hydro2_C5      PF18565.1    7.5e-05   14.2   4.6    0.0009   10.7   0.2   3.6   3   1   0   3   3   3   1 # 2 # 1087 # 1 # partial=10
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/c/Users/Meghna/Documents/College/capstone/exp1/db/checkv/checkv-db-v1.5/hmm_db/checkv_hmms/7.hmm
+# Target file:     bench/checkv_long/tmp/proteins.faa
+# Option settings: hmmsearch -o /dev/null --tblout bench/checkv_long/tmp/hmmsearch/7.hmmout --noali -E 10 --cpu 0 /mnt/c/Users/Meghna/Documents/College/capstone/exp1/db/checkv/checkv-db-v1.5/hmm_db/checkv_hmms/7.hmm bench/checkv_long/tmp/proteins.faa 
+# Current dir:     /mnt/c/Users/Meghna/Documents/College/capstone/exp1
+# Date:            Wed Nov  4 15:07:55 2026
+# [ok]

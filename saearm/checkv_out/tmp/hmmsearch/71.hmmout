@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+PQ007124.1__natural_8 -          YP_003969492@NC_014636 -             0.0041   13.0   0.1    0.0045   12.9   0.1   1.1   1   0   0   1   1   1   1 # 4757 # 4918 # 1 # partial=00
+PQ006826.1__NATIVE_5 -          YP_004123879@NC_014901 -            3.8e-05   19.2   0.6   3.9e-05   19.2   0.6   1.1   1   0   0   1   1   1   1 # 1923 # 2420 # 1 # partial=00
+MW202414.1__NATIVE_4 -          YP_004123879@NC_014901 -             0.0054   12.2   0.3    0.0064   11.9   0.3   1.1   1   0   0   1   1   1   1 # 2817 # 3347 # 1 # partial=00
+MZ364261.1__T07_4    -          YP_004251178@NC_015158 -               0.19    7.5  16.4      0.02   10.7   8.2   2.8   1   1   1   2   2   2   0 # 2818 # 3645 # 1 # partial=00
+MT135264.1__EXP1_5   -          YP_004301267@NC_015251 -             0.0036   13.2   1.3    0.0062   12.4   1.3   1.3   1   0   0   1   1   1   1 # 3162 # 3947 # 1 # partial=00
+MZ364261.1__EXP1_6   -          YP_004327203@NC_015294 -              0.004   12.6   0.1    0.0051   12.3   0.1   1.2   1   0   0   1   1   1   1 # 4170 # 4670 # 1 # partial=01
+MK496793.1__NATIVE_6 -          YP_004327496@NC_015296 -             0.0071   12.6   0.2     0.021   11.0   0.1   1.7   1   1   1   2   2   2   1 # 3705 # 4031 # 1 # partial=00
+MT135277.1__T07_2    -          YP_004414843@NC_015456 -            0.00067   15.8   0.3     0.024   10.8   0.4   2.2   2   0   0   2   2   2   2 # 1016 # 1339 # 1 # partial=00
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/c/Users/Meghna/Documents/College/capstone/exp1/db/checkv/checkv-db-v1.5/hmm_db/checkv_hmms/71.hmm
+# Target file:     checkv_out/tmp/proteins.faa
+# Option settings: hmmsearch -o /dev/null --tblout checkv_out/tmp/hmmsearch/71.hmmout --noali -E 10 --cpu 0 /mnt/c/Users/Meghna/Documents/College/capstone/exp1/db/checkv/checkv-db-v1.5/hmm_db/checkv_hmms/71.hmm checkv_out/tmp/proteins.faa 
+# Current dir:     /mnt/c/Users/Meghna/Documents/College/capstone/exp1/saearm
+# Date:            Sat Nov 14 05:08:07 2026
+# [ok]

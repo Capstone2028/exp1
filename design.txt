@@ -1,0 +1,385 @@
+Experiment 1: which predicted-plausibility metrics can be trusted?
+Damage-ladder calibration on phiX174-like phage genomes (Microviridae), with a small Evo 2 check  ·  29 October 2026  ·  capstone
+1. Aim
+Predicted biological plausibility means software predicts that a genome has what a phiX174-like phage needs: genes, protein families, protein shapes, gene order. These are predictions, not proof that the genome works. Before using them to judge generated genomes, we need to know which ones actually notice damage. The plan is to take real phage genomes, damage them in known ways, and ask each metric four questions:
+Sensitivity: does the score get worse as the damage grows?
+False alarms: does it stay unchanged when the change is harmless?
+Independence: does it notice damage that k-mer statistics (short DNA word counts) cannot see?
+Robustness: do real genomes pass it, and do different tools agree?
+Then real Evo 2 output is scored on the same scale. No viability claim is made anywhere. The calibration needs no GPU and works for any phage family, so it is the main result; the Evo 2 part is a small add-on.
+2. Metrics under test
+These are the metrics from the review whose scope was &quot;Both&quot; (complete genomes and fragments), &quot;Complete&quot;, or phage-only. Scores are computed per genome.
+ID
+Metric (tool)
+What is scored
+Scope
+M1
+Basic gates
+Length, GC, non-ACGT letters, longest single-letter run
+Both
+M2
+CheckV
+Completeness % and quality tier
+Both
+M3
+Closed-genome check
+Repeated ends that suggest a closed molecule. Likely uninformative for circular records (no repeated ends); test on natural genomes first and drop if they fail
+Complete
+M4
+Pyrodigal gene finder (meta mode)
+Gene count, coding density, mean gene length
+Both
+M5
+PHANOTATE through Pharokka
+Same three numbers
+Both
+M6
+Core-gene checklist
+How many of the family&apos;s ~11 genes are found by protein matching to calibration-set gene families
+Complete
+M7
+ORF integrity
+Share of called genes with valid start, whole codons, valid stop, no internal stop
+Both
+M8
+Gene order vs reference
+Share of neighbouring gene pairs kept in the reference order and direction
+Complete
+M9
+Start/stop layout
+Similarity of start and stop codon positions along the genome to natural genomes (simple version of the novelty preprint&apos;s score)
+Both
+M10
+Regulatory signals (optional)
+Share of genes with a ribosome-binding-site motif upstream; weak predictors
+Both
+M11
+Pfam families (pyhmmer)
+Share of genes with a Pfam hit
+Both
+M12
+PHROG families (Pharokka)
+Share of genes labelled
+Phage
+M13
+Phold structure labels
+Share of genes labelled
+Phage
+M14
+ESMFold confidence
+Mean pLDDT per protein; share above 70
+Both
+M15
+Foldseek fold match
+Share of proteins with a known-fold hit
+Both
+
+Left out: CheckM2, Bakta and Prokka (bacteria only), tRNA and rRNA tools (phiX174-like phages have none†), strand and replication layout (bacteria; uninformative in 5 kb), AlphaFold 3 complexes (needs known partners). † = from general knowledge, not checked.
+3. Data
+Natural set: complete Microviridae genomes of 4 to 6.5 kb from NCBI, including phiX174 relatives. Cluster at 95% nucleotide identity and keep one genome per cluster, so near-copies are not counted many times. Put all genomes in the same orientation and start (by matching the replication gene).
+Target: at least 90 clusters, split 30 / 60. The 30 calibration genomes define the natural range, the k-mer table for D8, and the reference gene families for M6, M8, M9. The 60 test genomes are scored. I did not count how many genomes exist; one 2012 study alone assembled 81 new complete Microviridae genomes, so hundreds is plausible. With only 60 clusters in total (20 / 40) the AUROC intervals widen to about ±0.10.
+Why 60 test genomes: AUROC (0.5 = cannot tell apart, 1.0 = always can) for a true value of 0.85 has a 95% interval of about ±0.07 with 60 genomes per group, and ±0.10 with 30 (Hanley-McNeil formula, assumes independent genomes).
+4. The damage ladder
+Each test genome gets 27 damaged versions (1,620 sequences plus 60 natural). Harmless changes (D1, D10) are controls: no metric should react.
+ID
+Damage
+How it is built
+Severities
+Purpose
+D1
+Synonymous recoding
+Swap codons for ones coding the same amino acid, only in codons not shared by two overlapping genes (a swap there changes the other gene)
+10%, 30% of codons
+Harmless control
+D2
+Random point mutations
+Random single-letter changes
+0.5, 1, 2, 5, 10%
+Gradual damage
+D3
+Frameshifts
+Insert or delete 1 letter inside genes
+1, 3, 6, 12 per genome
+Broken reading frames
+D4
+Premature stops / lost starts
+Put a stop inside, or remove the start of, whole genes
+1, 3, 6 genes
+Truncated proteins
+D5
+Gene deletion
+Remove whole genes and close the circle
+1, 3, 6 genes
+Missing parts
+D6
+Segment shuffle
+Cut at random points, reorder and flip pieces (a circular rotation and a reverse complement are harmless controls D10)
+2, 4, 8 cuts
+Breaks gene order, keeps genes
+D7
+Codon shuffle inside genes
+Shuffle codons within each gene; keeps start, stop and codon usage
+25, 50, 100% of codons
+Destroys proteins, keeps gene-like signal
+D8
+k-mer-only chain
+Generate DNA from the calibration set&apos;s 6-letter word counts, no neural network
+1
+Perfect k-mer texture, no real structure
+D9
+Wrong family
+5 to 6 kb windows of unrelated phage and bacterial genomes
+1 per genome
+Organism specificity
+D10
+Reverse complement; rotation
+Same genome read the other way or started elsewhere
+2
+Harmless control
+
+5. Predictions to test (my guesses, written down before any data)
+● = should catch it;  ○ = partly;  · = should not react. Surprises in this table are the findings.
+
+Metric
+D2 point
+D3 frame-shift
+D4 stop/start
+D5 deletion
+D6 segment shuffle
+D7 codon shuffle
+D8 k-mer chain
+D9 wrong family
+M1
+Basic gates
+·
+·
+·
+○
+·
+·
+○
+○
+M2
+CheckV
+○
+○
+○
+●
+·
+○
+●
+●
+M3
+Closed-genome
+·
+·
+·
+·
+·
+·
+·
+·
+M4
+Pyrodigal
+○
+●
+●
+●
+○
+·
+●
+○
+M5
+PHANOTATE
+○
+●
+●
+●
+·
+·
+●
+○
+M6
+Core genes
+○
+●
+●
+●
+·
+●
+●
+●
+M7
+ORF integrity
+○
+●
+●
+○
+·
+·
+○
+○
+M8
+Gene order
+·
+·
+·
+●
+●
+○
+●
+●
+M9
+Start/stop
+·
+○
+●
+○
+○
+·
+○
+○
+M10
+Regulatory
+○
+·
+·
+·
+○
+·
+○
+○
+M11
+Pfam
+○
+●
+●
+○
+·
+●
+●
+·
+M12
+PHROG
+○
+●
+●
+○
+·
+●
+●
+·
+M13
+Phold
+○
+●
+●
+○
+·
+●
+●
+·
+M14
+ESMFold pLDDT
+○
+●
+○
+·
+·
+●
+●
+·
+M15
+Foldseek
+○
+●
+○
+·
+·
+●
+●
+·
+
+The key tests: gene finders (M4, M5, M7) should be blind to D7, because codon shuffling keeps the reading frame and codon usage; only protein-level metrics (M6, M11 to M15) should see it. Generic family metrics (M11 to M13) should be blind to D9 because other phages also have real proteins; only family-specific metrics (M2, M6, M8) should catch it.
+6. The Evo 2 check
+Take the first 1,000 letters (G1) or 300 letters (G2) of 40 test genomes and let Evo 2 7B run through EvSpark (pretrained, temperature 1.0, top-k 4, the published default; EvSpark is a speed-up whose output the authors report has the same statistics as normal Evo 2) continue to the natural genome&apos;s length, so each output has a natural partner. That is 80 sequences of about 4.4 to 5.1 kb. No fine-tuning: King et al. fine-tuned on about 15,000 genomes, which does not fit a $30 budget, and their pretrained models did not recall phiX174 at any prompt length tested, so many outputs may look nothing like phiX174. That is fine for this purpose. Score them with the full panel and report two things: the distribution of each metric against the natural range, and the equivalent damage, the severity of each damage type whose metric profile is closest to the output.
+7. Analysis and decision rules (fixed in advance; thresholds are my suggestions)
+Sensitivity: AUROC of damaged vs natural test genomes at the middle severity, with a 95% bootstrap interval (resampling genomes). Dose response: Spearman correlation between severity and score. Pass: AUROC at least 0.85 with the lower bound at least 0.75, for each damage the metric was predicted to catch (●).
+False alarms: AUROC for D1 and D10 must lie between 0.40 and 0.60. Otherwise the metric is fragile.
+Independence: a metric claimed to measure gene or protein plausibility must separate D7 or D8 (where predicted ●). A metric that scores D8 as natural is texture-level only.
+Natural pass rate: define &quot;pass&quot; as inside the calibration set&apos;s 5th to 95th percentile. At least 90% of natural test genomes should pass. Standard gene finders miss genes in natural phiX174 (King et al.), so M4 and M5 may fail this; that would be a finding, and the reason M6 exists.
+Agreement: Spearman correlation between M4 and M5, and among M11 to M13, across genomes.
+Verdict per metric: Keep (all four pass), Keep with caveat (say which fails), or Drop for validity. Report results as a metric by damage grid of AUROCs, not p-values; 15 metrics by 10 damages would make single p-values misleading.
+8. Budget on Modal ($30 free credit) and run order
+Prices differ between sources (A100 80GB: about $2.50/h vs $3.72/h; H100 about $3.95/h; T4 $0.59, A10 $1.10), so check Modal&apos;s page. Speed is the main unknown. NVIDIA&apos;s Evo 2 benchmarking page lists minimum throughputs of 40 to 52 letters/s for plain 7B on one GPU. EvSpark&apos;s authors report about 2.0 to 2.4 times faster on E. coli at long context, but say the gain depends on the region and is smallest on bacterial coding DNA, and I have no figure for phage. I assume 1.5 to 2.5 times, so 60 to 120 letters/s.
+Step
+Hardware
+Assumption
+Estimate
+0. Benchmark the tools on 50 sequences (gate: go or stop)
+CPU
+Measure seconds per sequence
+&lt; $1
+1. Natural data, ladder, tools M1 to M10 on all 1,680 sequences
+CPU containers
+A few seconds per 5 kb sequence (assumed)
+&lt; $2
+2. Pharokka, pyhmmer, Phold on 220 sequences (20 genomes x 11 variants)
+CPU + T4 or L4
+Phold is the only GPU part
+&lt; $2
+3. ESMFold and Foldseek on about 1,100 proteins (10 genomes x 11 variants)
+A10
+About 3 s per protein (assumed)
+$1 to 2
+4. EvSpark setup and speed test on 5 sequences (gate): install, run its own greedy lossless check, measure letters/s
+A100 80GB or H100
+Includes 13 GB model download and a flash-attn build
+$2 to 5
+5. Evo 2 generation through EvSpark: 80 sequences, 376,000 letters
+A100 80GB or H100
+60 to 120 letters/s (1.7 to 0.9 GPU-hours)
+$2 to 7
+6. Analysis, reruns, mistakes
+CPU
+
+$2 to 3
+Total
+
+Stop at $20 spent; keep at least $10 spare
+about $7 to 22
+
+9. If phiX174 does not work: other cheap options
+The calibration (steps 0 to 3) is family-independent, so a switch costs little. Switch if: fewer than 60 natural clusters exist; Pharokka or Phold will not run within budget; or natural genomes fail most metrics so that calibration is uninformative (though that is itself a result).
+Option
+Size
+Cost per genome vs phiX174
+Fit and limits
+Other Microviridae groups only (for example Gokushovirinae†)
+about 4.5 kb†
+0.85x
+Same tools and set; more natural diversity. Already inside the plan.
+Inoviridae (M13 / f1 style filamentous phages)
+about 6.4 kb†
+1.2x
+About 10 genes†; phage tools apply; no lab labels. A good second organism.
+Small plasmids
+2 to 10 kb†
+about 1x
+Many natural plasmids in public databases†, but CheckV, PHROG and Phold do not apply, and I do not know if Evo 2 trained on them.
+phi29-like phage
+about 19 kb†
+3.6x
+Tools apply, but 80 genomes would cost roughly $9 to 28 for generation alone; use about 40 genomes.
+T7-like phage (from the earlier review)
+about 40 kb†
+7.4x
+Reference point only; too costly for this experiment.
+
+10. To verify before running
+How many natural Microviridae clusters remain after 95% deduplication (not counted).
+That Pharokka, Phold and CheckV run on 5 kb circular single-stranded phage records, and how they treat the circular start.
+Whether the pretrained Evo 2 7B produces phiX174-like output from a 300 or 1,000 letter prompt (King et al. report it did not recall phiX174).
+Real Evo 2 speed and cost on Modal (stage 4), and current Modal prices.
+EvSpark has never been run by me. Its code needs a prompt of at least 64 letters (128 in its candidate interface), loads the 7B model and a published drafter checkpoint, and accepts temperature and top-k. Step 4 must confirm all of this. If it will not install or its lossless check fails, fall back to plain Evo 2 at the slower 40 to 52 letters/s (about $7 to 10 for step 5).
+Sources: King et al. preprint, novelty and design-efficiency preprint, Pharokka benchmarking, plus the links above. Full benchmark review: &quot;Evaluating AI-generated genomes: benchmark review&quot;.

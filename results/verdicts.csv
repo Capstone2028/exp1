@@ -1,0 +1,13 @@
+metric,name,predicted_catch,sens_pass,falsealarm_pass,independence,nat_pass_two_sided,nat_pass_one_sided,d8_texture_only,verdict
+M1,Basic gates,-,,True,,0.967,1.0,True,Keep
+M2,CheckV,"D5,D8,D9",True,True,True,0.967,0.967,False,Keep
+M3,Closed-genome,-,,True,,1.0,1.0,True,Drop for validity (no reaction to any damage)
+M4,Pyrodigal,"D3,D4,D5,D8",False,False,True,0.817,0.867,False,Keep with caveat: sensitivity (D4); false alarms (D10_rotation=0.62); natural pass rate 82%
+M5,PHANOTATE,"D3,D4,D5,D8",False,True,True,0.867,0.883,False,"Keep with caveat: sensitivity (D4,D5); natural pass rate 87%"
+M6,Core genes,"D3,D4,D5,D7,D8,D9",False,True,True,0.867,0.867,False,"Keep with caveat: sensitivity (D3,D4); natural pass rate 87%"
+M7,ORF integrity,"D3,D4",False,False,,0.917,1.0,False,Drop for validity
+M8,Gene order,"D5,D6,D8,D9",False,False,True,0.917,0.917,False,"Keep with caveat: sensitivity (D5,D6); false alarms (D10_rotation=0.60)"
+M9,Start/stop,D4,False,False,,0.9,0.9,False,Drop for validity
+M10,RBS signal,-,,False,,0.883,0.9,False,Keep with caveat: false alarms (D1_30=0.62); natural pass rate 88%
+M11,Pfam,"D3,D4,D7,D8",False,True,True,0.917,0.95,False,"Keep with caveat: sensitivity (D3,D4)"
+M12,PHROG,"D3,D4,D7,D8",False,True,True,0.883,0.95,False,"Keep with caveat: sensitivity (D3,D4); natural pass rate 88%"

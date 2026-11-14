@@ -1,0 +1,58 @@
+# --- Python ---
+__pycache__/
+*.pyc
+
+# --- Large databases and downloaded tools (re-download; see README.md) ---
+db/
+bin/
+
+# --- Raw downloads and large intermediates (rebuild with the step scripts) ---
+data/mv/
+data/phix/
+data/phages/
+data/*.zip
+data/blastp_all.tsv
+data/cluster_reps.fna
+data/q_proteins.faa
+data/q_vs_ref.tsv
+data/phrog_hits.tsv
+data/tblastn_phix.tsv
+data/mm/
+data/checkv_in.fna
+data/backup_ladder/
+data/ref_proteins.faa
+data/checkv_out/*
+!data/checkv_out/quality_summary.tsv
+
+# --- Evo 2 working files that are large or rebuildable ---
+evo2/checkv_ctrl/in.fna
+evo2/checkv_ctrl/out/*
+!evo2/checkv_ctrl/out/quality_summary.tsv
+evo2/checkv_out/*
+!evo2/checkv_out/quality_summary.tsv
+
+# --- Friend's benchmark scoring: keep tables and sequences, not CheckV scratch ---
+bench/checkv_full/*
+!bench/checkv_full/quality_summary.tsv
+
+# --- Raw run logs (contain local paths and Modal app links; costs are recorded in RUNLOG.md) ---
+*.log
+*.log.jsonl
+evo2/*.log
+
+# --- Phold large outputs (the per-gene tables are kept) ---
+phold/out*/phold_prostT5_*
+phold/out*/phold.gbk
+phold/out*/sub_db_tophits/
+phold/out*/phold_3di.fasta
+
+# --- Secrets and local config ---
+.env
+*.token
+.modal.toml
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,30 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+MT310155.1__NATIVE_8 -          K02034               -            9.8e-10   33.3   0.0   1.1e-09   33.2   0.0   1.0   1   0   0   1   1   1   1 # 4556 # 4948 # -1 # partial=01
+MT310155.1__NATIVE_8 -          K02042               -             0.0006   14.3   0.0    0.0006   14.3   0.0   1.0   1   0   0   1   1   1   1 # 4556 # 4948 # -1 # partial=01
+MT310155.1__NATIVE_8 -          K02067               -            5.6e-09   31.1   0.1   6.2e-09   31.0   0.1   1.0   1   0   0   1   1   1   1 # 4556 # 4948 # -1 # partial=01
+MK496793.1__T07_5    -          K02107               -              0.047    9.0  13.1     0.009   11.3   9.8   1.4   2   0   0   2   2   2   0 # 2930 # 3625 # 1 # partial=00
+PQ007416.1__SAE_4    -          K02107               -               0.12    7.7  19.4     0.039    9.2  16.3   1.6   2   0   0   2   2   2   0 # 3301 # 3768 # 1 # partial=00
+PQ007416.1__SAE_4    -          K02121               -               0.87    4.8  31.2      0.33    6.1  28.0   1.7   2   0   0   2   2   2   0 # 3301 # 3768 # 1 # partial=00
+PQ007416.1__SAE_4    -          K02123               -              0.018    9.5   8.1     0.021    9.3   8.1   1.2   1   0   0   1   1   1   0 # 3301 # 3768 # 1 # partial=00
+MW697720.1__NATIVE_4 -          K02123               -              0.019    9.4   4.7     0.019    9.4   4.7   1.0   1   0   0   1   1   1   0 # 3067 # 3282 # -1 # partial=00
+PQ006516.1__T07_5    -          K02123               -               0.12    6.7   9.9      0.15    6.5   9.9   1.0   1   0   0   1   1   1   0 # 3737 # 3994 # -1 # partial=00
+PQ491838.1__T07_6    -          K02123               -                1.2    3.5  18.2       1.5    3.2  18.2   1.1   1   0   0   1   1   1   0 # 3147 # 3878 # 1 # partial=00
+MT135277.1__SAE_3    -          K02191               -             0.0037   12.6   0.0    0.0046   12.3   0.0   1.2   1   0   0   1   1   1   1 # 1232 # 1795 # 1 # partial=00
+PQ007416.1__NATIVE_3 -          K02231               -             0.0071   10.6   0.0    0.0098   10.1   0.0   1.1   1   0   0   1   1   1   1 # 2179 # 4083 # 1 # partial=00
+MH552523.2__T07_4    -          K02305               -               0.15    7.5   5.9       4.8    2.7   5.9   2.2   1   1   0   1   1   1   0 # 3028 # 3546 # 1 # partial=00
+PQ006516.1__T07_5    -          K02383               -               0.26    6.5  15.6      0.33    6.1  15.6   1.2   1   0   0   1   1   1   0 # 3737 # 3994 # -1 # partial=00
+MH616692.2__SAE_9    -          K02457               -            0.00058   15.5   0.0    0.0021   13.7   0.0   1.9   2   1   0   2   2   2   1 # 3894 # 4640 # -1 # partial=00
+MZ364261.1__EXP1_6   -          K02461               -              0.002   13.8   0.3    0.0024   13.5   0.3   1.0   1   0   0   1   1   1   1 # 4170 # 4670 # 1 # partial=01
+MW697720.1__NATIVE_2 -          K02616               -            8.6e-05   18.1   0.0   8.6e-05   18.1   0.0   1.1   1   0   0   1   1   1   1 # 990 # 1532 # 1 # partial=00
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/c/Users/Meghna/Documents/College/capstone/exp1/db/checkv/checkv-db-v1.5/hmm_db/checkv_hmms/26.hmm
+# Target file:     checkv_out/tmp/proteins.faa
+# Option settings: hmmsearch -o /dev/null --tblout checkv_out/tmp/hmmsearch/26.hmmout --noali -E 10 --cpu 0 /mnt/c/Users/Meghna/Documents/College/capstone/exp1/db/checkv/checkv-db-v1.5/hmm_db/checkv_hmms/26.hmm checkv_out/tmp/proteins.faa 
+# Current dir:     /mnt/c/Users/Meghna/Documents/College/capstone/exp1/saearm
+# Date:            Sat Nov 14 05:06:27 2026
+# [ok]

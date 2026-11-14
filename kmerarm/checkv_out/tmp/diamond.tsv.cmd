@@ -1,0 +1,1 @@
+diamond blastp --outfmt 6 --evalue 1e-5 --query-cover 50 --subject-cover 50 -k 10000 --query kmerarm/checkv_out/tmp/proteins.faa --db /mnt/c/Users/Meghna/Documents/College/capstone/exp1/db/checkv/checkv-db-v1.5/genome_db/checkv_reps.dmnd --threads 8 > kmerarm/checkv_out/tmp/diamond.tsv 2> kmerarm/checkv_out/tmp/diamond.tsv.log

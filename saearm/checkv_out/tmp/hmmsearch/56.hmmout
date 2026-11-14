@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+MW697720.1__EXP1_9   -          VOG11060             -             0.0012   14.5   0.1    0.0013   14.4   0.1   1.1   1   0   0   1   1   1   1 # 4479 # 4610 # 1 # partial=01
+KT264759.1__EXP1_9   -          VOG11093             -             0.0021   14.1   0.3    0.0026   13.7   0.3   1.1   1   0   0   1   1   1   1 # 3715 # 4077 # 1 # partial=00
+MW202414.1__NATIVE_4 -          VOG11286             -              0.074    8.8   5.6     0.032   10.0   1.2   2.0   1   1   1   2   2   2   0 # 2817 # 3347 # 1 # partial=00
+OP209174.1__NATIVE_3 -          VOG11306             -              0.006   11.6   0.9    0.0065   11.5   0.9   1.0   1   0   0   1   1   1   1 # 819 # 1061 # 1 # partial=00
+MZ364261.1__NATIVE_5 -          VOG11363             -               0.25    6.4  14.6    0.0049   12.0   5.7   2.0   1   1   1   2   2   2   0 # 3278 # 4177 # 1 # partial=00
+MT310332.1__SAE_2    -          VOG11364             -             0.0016   14.0   0.1    0.0024   13.4   0.1   1.2   1   0   0   1   1   1   1 # 1059 # 1340 # 1 # partial=00
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/c/Users/Meghna/Documents/College/capstone/exp1/db/checkv/checkv-db-v1.5/hmm_db/checkv_hmms/56.hmm
+# Target file:     checkv_out/tmp/proteins.faa
+# Option settings: hmmsearch -o /dev/null --tblout checkv_out/tmp/hmmsearch/56.hmmout --noali -E 10 --cpu 0 /mnt/c/Users/Meghna/Documents/College/capstone/exp1/db/checkv/checkv-db-v1.5/hmm_db/checkv_hmms/56.hmm checkv_out/tmp/proteins.faa 
+# Current dir:     /mnt/c/Users/Meghna/Documents/College/capstone/exp1/saearm
+# Date:            Sat Nov 14 05:07:37 2026
+# [ok]

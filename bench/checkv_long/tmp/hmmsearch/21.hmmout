@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+ecoli_spec_s2_4      -          TIGR01746            TIGR01746      5e-06   17.4   0.1   3.2e-05   14.7   0.1   1.9   1   1   1   2   2   2   1 # 2940 # 3503 # 1 # partial=00
+ecoli_spec_s2_4      -          TIGR01777            TIGR01777    4.4e-08   24.4   0.0     1e-07   23.2   0.0   1.7   1   1   0   1   1   1   1 # 2940 # 3503 # 1 # partial=00
+ecoli_nati_s0_8      -          TIGR01789            TIGR01789    9.9e-07   19.6   0.0   1.1e-06   19.4   0.0   1.1   1   0   0   1   1   1   1 # 7828 # 8190 # 1 # partial=01
+ecoli_nati_s1_4      -          TIGR02040            TIGR02040    1.4e-06   19.0   0.0   2.1e-06   18.4   0.0   1.2   1   0   0   1   1   1   1 # 5595 # 6920 # 1 # partial=00
+ecoli_nati_s0_5      -          TIGR02103            TIGR02103    1.9e-09   27.5   1.5   2.6e-07   20.4   0.0   3.2   1   1   1   2   2   2   2 # 4626 # 6419 # 1 # partial=00
+ecoli_real_2         -          TIGR02195            TIGR02195    4.8e-07   20.6   0.1   4.8e-07   20.6   0.1   1.1   1   0   0   1   1   1   1 # 3314 # 3640 # -1 # partial=00
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/c/Users/Meghna/Documents/College/capstone/exp1/db/checkv/checkv-db-v1.5/hmm_db/checkv_hmms/21.hmm
+# Target file:     bench/checkv_long/tmp/proteins.faa
+# Option settings: hmmsearch -o /dev/null --tblout bench/checkv_long/tmp/hmmsearch/21.hmmout --noali -E 10 --cpu 0 /mnt/c/Users/Meghna/Documents/College/capstone/exp1/db/checkv/checkv-db-v1.5/hmm_db/checkv_hmms/21.hmm bench/checkv_long/tmp/proteins.faa 
+# Current dir:     /mnt/c/Users/Meghna/Documents/College/capstone/exp1
+# Date:            Wed Nov  4 15:06:23 2026
+# [ok]

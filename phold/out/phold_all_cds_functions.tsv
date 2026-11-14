@@ -1,0 +1,3521 @@
+Description	Count	Contig
+CDS	7	MG945594.1__natural
+connector	0	MG945594.1__natural
+DNA, RNA and nucleotide metabolism	2	MG945594.1__natural
+head and packaging	2	MG945594.1__natural
+integration and excision	0	MG945594.1__natural
+lysis	0	MG945594.1__natural
+moron, auxiliary metabolic gene and host takeover	0	MG945594.1__natural
+other	0	MG945594.1__natural
+tail	0	MG945594.1__natural
+transcription regulation	0	MG945594.1__natural
+unknown function	3	MG945594.1__natural
+VFDB_Virulence_Factors	0	MG945594.1__natural
+CARD_AMR	0	MG945594.1__natural
+ACR_anti_crispr	0	MG945594.1__natural
+Defensefinder	0	MG945594.1__natural
+Netflax	0	MG945594.1__natural
+CDS	7	MG945594.1__D1_30
+connector	0	MG945594.1__D1_30
+DNA, RNA and nucleotide metabolism	2	MG945594.1__D1_30
+head and packaging	2	MG945594.1__D1_30
+integration and excision	0	MG945594.1__D1_30
+lysis	0	MG945594.1__D1_30
+moron, auxiliary metabolic gene and host takeover	0	MG945594.1__D1_30
+other	0	MG945594.1__D1_30
+tail	0	MG945594.1__D1_30
+transcription regulation	0	MG945594.1__D1_30
+unknown function	3	MG945594.1__D1_30
+VFDB_Virulence_Factors	0	MG945594.1__D1_30
+CARD_AMR	0	MG945594.1__D1_30
+ACR_anti_crispr	0	MG945594.1__D1_30
+Defensefinder	0	MG945594.1__D1_30
+Netflax	0	MG945594.1__D1_30
+CDS	7	MG945594.1__D2_2
+connector	0	MG945594.1__D2_2
+DNA, RNA and nucleotide metabolism	1	MG945594.1__D2_2
+head and packaging	2	MG945594.1__D2_2
+integration and excision	0	MG945594.1__D2_2
+lysis	0	MG945594.1__D2_2
+moron, auxiliary metabolic gene and host takeover	0	MG945594.1__D2_2
+other	0	MG945594.1__D2_2
+tail	0	MG945594.1__D2_2
+transcription regulation	0	MG945594.1__D2_2
+unknown function	4	MG945594.1__D2_2
+VFDB_Virulence_Factors	0	MG945594.1__D2_2
+CARD_AMR	0	MG945594.1__D2_2
+ACR_anti_crispr	0	MG945594.1__D2_2
+Defensefinder	0	MG945594.1__D2_2
+Netflax	0	MG945594.1__D2_2
+CDS	11	MG945594.1__D3_6
+connector	0	MG945594.1__D3_6
+DNA, RNA and nucleotide metabolism	1	MG945594.1__D3_6
+head and packaging	2	MG945594.1__D3_6
+integration and excision	0	MG945594.1__D3_6
+lysis	0	MG945594.1__D3_6
+moron, auxiliary metabolic gene and host takeover	0	MG945594.1__D3_6
+other	0	MG945594.1__D3_6
+tail	1	MG945594.1__D3_6
+transcription regulation	0	MG945594.1__D3_6
+unknown function	7	MG945594.1__D3_6
+VFDB_Virulence_Factors	0	MG945594.1__D3_6
+CARD_AMR	0	MG945594.1__D3_6
+ACR_anti_crispr	0	MG945594.1__D3_6
+Defensefinder	0	MG945594.1__D3_6
+Netflax	0	MG945594.1__D3_6
+CDS	10	MG945594.1__D4_3
+connector	0	MG945594.1__D4_3
+DNA, RNA and nucleotide metabolism	2	MG945594.1__D4_3
+head and packaging	2	MG945594.1__D4_3
+integration and excision	0	MG945594.1__D4_3
+lysis	0	MG945594.1__D4_3
+moron, auxiliary metabolic gene and host takeover	0	MG945594.1__D4_3
+other	0	MG945594.1__D4_3
+tail	1	MG945594.1__D4_3
+transcription regulation	0	MG945594.1__D4_3
+unknown function	5	MG945594.1__D4_3
+VFDB_Virulence_Factors	0	MG945594.1__D4_3
+CARD_AMR	0	MG945594.1__D4_3
+ACR_anti_crispr	0	MG945594.1__D4_3
+Defensefinder	0	MG945594.1__D4_3
+Netflax	0	MG945594.1__D4_3
+CDS	4	MG945594.1__D5_3
+connector	0	MG945594.1__D5_3
+DNA, RNA and nucleotide metabolism	0	MG945594.1__D5_3
+head and packaging	2	MG945594.1__D5_3
+integration and excision	0	MG945594.1__D5_3
+lysis	0	MG945594.1__D5_3
+moron, auxiliary metabolic gene and host takeover	0	MG945594.1__D5_3
+other	0	MG945594.1__D5_3
+tail	0	MG945594.1__D5_3
+transcription regulation	0	MG945594.1__D5_3
+unknown function	2	MG945594.1__D5_3
+VFDB_Virulence_Factors	0	MG945594.1__D5_3
+CARD_AMR	0	MG945594.1__D5_3
+ACR_anti_crispr	0	MG945594.1__D5_3
+Defensefinder	0	MG945594.1__D5_3
+Netflax	0	MG945594.1__D5_3
+CDS	8	MG945594.1__D6_4
+connector	0	MG945594.1__D6_4
+DNA, RNA and nucleotide metabolism	2	MG945594.1__D6_4
+head and packaging	2	MG945594.1__D6_4
+integration and excision	0	MG945594.1__D6_4
+lysis	0	MG945594.1__D6_4
+moron, auxiliary metabolic gene and host takeover	0	MG945594.1__D6_4
+other	0	MG945594.1__D6_4
+tail	0	MG945594.1__D6_4
+transcription regulation	0	MG945594.1__D6_4
+unknown function	4	MG945594.1__D6_4
+VFDB_Virulence_Factors	0	MG945594.1__D6_4
+CARD_AMR	0	MG945594.1__D6_4
+ACR_anti_crispr	0	MG945594.1__D6_4
+Defensefinder	0	MG945594.1__D6_4
+Netflax	0	MG945594.1__D6_4
+CDS	7	MG945594.1__D7_50
+connector	0	MG945594.1__D7_50
+DNA, RNA and nucleotide metabolism	0	MG945594.1__D7_50
+head and packaging	0	MG945594.1__D7_50
+integration and excision	0	MG945594.1__D7_50
+lysis	0	MG945594.1__D7_50
+moron, auxiliary metabolic gene and host takeover	0	MG945594.1__D7_50
+other	0	MG945594.1__D7_50
+tail	0	MG945594.1__D7_50
+transcription regulation	0	MG945594.1__D7_50
+unknown function	7	MG945594.1__D7_50
+VFDB_Virulence_Factors	0	MG945594.1__D7_50
+CARD_AMR	0	MG945594.1__D7_50
+ACR_anti_crispr	0	MG945594.1__D7_50
+Defensefinder	0	MG945594.1__D7_50
+Netflax	0	MG945594.1__D7_50
+CDS	4	MG945594.1__D8_1
+connector	0	MG945594.1__D8_1
+DNA, RNA and nucleotide metabolism	0	MG945594.1__D8_1
+head and packaging	0	MG945594.1__D8_1
+integration and excision	0	MG945594.1__D8_1
+lysis	0	MG945594.1__D8_1
+moron, auxiliary metabolic gene and host takeover	0	MG945594.1__D8_1
+other	0	MG945594.1__D8_1
+tail	0	MG945594.1__D8_1
+transcription regulation	0	MG945594.1__D8_1
+unknown function	4	MG945594.1__D8_1
+VFDB_Virulence_Factors	0	MG945594.1__D8_1
+CARD_AMR	0	MG945594.1__D8_1
+ACR_anti_crispr	0	MG945594.1__D8_1
+Defensefinder	0	MG945594.1__D8_1
+Netflax	0	MG945594.1__D8_1
+CDS	10	MG945594.1__D9_1
+connector	0	MG945594.1__D9_1
+DNA, RNA and nucleotide metabolism	3	MG945594.1__D9_1
+head and packaging	1	MG945594.1__D9_1
+integration and excision	1	MG945594.1__D9_1
+lysis	1	MG945594.1__D9_1
+moron, auxiliary metabolic gene and host takeover	0	MG945594.1__D9_1
+other	2	MG945594.1__D9_1
+tail	0	MG945594.1__D9_1
+transcription regulation	0	MG945594.1__D9_1
+unknown function	2	MG945594.1__D9_1
+VFDB_Virulence_Factors	0	MG945594.1__D9_1
+CARD_AMR	0	MG945594.1__D9_1
+ACR_anti_crispr	0	MG945594.1__D9_1
+Defensefinder	0	MG945594.1__D9_1
+Netflax	0	MG945594.1__D9_1
+CDS	8	MG945594.1__D10_rotation
+connector	0	MG945594.1__D10_rotation
+DNA, RNA and nucleotide metabolism	2	MG945594.1__D10_rotation
+head and packaging	2	MG945594.1__D10_rotation
+integration and excision	0	MG945594.1__D10_rotation
+lysis	0	MG945594.1__D10_rotation
+moron, auxiliary metabolic gene and host takeover	0	MG945594.1__D10_rotation
+other	0	MG945594.1__D10_rotation
+tail	0	MG945594.1__D10_rotation
+transcription regulation	0	MG945594.1__D10_rotation
+unknown function	4	MG945594.1__D10_rotation
+VFDB_Virulence_Factors	0	MG945594.1__D10_rotation
+CARD_AMR	0	MG945594.1__D10_rotation
+ACR_anti_crispr	0	MG945594.1__D10_rotation
+Defensefinder	0	MG945594.1__D10_rotation
+Netflax	0	MG945594.1__D10_rotation
+CDS	9	MG945809.1__natural
+connector	0	MG945809.1__natural
+DNA, RNA and nucleotide metabolism	2	MG945809.1__natural
+head and packaging	1	MG945809.1__natural
+integration and excision	0	MG945809.1__natural
+lysis	0	MG945809.1__natural
+moron, auxiliary metabolic gene and host takeover	0	MG945809.1__natural
+other	0	MG945809.1__natural
+tail	0	MG945809.1__natural
+transcription regulation	0	MG945809.1__natural
+unknown function	6	MG945809.1__natural
+VFDB_Virulence_Factors	0	MG945809.1__natural
+CARD_AMR	0	MG945809.1__natural
+ACR_anti_crispr	0	MG945809.1__natural
+Defensefinder	0	MG945809.1__natural
+Netflax	0	MG945809.1__natural
+CDS	10	MG945809.1__D1_30
+connector	0	MG945809.1__D1_30
+DNA, RNA and nucleotide metabolism	2	MG945809.1__D1_30
+head and packaging	1	MG945809.1__D1_30
+integration and excision	0	MG945809.1__D1_30
+lysis	0	MG945809.1__D1_30
+moron, auxiliary metabolic gene and host takeover	0	MG945809.1__D1_30
+other	0	MG945809.1__D1_30
+tail	0	MG945809.1__D1_30
+transcription regulation	0	MG945809.1__D1_30
+unknown function	7	MG945809.1__D1_30
+VFDB_Virulence_Factors	0	MG945809.1__D1_30
+CARD_AMR	0	MG945809.1__D1_30
+ACR_anti_crispr	0	MG945809.1__D1_30
+Defensefinder	0	MG945809.1__D1_30
+Netflax	0	MG945809.1__D1_30
+CDS	10	MG945809.1__D2_2
+connector	0	MG945809.1__D2_2
+DNA, RNA and nucleotide metabolism	2	MG945809.1__D2_2
+head and packaging	0	MG945809.1__D2_2
+integration and excision	0	MG945809.1__D2_2
+lysis	0	MG945809.1__D2_2
+moron, auxiliary metabolic gene and host takeover	0	MG945809.1__D2_2
+other	0	MG945809.1__D2_2
+tail	0	MG945809.1__D2_2
+transcription regulation	0	MG945809.1__D2_2
+unknown function	8	MG945809.1__D2_2
+VFDB_Virulence_Factors	0	MG945809.1__D2_2
+CARD_AMR	0	MG945809.1__D2_2
+ACR_anti_crispr	0	MG945809.1__D2_2
+Defensefinder	0	MG945809.1__D2_2
+Netflax	0	MG945809.1__D2_2
+CDS	13	MG945809.1__D3_6
+connector	0	MG945809.1__D3_6
+DNA, RNA and nucleotide metabolism	2	MG945809.1__D3_6
+head and packaging	1	MG945809.1__D3_6
+integration and excision	0	MG945809.1__D3_6
+lysis	0	MG945809.1__D3_6
+moron, auxiliary metabolic gene and host takeover	0	MG945809.1__D3_6
+other	0	MG945809.1__D3_6
+tail	0	MG945809.1__D3_6
+transcription regulation	0	MG945809.1__D3_6
+unknown function	10	MG945809.1__D3_6
+VFDB_Virulence_Factors	0	MG945809.1__D3_6
+CARD_AMR	0	MG945809.1__D3_6
+ACR_anti_crispr	0	MG945809.1__D3_6
+Defensefinder	0	MG945809.1__D3_6
+Netflax	0	MG945809.1__D3_6
+CDS	9	MG945809.1__D4_3
+connector	0	MG945809.1__D4_3
+DNA, RNA and nucleotide metabolism	2	MG945809.1__D4_3
+head and packaging	1	MG945809.1__D4_3
+integration and excision	0	MG945809.1__D4_3
+lysis	0	MG945809.1__D4_3
+moron, auxiliary metabolic gene and host takeover	0	MG945809.1__D4_3
+other	0	MG945809.1__D4_3
+tail	0	MG945809.1__D4_3
+transcription regulation	0	MG945809.1__D4_3
+unknown function	6	MG945809.1__D4_3
+VFDB_Virulence_Factors	0	MG945809.1__D4_3
+CARD_AMR	0	MG945809.1__D4_3
+ACR_anti_crispr	0	MG945809.1__D4_3
+Defensefinder	0	MG945809.1__D4_3
+Netflax	0	MG945809.1__D4_3
+CDS	5	MG945809.1__D5_3
+connector	0	MG945809.1__D5_3
+DNA, RNA and nucleotide metabolism	1	MG945809.1__D5_3
+head and packaging	1	MG945809.1__D5_3
+integration and excision	0	MG945809.1__D5_3
+lysis	0	MG945809.1__D5_3
+moron, auxiliary metabolic gene and host takeover	0	MG945809.1__D5_3
+other	0	MG945809.1__D5_3
+tail	0	MG945809.1__D5_3
+transcription regulation	0	MG945809.1__D5_3
+unknown function	3	MG945809.1__D5_3
+VFDB_Virulence_Factors	0	MG945809.1__D5_3
+CARD_AMR	0	MG945809.1__D5_3
+ACR_anti_crispr	0	MG945809.1__D5_3
+Defensefinder	0	MG945809.1__D5_3
+Netflax	0	MG945809.1__D5_3
+CDS	10	MG945809.1__D6_4
+connector	0	MG945809.1__D6_4
+DNA, RNA and nucleotide metabolism	2	MG945809.1__D6_4
+head and packaging	1	MG945809.1__D6_4
+integration and excision	0	MG945809.1__D6_4
+lysis	0	MG945809.1__D6_4
+moron, auxiliary metabolic gene and host takeover	0	MG945809.1__D6_4
+other	0	MG945809.1__D6_4
+tail	0	MG945809.1__D6_4
+transcription regulation	0	MG945809.1__D6_4
+unknown function	7	MG945809.1__D6_4
+VFDB_Virulence_Factors	0	MG945809.1__D6_4
+CARD_AMR	0	MG945809.1__D6_4
+ACR_anti_crispr	0	MG945809.1__D6_4
+Defensefinder	0	MG945809.1__D6_4
+Netflax	0	MG945809.1__D6_4
+CDS	7	MG945809.1__D7_50
+connector	0	MG945809.1__D7_50
+DNA, RNA and nucleotide metabolism	0	MG945809.1__D7_50
+head and packaging	0	MG945809.1__D7_50
+integration and excision	0	MG945809.1__D7_50
+lysis	0	MG945809.1__D7_50
+moron, auxiliary metabolic gene and host takeover	0	MG945809.1__D7_50
+other	0	MG945809.1__D7_50
+tail	0	MG945809.1__D7_50
+transcription regulation	0	MG945809.1__D7_50
+unknown function	7	MG945809.1__D7_50
+VFDB_Virulence_Factors	0	MG945809.1__D7_50
+CARD_AMR	0	MG945809.1__D7_50
+ACR_anti_crispr	0	MG945809.1__D7_50
+Defensefinder	0	MG945809.1__D7_50
+Netflax	0	MG945809.1__D7_50
+CDS	5	MG945809.1__D8_1
+connector	0	MG945809.1__D8_1
+DNA, RNA and nucleotide metabolism	0	MG945809.1__D8_1
+head and packaging	0	MG945809.1__D8_1
+integration and excision	0	MG945809.1__D8_1
+lysis	0	MG945809.1__D8_1
+moron, auxiliary metabolic gene and host takeover	0	MG945809.1__D8_1
+other	0	MG945809.1__D8_1
+tail	0	MG945809.1__D8_1
+transcription regulation	0	MG945809.1__D8_1
+unknown function	5	MG945809.1__D8_1
+VFDB_Virulence_Factors	0	MG945809.1__D8_1
+CARD_AMR	0	MG945809.1__D8_1
+ACR_anti_crispr	0	MG945809.1__D8_1
+Defensefinder	0	MG945809.1__D8_1
+Netflax	0	MG945809.1__D8_1
+CDS	7	MG945809.1__D9_1
+connector	0	MG945809.1__D9_1
+DNA, RNA and nucleotide metabolism	0	MG945809.1__D9_1
+head and packaging	0	MG945809.1__D9_1
+integration and excision	0	MG945809.1__D9_1
+lysis	0	MG945809.1__D9_1
+moron, auxiliary metabolic gene and host takeover	0	MG945809.1__D9_1
+other	0	MG945809.1__D9_1
+tail	5	MG945809.1__D9_1
+transcription regulation	0	MG945809.1__D9_1
+unknown function	2	MG945809.1__D9_1
+VFDB_Virulence_Factors	0	MG945809.1__D9_1
+CARD_AMR	0	MG945809.1__D9_1
+ACR_anti_crispr	0	MG945809.1__D9_1
+Defensefinder	0	MG945809.1__D9_1
+Netflax	0	MG945809.1__D9_1
+CDS	9	MG945809.1__D10_rotation
+connector	0	MG945809.1__D10_rotation
+DNA, RNA and nucleotide metabolism	2	MG945809.1__D10_rotation
+head and packaging	1	MG945809.1__D10_rotation
+integration and excision	0	MG945809.1__D10_rotation
+lysis	0	MG945809.1__D10_rotation
+moron, auxiliary metabolic gene and host takeover	0	MG945809.1__D10_rotation
+other	0	MG945809.1__D10_rotation
+tail	1	MG945809.1__D10_rotation
+transcription regulation	0	MG945809.1__D10_rotation
+unknown function	5	MG945809.1__D10_rotation
+VFDB_Virulence_Factors	0	MG945809.1__D10_rotation
+CARD_AMR	0	MG945809.1__D10_rotation
+ACR_anti_crispr	0	MG945809.1__D10_rotation
+Defensefinder	0	MG945809.1__D10_rotation
+Netflax	0	MG945809.1__D10_rotation
+CDS	6	MH029519.1__natural
+connector	0	MH029519.1__natural
+DNA, RNA and nucleotide metabolism	2	MH029519.1__natural
+head and packaging	2	MH029519.1__natural
+integration and excision	0	MH029519.1__natural
+lysis	0	MH029519.1__natural
+moron, auxiliary metabolic gene and host takeover	0	MH029519.1__natural
+other	0	MH029519.1__natural
+tail	1	MH029519.1__natural
+transcription regulation	0	MH029519.1__natural
+unknown function	1	MH029519.1__natural
+VFDB_Virulence_Factors	0	MH029519.1__natural
+CARD_AMR	0	MH029519.1__natural
+ACR_anti_crispr	0	MH029519.1__natural
+Defensefinder	0	MH029519.1__natural
+Netflax	0	MH029519.1__natural
+CDS	6	MH029519.1__D1_30
+connector	0	MH029519.1__D1_30
+DNA, RNA and nucleotide metabolism	2	MH029519.1__D1_30
+head and packaging	2	MH029519.1__D1_30
+integration and excision	0	MH029519.1__D1_30
+lysis	0	MH029519.1__D1_30
+moron, auxiliary metabolic gene and host takeover	0	MH029519.1__D1_30
+other	0	MH029519.1__D1_30
+tail	1	MH029519.1__D1_30
+transcription regulation	0	MH029519.1__D1_30
+unknown function	1	MH029519.1__D1_30
+VFDB_Virulence_Factors	0	MH029519.1__D1_30
+CARD_AMR	0	MH029519.1__D1_30
+ACR_anti_crispr	0	MH029519.1__D1_30
+Defensefinder	0	MH029519.1__D1_30
+Netflax	0	MH029519.1__D1_30
+CDS	7	MH029519.1__D2_2
+connector	0	MH029519.1__D2_2
+DNA, RNA and nucleotide metabolism	2	MH029519.1__D2_2
+head and packaging	2	MH029519.1__D2_2
+integration and excision	0	MH029519.1__D2_2
+lysis	0	MH029519.1__D2_2
+moron, auxiliary metabolic gene and host takeover	0	MH029519.1__D2_2
+other	0	MH029519.1__D2_2
+tail	1	MH029519.1__D2_2
+transcription regulation	0	MH029519.1__D2_2
+unknown function	2	MH029519.1__D2_2
+VFDB_Virulence_Factors	0	MH029519.1__D2_2
+CARD_AMR	0	MH029519.1__D2_2
+ACR_anti_crispr	0	MH029519.1__D2_2
+Defensefinder	0	MH029519.1__D2_2
+Netflax	0	MH029519.1__D2_2
+CDS	7	MH029519.1__D3_6
+connector	0	MH029519.1__D3_6
+DNA, RNA and nucleotide metabolism	2	MH029519.1__D3_6
+head and packaging	1	MH029519.1__D3_6
+integration and excision	0	MH029519.1__D3_6
+lysis	0	MH029519.1__D3_6
+moron, auxiliary metabolic gene and host takeover	0	MH029519.1__D3_6
+other	0	MH029519.1__D3_6
+tail	0	MH029519.1__D3_6
+transcription regulation	0	MH029519.1__D3_6
+unknown function	4	MH029519.1__D3_6
+VFDB_Virulence_Factors	0	MH029519.1__D3_6
+CARD_AMR	0	MH029519.1__D3_6
+ACR_anti_crispr	0	MH029519.1__D3_6
+Defensefinder	0	MH029519.1__D3_6
+Netflax	0	MH029519.1__D3_6
+CDS	6	MH029519.1__D4_3
+connector	0	MH029519.1__D4_3
+DNA, RNA and nucleotide metabolism	1	MH029519.1__D4_3
+head and packaging	2	MH029519.1__D4_3
+integration and excision	0	MH029519.1__D4_3
+lysis	0	MH029519.1__D4_3
+moron, auxiliary metabolic gene and host takeover	0	MH029519.1__D4_3
+other	0	MH029519.1__D4_3
+tail	1	MH029519.1__D4_3
+transcription regulation	0	MH029519.1__D4_3
+unknown function	2	MH029519.1__D4_3
+VFDB_Virulence_Factors	0	MH029519.1__D4_3
+CARD_AMR	0	MH029519.1__D4_3
+ACR_anti_crispr	0	MH029519.1__D4_3
+Defensefinder	0	MH029519.1__D4_3
+Netflax	0	MH029519.1__D4_3
+CDS	2	MH029519.1__D5_3
+connector	0	MH029519.1__D5_3
+DNA, RNA and nucleotide metabolism	1	MH029519.1__D5_3
+head and packaging	0	MH029519.1__D5_3
+integration and excision	0	MH029519.1__D5_3
+lysis	0	MH029519.1__D5_3
+moron, auxiliary metabolic gene and host takeover	0	MH029519.1__D5_3
+other	0	MH029519.1__D5_3
+tail	1	MH029519.1__D5_3
+transcription regulation	0	MH029519.1__D5_3
+unknown function	0	MH029519.1__D5_3
+VFDB_Virulence_Factors	0	MH029519.1__D5_3
+CARD_AMR	0	MH029519.1__D5_3
+ACR_anti_crispr	0	MH029519.1__D5_3
+Defensefinder	0	MH029519.1__D5_3
+Netflax	0	MH029519.1__D5_3
+CDS	9	MH029519.1__D6_4
+connector	0	MH029519.1__D6_4
+DNA, RNA and nucleotide metabolism	1	MH029519.1__D6_4
+head and packaging	2	MH029519.1__D6_4
+integration and excision	0	MH029519.1__D6_4
+lysis	0	MH029519.1__D6_4
+moron, auxiliary metabolic gene and host takeover	0	MH029519.1__D6_4
+other	0	MH029519.1__D6_4
+tail	1	MH029519.1__D6_4
+transcription regulation	0	MH029519.1__D6_4
+unknown function	5	MH029519.1__D6_4
+VFDB_Virulence_Factors	0	MH029519.1__D6_4
+CARD_AMR	0	MH029519.1__D6_4
+ACR_anti_crispr	0	MH029519.1__D6_4
+Defensefinder	0	MH029519.1__D6_4
+Netflax	0	MH029519.1__D6_4
+CDS	6	MH029519.1__D7_50
+connector	0	MH029519.1__D7_50
+DNA, RNA and nucleotide metabolism	0	MH029519.1__D7_50
+head and packaging	0	MH029519.1__D7_50
+integration and excision	0	MH029519.1__D7_50
+lysis	0	MH029519.1__D7_50
+moron, auxiliary metabolic gene and host takeover	0	MH029519.1__D7_50
+other	0	MH029519.1__D7_50
+tail	0	MH029519.1__D7_50
+transcription regulation	0	MH029519.1__D7_50
+unknown function	6	MH029519.1__D7_50
+VFDB_Virulence_Factors	0	MH029519.1__D7_50
+CARD_AMR	0	MH029519.1__D7_50
+ACR_anti_crispr	0	MH029519.1__D7_50
+Defensefinder	0	MH029519.1__D7_50
+Netflax	0	MH029519.1__D7_50
+CDS	3	MH029519.1__D8_1
+connector	0	MH029519.1__D8_1
+DNA, RNA and nucleotide metabolism	0	MH029519.1__D8_1
+head and packaging	0	MH029519.1__D8_1
+integration and excision	0	MH029519.1__D8_1
+lysis	0	MH029519.1__D8_1
+moron, auxiliary metabolic gene and host takeover	0	MH029519.1__D8_1
+other	0	MH029519.1__D8_1
+tail	0	MH029519.1__D8_1
+transcription regulation	0	MH029519.1__D8_1
+unknown function	3	MH029519.1__D8_1
+VFDB_Virulence_Factors	0	MH029519.1__D8_1
+CARD_AMR	0	MH029519.1__D8_1
+ACR_anti_crispr	0	MH029519.1__D8_1
+Defensefinder	0	MH029519.1__D8_1
+Netflax	0	MH029519.1__D8_1
+CDS	6	MH029519.1__D9_1
+connector	0	MH029519.1__D9_1
+DNA, RNA and nucleotide metabolism	1	MH029519.1__D9_1
+head and packaging	0	MH029519.1__D9_1
+integration and excision	0	MH029519.1__D9_1
+lysis	0	MH029519.1__D9_1
+moron, auxiliary metabolic gene and host takeover	3	MH029519.1__D9_1
+other	0	MH029519.1__D9_1
+tail	0	MH029519.1__D9_1
+transcription regulation	1	MH029519.1__D9_1
+unknown function	1	MH029519.1__D9_1
+VFDB_Virulence_Factors	1	MH029519.1__D9_1
+CARD_AMR	1	MH029519.1__D9_1
+ACR_anti_crispr	0	MH029519.1__D9_1
+Defensefinder	0	MH029519.1__D9_1
+Netflax	0	MH029519.1__D9_1
+CDS	6	MH029519.1__D10_rotation
+connector	0	MH029519.1__D10_rotation
+DNA, RNA and nucleotide metabolism	2	MH029519.1__D10_rotation
+head and packaging	2	MH029519.1__D10_rotation
+integration and excision	0	MH029519.1__D10_rotation
+lysis	0	MH029519.1__D10_rotation
+moron, auxiliary metabolic gene and host takeover	0	MH029519.1__D10_rotation
+other	0	MH029519.1__D10_rotation
+tail	1	MH029519.1__D10_rotation
+transcription regulation	0	MH029519.1__D10_rotation
+unknown function	1	MH029519.1__D10_rotation
+VFDB_Virulence_Factors	0	MH029519.1__D10_rotation
+CARD_AMR	0	MH029519.1__D10_rotation
+ACR_anti_crispr	0	MH029519.1__D10_rotation
+Defensefinder	0	MH029519.1__D10_rotation
+Netflax	0	MH029519.1__D10_rotation
+CDS	7	MH552523.2__natural
+connector	0	MH552523.2__natural
+DNA, RNA and nucleotide metabolism	2	MH552523.2__natural
+head and packaging	2	MH552523.2__natural
+integration and excision	0	MH552523.2__natural
+lysis	0	MH552523.2__natural
+moron, auxiliary metabolic gene and host takeover	0	MH552523.2__natural
+other	0	MH552523.2__natural
+tail	1	MH552523.2__natural
+transcription regulation	0	MH552523.2__natural
+unknown function	2	MH552523.2__natural
+VFDB_Virulence_Factors	0	MH552523.2__natural
+CARD_AMR	0	MH552523.2__natural
+ACR_anti_crispr	0	MH552523.2__natural
+Defensefinder	0	MH552523.2__natural
+Netflax	0	MH552523.2__natural
+CDS	7	MH552523.2__D1_30
+connector	0	MH552523.2__D1_30
+DNA, RNA and nucleotide metabolism	2	MH552523.2__D1_30
+head and packaging	2	MH552523.2__D1_30
+integration and excision	0	MH552523.2__D1_30
+lysis	0	MH552523.2__D1_30
+moron, auxiliary metabolic gene and host takeover	0	MH552523.2__D1_30
+other	0	MH552523.2__D1_30
+tail	1	MH552523.2__D1_30
+transcription regulation	0	MH552523.2__D1_30
+unknown function	2	MH552523.2__D1_30
+VFDB_Virulence_Factors	0	MH552523.2__D1_30
+CARD_AMR	0	MH552523.2__D1_30
+ACR_anti_crispr	0	MH552523.2__D1_30
+Defensefinder	0	MH552523.2__D1_30
+Netflax	0	MH552523.2__D1_30
+CDS	8	MH552523.2__D2_2
+connector	0	MH552523.2__D2_2
+DNA, RNA and nucleotide metabolism	2	MH552523.2__D2_2
+head and packaging	2	MH552523.2__D2_2
+integration and excision	0	MH552523.2__D2_2
+lysis	0	MH552523.2__D2_2
+moron, auxiliary metabolic gene and host takeover	0	MH552523.2__D2_2
+other	0	MH552523.2__D2_2
+tail	0	MH552523.2__D2_2
+transcription regulation	0	MH552523.2__D2_2
+unknown function	4	MH552523.2__D2_2
+VFDB_Virulence_Factors	0	MH552523.2__D2_2
+CARD_AMR	0	MH552523.2__D2_2
+ACR_anti_crispr	0	MH552523.2__D2_2
+Defensefinder	0	MH552523.2__D2_2
+Netflax	0	MH552523.2__D2_2
+CDS	8	MH552523.2__D3_6
+connector	0	MH552523.2__D3_6
+DNA, RNA and nucleotide metabolism	2	MH552523.2__D3_6
+head and packaging	2	MH552523.2__D3_6
+integration and excision	0	MH552523.2__D3_6
+lysis	0	MH552523.2__D3_6
+moron, auxiliary metabolic gene and host takeover	0	MH552523.2__D3_6
+other	0	MH552523.2__D3_6
+tail	1	MH552523.2__D3_6
+transcription regulation	0	MH552523.2__D3_6
+unknown function	3	MH552523.2__D3_6
+VFDB_Virulence_Factors	0	MH552523.2__D3_6
+CARD_AMR	0	MH552523.2__D3_6
+ACR_anti_crispr	0	MH552523.2__D3_6
+Defensefinder	0	MH552523.2__D3_6
+Netflax	0	MH552523.2__D3_6
+CDS	7	MH552523.2__D4_3
+connector	0	MH552523.2__D4_3
+DNA, RNA and nucleotide metabolism	1	MH552523.2__D4_3
+head and packaging	1	MH552523.2__D4_3
+integration and excision	0	MH552523.2__D4_3
+lysis	0	MH552523.2__D4_3
+moron, auxiliary metabolic gene and host takeover	0	MH552523.2__D4_3
+other	0	MH552523.2__D4_3
+tail	1	MH552523.2__D4_3
+transcription regulation	0	MH552523.2__D4_3
+unknown function	4	MH552523.2__D4_3
+VFDB_Virulence_Factors	0	MH552523.2__D4_3
+CARD_AMR	0	MH552523.2__D4_3
+ACR_anti_crispr	0	MH552523.2__D4_3
+Defensefinder	0	MH552523.2__D4_3
+Netflax	0	MH552523.2__D4_3
+CDS	4	MH552523.2__D5_3
+connector	0	MH552523.2__D5_3
+DNA, RNA and nucleotide metabolism	1	MH552523.2__D5_3
+head and packaging	1	MH552523.2__D5_3
+integration and excision	0	MH552523.2__D5_3
+lysis	0	MH552523.2__D5_3
+moron, auxiliary metabolic gene and host takeover	0	MH552523.2__D5_3
+other	0	MH552523.2__D5_3
+tail	1	MH552523.2__D5_3
+transcription regulation	0	MH552523.2__D5_3
+unknown function	1	MH552523.2__D5_3
+VFDB_Virulence_Factors	0	MH552523.2__D5_3
+CARD_AMR	0	MH552523.2__D5_3
+ACR_anti_crispr	0	MH552523.2__D5_3
+Defensefinder	0	MH552523.2__D5_3
+Netflax	0	MH552523.2__D5_3
+CDS	9	MH552523.2__D6_4
+connector	0	MH552523.2__D6_4
+DNA, RNA and nucleotide metabolism	2	MH552523.2__D6_4
+head and packaging	2	MH552523.2__D6_4
+integration and excision	0	MH552523.2__D6_4
+lysis	0	MH552523.2__D6_4
+moron, auxiliary metabolic gene and host takeover	0	MH552523.2__D6_4
+other	0	MH552523.2__D6_4
+tail	0	MH552523.2__D6_4
+transcription regulation	0	MH552523.2__D6_4
+unknown function	5	MH552523.2__D6_4
+VFDB_Virulence_Factors	0	MH552523.2__D6_4
+CARD_AMR	0	MH552523.2__D6_4
+ACR_anti_crispr	0	MH552523.2__D6_4
+Defensefinder	0	MH552523.2__D6_4
+Netflax	0	MH552523.2__D6_4
+CDS	7	MH552523.2__D7_50
+connector	0	MH552523.2__D7_50
+DNA, RNA and nucleotide metabolism	0	MH552523.2__D7_50
+head and packaging	0	MH552523.2__D7_50
+integration and excision	0	MH552523.2__D7_50
+lysis	0	MH552523.2__D7_50
+moron, auxiliary metabolic gene and host takeover	0	MH552523.2__D7_50
+other	0	MH552523.2__D7_50
+tail	0	MH552523.2__D7_50
+transcription regulation	0	MH552523.2__D7_50
+unknown function	7	MH552523.2__D7_50
+VFDB_Virulence_Factors	0	MH552523.2__D7_50
+CARD_AMR	0	MH552523.2__D7_50
+ACR_anti_crispr	0	MH552523.2__D7_50
+Defensefinder	0	MH552523.2__D7_50
+Netflax	0	MH552523.2__D7_50
+CDS	3	MH552523.2__D8_1
+connector	0	MH552523.2__D8_1
+DNA, RNA and nucleotide metabolism	0	MH552523.2__D8_1
+head and packaging	0	MH552523.2__D8_1
+integration and excision	0	MH552523.2__D8_1
+lysis	0	MH552523.2__D8_1
+moron, auxiliary metabolic gene and host takeover	0	MH552523.2__D8_1
+other	0	MH552523.2__D8_1
+tail	0	MH552523.2__D8_1
+transcription regulation	0	MH552523.2__D8_1
+unknown function	3	MH552523.2__D8_1
+VFDB_Virulence_Factors	0	MH552523.2__D8_1
+CARD_AMR	0	MH552523.2__D8_1
+ACR_anti_crispr	0	MH552523.2__D8_1
+Defensefinder	0	MH552523.2__D8_1
+Netflax	0	MH552523.2__D8_1
+CDS	8	MH552523.2__D9_1
+connector	0	MH552523.2__D9_1
+DNA, RNA and nucleotide metabolism	1	MH552523.2__D9_1
+head and packaging	0	MH552523.2__D9_1
+integration and excision	0	MH552523.2__D9_1
+lysis	0	MH552523.2__D9_1
+moron, auxiliary metabolic gene and host takeover	3	MH552523.2__D9_1
+other	0	MH552523.2__D9_1
+tail	0	MH552523.2__D9_1
+transcription regulation	0	MH552523.2__D9_1
+unknown function	4	MH552523.2__D9_1
+VFDB_Virulence_Factors	3	MH552523.2__D9_1
+CARD_AMR	0	MH552523.2__D9_1
+ACR_anti_crispr	0	MH552523.2__D9_1
+Defensefinder	0	MH552523.2__D9_1
+Netflax	0	MH552523.2__D9_1
+CDS	8	MH552523.2__D10_rotation
+connector	0	MH552523.2__D10_rotation
+DNA, RNA and nucleotide metabolism	2	MH552523.2__D10_rotation
+head and packaging	2	MH552523.2__D10_rotation
+integration and excision	0	MH552523.2__D10_rotation
+lysis	0	MH552523.2__D10_rotation
+moron, auxiliary metabolic gene and host takeover	0	MH552523.2__D10_rotation
+other	0	MH552523.2__D10_rotation
+tail	1	MH552523.2__D10_rotation
+transcription regulation	0	MH552523.2__D10_rotation
+unknown function	3	MH552523.2__D10_rotation
+VFDB_Virulence_Factors	0	MH552523.2__D10_rotation
+CARD_AMR	0	MH552523.2__D10_rotation
+ACR_anti_crispr	0	MH552523.2__D10_rotation
+Defensefinder	0	MH552523.2__D10_rotation
+Netflax	0	MH552523.2__D10_rotation
+CDS	7	MH616692.2__natural
+connector	0	MH616692.2__natural
+DNA, RNA and nucleotide metabolism	2	MH616692.2__natural
+head and packaging	2	MH616692.2__natural
+integration and excision	0	MH616692.2__natural
+lysis	0	MH616692.2__natural
+moron, auxiliary metabolic gene and host takeover	0	MH616692.2__natural
+other	0	MH616692.2__natural
+tail	1	MH616692.2__natural
+transcription regulation	0	MH616692.2__natural
+unknown function	2	MH616692.2__natural
+VFDB_Virulence_Factors	0	MH616692.2__natural
+CARD_AMR	0	MH616692.2__natural
+ACR_anti_crispr	0	MH616692.2__natural
+Defensefinder	0	MH616692.2__natural
+Netflax	0	MH616692.2__natural
+CDS	7	MH616692.2__D1_30
+connector	0	MH616692.2__D1_30
+DNA, RNA and nucleotide metabolism	2	MH616692.2__D1_30
+head and packaging	2	MH616692.2__D1_30
+integration and excision	0	MH616692.2__D1_30
+lysis	0	MH616692.2__D1_30
+moron, auxiliary metabolic gene and host takeover	0	MH616692.2__D1_30
+other	0	MH616692.2__D1_30
+tail	1	MH616692.2__D1_30
+transcription regulation	0	MH616692.2__D1_30
+unknown function	2	MH616692.2__D1_30
+VFDB_Virulence_Factors	0	MH616692.2__D1_30
+CARD_AMR	0	MH616692.2__D1_30
+ACR_anti_crispr	0	MH616692.2__D1_30
+Defensefinder	0	MH616692.2__D1_30
+Netflax	0	MH616692.2__D1_30
+CDS	9	MH616692.2__D2_2
+connector	0	MH616692.2__D2_2
+DNA, RNA and nucleotide metabolism	2	MH616692.2__D2_2
+head and packaging	2	MH616692.2__D2_2
+integration and excision	0	MH616692.2__D2_2
+lysis	0	MH616692.2__D2_2
+moron, auxiliary metabolic gene and host takeover	0	MH616692.2__D2_2
+other	0	MH616692.2__D2_2
+tail	1	MH616692.2__D2_2
+transcription regulation	0	MH616692.2__D2_2
+unknown function	4	MH616692.2__D2_2
+VFDB_Virulence_Factors	0	MH616692.2__D2_2
+CARD_AMR	0	MH616692.2__D2_2
+ACR_anti_crispr	0	MH616692.2__D2_2
+Defensefinder	0	MH616692.2__D2_2
+Netflax	0	MH616692.2__D2_2
+CDS	9	MH616692.2__D3_6
+connector	0	MH616692.2__D3_6
+DNA, RNA and nucleotide metabolism	2	MH616692.2__D3_6
+head and packaging	2	MH616692.2__D3_6
+integration and excision	0	MH616692.2__D3_6
+lysis	0	MH616692.2__D3_6
+moron, auxiliary metabolic gene and host takeover	0	MH616692.2__D3_6
+other	0	MH616692.2__D3_6
+tail	1	MH616692.2__D3_6
+transcription regulation	0	MH616692.2__D3_6
+unknown function	4	MH616692.2__D3_6
+VFDB_Virulence_Factors	0	MH616692.2__D3_6
+CARD_AMR	0	MH616692.2__D3_6
+ACR_anti_crispr	0	MH616692.2__D3_6
+Defensefinder	0	MH616692.2__D3_6
+Netflax	0	MH616692.2__D3_6
+CDS	7	MH616692.2__D4_3
+connector	0	MH616692.2__D4_3
+DNA, RNA and nucleotide metabolism	2	MH616692.2__D4_3
+head and packaging	2	MH616692.2__D4_3
+integration and excision	0	MH616692.2__D4_3
+lysis	0	MH616692.2__D4_3
+moron, auxiliary metabolic gene and host takeover	0	MH616692.2__D4_3
+other	0	MH616692.2__D4_3
+tail	0	MH616692.2__D4_3
+transcription regulation	0	MH616692.2__D4_3
+unknown function	3	MH616692.2__D4_3
+VFDB_Virulence_Factors	0	MH616692.2__D4_3
+CARD_AMR	0	MH616692.2__D4_3
+ACR_anti_crispr	0	MH616692.2__D4_3
+Defensefinder	0	MH616692.2__D4_3
+Netflax	0	MH616692.2__D4_3
+CDS	4	MH616692.2__D5_3
+connector	0	MH616692.2__D5_3
+DNA, RNA and nucleotide metabolism	0	MH616692.2__D5_3
+head and packaging	1	MH616692.2__D5_3
+integration and excision	0	MH616692.2__D5_3
+lysis	0	MH616692.2__D5_3
+moron, auxiliary metabolic gene and host takeover	0	MH616692.2__D5_3
+other	0	MH616692.2__D5_3
+tail	1	MH616692.2__D5_3
+transcription regulation	0	MH616692.2__D5_3
+unknown function	2	MH616692.2__D5_3
+VFDB_Virulence_Factors	0	MH616692.2__D5_3
+CARD_AMR	0	MH616692.2__D5_3
+ACR_anti_crispr	0	MH616692.2__D5_3
+Defensefinder	0	MH616692.2__D5_3
+Netflax	0	MH616692.2__D5_3
+CDS	6	MH616692.2__D6_4
+connector	0	MH616692.2__D6_4
+DNA, RNA and nucleotide metabolism	1	MH616692.2__D6_4
+head and packaging	2	MH616692.2__D6_4
+integration and excision	0	MH616692.2__D6_4
+lysis	0	MH616692.2__D6_4
+moron, auxiliary metabolic gene and host takeover	0	MH616692.2__D6_4
+other	0	MH616692.2__D6_4
+tail	1	MH616692.2__D6_4
+transcription regulation	0	MH616692.2__D6_4
+unknown function	2	MH616692.2__D6_4
+VFDB_Virulence_Factors	0	MH616692.2__D6_4
+CARD_AMR	0	MH616692.2__D6_4
+ACR_anti_crispr	0	MH616692.2__D6_4
+Defensefinder	0	MH616692.2__D6_4
+Netflax	0	MH616692.2__D6_4
+CDS	6	MH616692.2__D7_50
+connector	0	MH616692.2__D7_50
+DNA, RNA and nucleotide metabolism	0	MH616692.2__D7_50
+head and packaging	0	MH616692.2__D7_50
+integration and excision	0	MH616692.2__D7_50
+lysis	0	MH616692.2__D7_50
+moron, auxiliary metabolic gene and host takeover	0	MH616692.2__D7_50
+other	0	MH616692.2__D7_50
+tail	0	MH616692.2__D7_50
+transcription regulation	0	MH616692.2__D7_50
+unknown function	6	MH616692.2__D7_50
+VFDB_Virulence_Factors	0	MH616692.2__D7_50
+CARD_AMR	0	MH616692.2__D7_50
+ACR_anti_crispr	0	MH616692.2__D7_50
+Defensefinder	0	MH616692.2__D7_50
+Netflax	0	MH616692.2__D7_50
+CDS	4	MH616692.2__D8_1
+connector	0	MH616692.2__D8_1
+DNA, RNA and nucleotide metabolism	0	MH616692.2__D8_1
+head and packaging	0	MH616692.2__D8_1
+integration and excision	0	MH616692.2__D8_1
+lysis	0	MH616692.2__D8_1
+moron, auxiliary metabolic gene and host takeover	0	MH616692.2__D8_1
+other	0	MH616692.2__D8_1
+tail	0	MH616692.2__D8_1
+transcription regulation	0	MH616692.2__D8_1
+unknown function	4	MH616692.2__D8_1
+VFDB_Virulence_Factors	0	MH616692.2__D8_1
+CARD_AMR	0	MH616692.2__D8_1
+ACR_anti_crispr	0	MH616692.2__D8_1
+Defensefinder	0	MH616692.2__D8_1
+Netflax	0	MH616692.2__D8_1
+CDS	6	MH616692.2__D9_1
+connector	0	MH616692.2__D9_1
+DNA, RNA and nucleotide metabolism	0	MH616692.2__D9_1
+head and packaging	0	MH616692.2__D9_1
+integration and excision	0	MH616692.2__D9_1
+lysis	0	MH616692.2__D9_1
+moron, auxiliary metabolic gene and host takeover	6	MH616692.2__D9_1
+other	0	MH616692.2__D9_1
+tail	0	MH616692.2__D9_1
+transcription regulation	0	MH616692.2__D9_1
+unknown function	0	MH616692.2__D9_1
+VFDB_Virulence_Factors	6	MH616692.2__D9_1
+CARD_AMR	0	MH616692.2__D9_1
+ACR_anti_crispr	0	MH616692.2__D9_1
+Defensefinder	0	MH616692.2__D9_1
+Netflax	0	MH616692.2__D9_1
+CDS	7	MH616692.2__D10_rotation
+connector	0	MH616692.2__D10_rotation
+DNA, RNA and nucleotide metabolism	2	MH616692.2__D10_rotation
+head and packaging	2	MH616692.2__D10_rotation
+integration and excision	0	MH616692.2__D10_rotation
+lysis	0	MH616692.2__D10_rotation
+moron, auxiliary metabolic gene and host takeover	0	MH616692.2__D10_rotation
+other	0	MH616692.2__D10_rotation
+tail	1	MH616692.2__D10_rotation
+transcription regulation	0	MH616692.2__D10_rotation
+unknown function	2	MH616692.2__D10_rotation
+VFDB_Virulence_Factors	0	MH616692.2__D10_rotation
+CARD_AMR	0	MH616692.2__D10_rotation
+ACR_anti_crispr	0	MH616692.2__D10_rotation
+Defensefinder	0	MH616692.2__D10_rotation
+Netflax	0	MH616692.2__D10_rotation
+CDS	8	MH617473.2__natural
+connector	0	MH617473.2__natural
+DNA, RNA and nucleotide metabolism	2	MH617473.2__natural
+head and packaging	2	MH617473.2__natural
+integration and excision	0	MH617473.2__natural
+lysis	0	MH617473.2__natural
+moron, auxiliary metabolic gene and host takeover	0	MH617473.2__natural
+other	0	MH617473.2__natural
+tail	0	MH617473.2__natural
+transcription regulation	0	MH617473.2__natural
+unknown function	4	MH617473.2__natural
+VFDB_Virulence_Factors	0	MH617473.2__natural
+CARD_AMR	0	MH617473.2__natural
+ACR_anti_crispr	0	MH617473.2__natural
+Defensefinder	0	MH617473.2__natural
+Netflax	0	MH617473.2__natural
+CDS	7	MH617473.2__D1_30
+connector	0	MH617473.2__D1_30
+DNA, RNA and nucleotide metabolism	2	MH617473.2__D1_30
+head and packaging	2	MH617473.2__D1_30
+integration and excision	0	MH617473.2__D1_30
+lysis	0	MH617473.2__D1_30
+moron, auxiliary metabolic gene and host takeover	0	MH617473.2__D1_30
+other	0	MH617473.2__D1_30
+tail	0	MH617473.2__D1_30
+transcription regulation	0	MH617473.2__D1_30
+unknown function	3	MH617473.2__D1_30
+VFDB_Virulence_Factors	0	MH617473.2__D1_30
+CARD_AMR	0	MH617473.2__D1_30
+ACR_anti_crispr	0	MH617473.2__D1_30
+Defensefinder	0	MH617473.2__D1_30
+Netflax	0	MH617473.2__D1_30
+CDS	9	MH617473.2__D2_2
+connector	0	MH617473.2__D2_2
+DNA, RNA and nucleotide metabolism	2	MH617473.2__D2_2
+head and packaging	2	MH617473.2__D2_2
+integration and excision	0	MH617473.2__D2_2
+lysis	0	MH617473.2__D2_2
+moron, auxiliary metabolic gene and host takeover	0	MH617473.2__D2_2
+other	0	MH617473.2__D2_2
+tail	0	MH617473.2__D2_2
+transcription regulation	0	MH617473.2__D2_2
+unknown function	5	MH617473.2__D2_2
+VFDB_Virulence_Factors	0	MH617473.2__D2_2
+CARD_AMR	0	MH617473.2__D2_2
+ACR_anti_crispr	0	MH617473.2__D2_2
+Defensefinder	0	MH617473.2__D2_2
+Netflax	0	MH617473.2__D2_2
+CDS	11	MH617473.2__D3_6
+connector	0	MH617473.2__D3_6
+DNA, RNA and nucleotide metabolism	2	MH617473.2__D3_6
+head and packaging	2	MH617473.2__D3_6
+integration and excision	0	MH617473.2__D3_6
+lysis	0	MH617473.2__D3_6
+moron, auxiliary metabolic gene and host takeover	0	MH617473.2__D3_6
+other	0	MH617473.2__D3_6
+tail	0	MH617473.2__D3_6
+transcription regulation	0	MH617473.2__D3_6
+unknown function	7	MH617473.2__D3_6
+VFDB_Virulence_Factors	0	MH617473.2__D3_6
+CARD_AMR	0	MH617473.2__D3_6
+ACR_anti_crispr	0	MH617473.2__D3_6
+Defensefinder	0	MH617473.2__D3_6
+Netflax	0	MH617473.2__D3_6
+CDS	7	MH617473.2__D4_3
+connector	0	MH617473.2__D4_3
+DNA, RNA and nucleotide metabolism	2	MH617473.2__D4_3
+head and packaging	2	MH617473.2__D4_3
+integration and excision	0	MH617473.2__D4_3
+lysis	0	MH617473.2__D4_3
+moron, auxiliary metabolic gene and host takeover	0	MH617473.2__D4_3
+other	0	MH617473.2__D4_3
+tail	0	MH617473.2__D4_3
+transcription regulation	0	MH617473.2__D4_3
+unknown function	3	MH617473.2__D4_3
+VFDB_Virulence_Factors	0	MH617473.2__D4_3
+CARD_AMR	0	MH617473.2__D4_3
+ACR_anti_crispr	0	MH617473.2__D4_3
+Defensefinder	0	MH617473.2__D4_3
+Netflax	0	MH617473.2__D4_3
+CDS	5	MH617473.2__D5_3
+connector	0	MH617473.2__D5_3
+DNA, RNA and nucleotide metabolism	1	MH617473.2__D5_3
+head and packaging	2	MH617473.2__D5_3
+integration and excision	0	MH617473.2__D5_3
+lysis	0	MH617473.2__D5_3
+moron, auxiliary metabolic gene and host takeover	0	MH617473.2__D5_3
+other	0	MH617473.2__D5_3
+tail	0	MH617473.2__D5_3
+transcription regulation	0	MH617473.2__D5_3
+unknown function	2	MH617473.2__D5_3
+VFDB_Virulence_Factors	0	MH617473.2__D5_3
+CARD_AMR	0	MH617473.2__D5_3
+ACR_anti_crispr	0	MH617473.2__D5_3
+Defensefinder	0	MH617473.2__D5_3
+Netflax	0	MH617473.2__D5_3
+CDS	11	MH617473.2__D6_4
+connector	0	MH617473.2__D6_4
+DNA, RNA and nucleotide metabolism	2	MH617473.2__D6_4
+head and packaging	1	MH617473.2__D6_4
+integration and excision	0	MH617473.2__D6_4
+lysis	0	MH617473.2__D6_4
+moron, auxiliary metabolic gene and host takeover	0	MH617473.2__D6_4
+other	0	MH617473.2__D6_4
+tail	0	MH617473.2__D6_4
+transcription regulation	0	MH617473.2__D6_4
+unknown function	8	MH617473.2__D6_4
+VFDB_Virulence_Factors	0	MH617473.2__D6_4
+CARD_AMR	0	MH617473.2__D6_4
+ACR_anti_crispr	0	MH617473.2__D6_4
+Defensefinder	0	MH617473.2__D6_4
+Netflax	0	MH617473.2__D6_4
+CDS	6	MH617473.2__D7_50
+connector	0	MH617473.2__D7_50
+DNA, RNA and nucleotide metabolism	0	MH617473.2__D7_50
+head and packaging	0	MH617473.2__D7_50
+integration and excision	0	MH617473.2__D7_50
+lysis	0	MH617473.2__D7_50
+moron, auxiliary metabolic gene and host takeover	0	MH617473.2__D7_50
+other	0	MH617473.2__D7_50
+tail	0	MH617473.2__D7_50
+transcription regulation	0	MH617473.2__D7_50
+unknown function	6	MH617473.2__D7_50
+VFDB_Virulence_Factors	0	MH617473.2__D7_50
+CARD_AMR	0	MH617473.2__D7_50
+ACR_anti_crispr	0	MH617473.2__D7_50
+Defensefinder	0	MH617473.2__D7_50
+Netflax	0	MH617473.2__D7_50
+CDS	5	MH617473.2__D8_1
+connector	0	MH617473.2__D8_1
+DNA, RNA and nucleotide metabolism	0	MH617473.2__D8_1
+head and packaging	0	MH617473.2__D8_1
+integration and excision	0	MH617473.2__D8_1
+lysis	0	MH617473.2__D8_1
+moron, auxiliary metabolic gene and host takeover	0	MH617473.2__D8_1
+other	0	MH617473.2__D8_1
+tail	0	MH617473.2__D8_1
+transcription regulation	0	MH617473.2__D8_1
+unknown function	5	MH617473.2__D8_1
+VFDB_Virulence_Factors	0	MH617473.2__D8_1
+CARD_AMR	0	MH617473.2__D8_1
+ACR_anti_crispr	0	MH617473.2__D8_1
+Defensefinder	0	MH617473.2__D8_1
+Netflax	0	MH617473.2__D8_1
+CDS	4	MH617473.2__D9_1
+connector	0	MH617473.2__D9_1
+DNA, RNA and nucleotide metabolism	0	MH617473.2__D9_1
+head and packaging	0	MH617473.2__D9_1
+integration and excision	0	MH617473.2__D9_1
+lysis	0	MH617473.2__D9_1
+moron, auxiliary metabolic gene and host takeover	3	MH617473.2__D9_1
+other	0	MH617473.2__D9_1
+tail	0	MH617473.2__D9_1
+transcription regulation	0	MH617473.2__D9_1
+unknown function	1	MH617473.2__D9_1
+VFDB_Virulence_Factors	3	MH617473.2__D9_1
+CARD_AMR	0	MH617473.2__D9_1
+ACR_anti_crispr	0	MH617473.2__D9_1
+Defensefinder	0	MH617473.2__D9_1
+Netflax	0	MH617473.2__D9_1
+CDS	9	MH617473.2__D10_rotation
+connector	0	MH617473.2__D10_rotation
+DNA, RNA and nucleotide metabolism	2	MH617473.2__D10_rotation
+head and packaging	2	MH617473.2__D10_rotation
+integration and excision	0	MH617473.2__D10_rotation
+lysis	0	MH617473.2__D10_rotation
+moron, auxiliary metabolic gene and host takeover	0	MH617473.2__D10_rotation
+other	0	MH617473.2__D10_rotation
+tail	0	MH617473.2__D10_rotation
+transcription regulation	0	MH617473.2__D10_rotation
+unknown function	5	MH617473.2__D10_rotation
+VFDB_Virulence_Factors	0	MH617473.2__D10_rotation
+CARD_AMR	0	MH617473.2__D10_rotation
+ACR_anti_crispr	0	MH617473.2__D10_rotation
+Defensefinder	0	MH617473.2__D10_rotation
+Netflax	0	MH617473.2__D10_rotation
+CDS	8	MK249149.1__natural
+connector	0	MK249149.1__natural
+DNA, RNA and nucleotide metabolism	2	MK249149.1__natural
+head and packaging	2	MK249149.1__natural
+integration and excision	0	MK249149.1__natural
+lysis	0	MK249149.1__natural
+moron, auxiliary metabolic gene and host takeover	0	MK249149.1__natural
+other	0	MK249149.1__natural
+tail	1	MK249149.1__natural
+transcription regulation	0	MK249149.1__natural
+unknown function	3	MK249149.1__natural
+VFDB_Virulence_Factors	0	MK249149.1__natural
+CARD_AMR	0	MK249149.1__natural
+ACR_anti_crispr	0	MK249149.1__natural
+Defensefinder	0	MK249149.1__natural
+Netflax	0	MK249149.1__natural
+CDS	7	MK249149.1__D1_30
+connector	0	MK249149.1__D1_30
+DNA, RNA and nucleotide metabolism	2	MK249149.1__D1_30
+head and packaging	2	MK249149.1__D1_30
+integration and excision	0	MK249149.1__D1_30
+lysis	0	MK249149.1__D1_30
+moron, auxiliary metabolic gene and host takeover	0	MK249149.1__D1_30
+other	0	MK249149.1__D1_30
+tail	1	MK249149.1__D1_30
+transcription regulation	0	MK249149.1__D1_30
+unknown function	2	MK249149.1__D1_30
+VFDB_Virulence_Factors	0	MK249149.1__D1_30
+CARD_AMR	0	MK249149.1__D1_30
+ACR_anti_crispr	0	MK249149.1__D1_30
+Defensefinder	0	MK249149.1__D1_30
+Netflax	0	MK249149.1__D1_30
+CDS	8	MK249149.1__D2_2
+connector	0	MK249149.1__D2_2
+DNA, RNA and nucleotide metabolism	2	MK249149.1__D2_2
+head and packaging	2	MK249149.1__D2_2
+integration and excision	0	MK249149.1__D2_2
+lysis	0	MK249149.1__D2_2
+moron, auxiliary metabolic gene and host takeover	0	MK249149.1__D2_2
+other	0	MK249149.1__D2_2
+tail	1	MK249149.1__D2_2
+transcription regulation	0	MK249149.1__D2_2
+unknown function	3	MK249149.1__D2_2
+VFDB_Virulence_Factors	0	MK249149.1__D2_2
+CARD_AMR	0	MK249149.1__D2_2
+ACR_anti_crispr	0	MK249149.1__D2_2
+Defensefinder	0	MK249149.1__D2_2
+Netflax	0	MK249149.1__D2_2
+CDS	11	MK249149.1__D3_6
+connector	0	MK249149.1__D3_6
+DNA, RNA and nucleotide metabolism	1	MK249149.1__D3_6
+head and packaging	0	MK249149.1__D3_6
+integration and excision	0	MK249149.1__D3_6
+lysis	0	MK249149.1__D3_6
+moron, auxiliary metabolic gene and host takeover	0	MK249149.1__D3_6
+other	0	MK249149.1__D3_6
+tail	0	MK249149.1__D3_6
+transcription regulation	0	MK249149.1__D3_6
+unknown function	10	MK249149.1__D3_6
+VFDB_Virulence_Factors	0	MK249149.1__D3_6
+CARD_AMR	0	MK249149.1__D3_6
+ACR_anti_crispr	0	MK249149.1__D3_6
+Defensefinder	0	MK249149.1__D3_6
+Netflax	0	MK249149.1__D3_6
+CDS	7	MK249149.1__D4_3
+connector	0	MK249149.1__D4_3
+DNA, RNA and nucleotide metabolism	2	MK249149.1__D4_3
+head and packaging	2	MK249149.1__D4_3
+integration and excision	0	MK249149.1__D4_3
+lysis	0	MK249149.1__D4_3
+moron, auxiliary metabolic gene and host takeover	0	MK249149.1__D4_3
+other	0	MK249149.1__D4_3
+tail	1	MK249149.1__D4_3
+transcription regulation	0	MK249149.1__D4_3
+unknown function	2	MK249149.1__D4_3
+VFDB_Virulence_Factors	0	MK249149.1__D4_3
+CARD_AMR	0	MK249149.1__D4_3
+ACR_anti_crispr	0	MK249149.1__D4_3
+Defensefinder	0	MK249149.1__D4_3
+Netflax	0	MK249149.1__D4_3
+CDS	5	MK249149.1__D5_3
+connector	0	MK249149.1__D5_3
+DNA, RNA and nucleotide metabolism	1	MK249149.1__D5_3
+head and packaging	1	MK249149.1__D5_3
+integration and excision	0	MK249149.1__D5_3
+lysis	0	MK249149.1__D5_3
+moron, auxiliary metabolic gene and host takeover	0	MK249149.1__D5_3
+other	0	MK249149.1__D5_3
+tail	1	MK249149.1__D5_3
+transcription regulation	0	MK249149.1__D5_3
+unknown function	2	MK249149.1__D5_3
+VFDB_Virulence_Factors	0	MK249149.1__D5_3
+CARD_AMR	0	MK249149.1__D5_3
+ACR_anti_crispr	0	MK249149.1__D5_3
+Defensefinder	0	MK249149.1__D5_3
+Netflax	0	MK249149.1__D5_3
+CDS	8	MK249149.1__D6_4
+connector	0	MK249149.1__D6_4
+DNA, RNA and nucleotide metabolism	1	MK249149.1__D6_4
+head and packaging	2	MK249149.1__D6_4
+integration and excision	0	MK249149.1__D6_4
+lysis	0	MK249149.1__D6_4
+moron, auxiliary metabolic gene and host takeover	0	MK249149.1__D6_4
+other	0	MK249149.1__D6_4
+tail	1	MK249149.1__D6_4
+transcription regulation	0	MK249149.1__D6_4
+unknown function	4	MK249149.1__D6_4
+VFDB_Virulence_Factors	0	MK249149.1__D6_4
+CARD_AMR	0	MK249149.1__D6_4
+ACR_anti_crispr	0	MK249149.1__D6_4
+Defensefinder	0	MK249149.1__D6_4
+Netflax	0	MK249149.1__D6_4
+CDS	8	MK249149.1__D7_50
+connector	0	MK249149.1__D7_50
+DNA, RNA and nucleotide metabolism	0	MK249149.1__D7_50
+head and packaging	0	MK249149.1__D7_50
+integration and excision	0	MK249149.1__D7_50
+lysis	0	MK249149.1__D7_50
+moron, auxiliary metabolic gene and host takeover	0	MK249149.1__D7_50
+other	0	MK249149.1__D7_50
+tail	0	MK249149.1__D7_50
+transcription regulation	0	MK249149.1__D7_50
+unknown function	8	MK249149.1__D7_50
+VFDB_Virulence_Factors	0	MK249149.1__D7_50
+CARD_AMR	0	MK249149.1__D7_50
+ACR_anti_crispr	0	MK249149.1__D7_50
+Defensefinder	0	MK249149.1__D7_50
+Netflax	0	MK249149.1__D7_50
+CDS	6	MK249149.1__D8_1
+connector	0	MK249149.1__D8_1
+DNA, RNA and nucleotide metabolism	0	MK249149.1__D8_1
+head and packaging	0	MK249149.1__D8_1
+integration and excision	0	MK249149.1__D8_1
+lysis	0	MK249149.1__D8_1
+moron, auxiliary metabolic gene and host takeover	0	MK249149.1__D8_1
+other	0	MK249149.1__D8_1
+tail	0	MK249149.1__D8_1
+transcription regulation	0	MK249149.1__D8_1
+unknown function	6	MK249149.1__D8_1
+VFDB_Virulence_Factors	0	MK249149.1__D8_1
+CARD_AMR	0	MK249149.1__D8_1
+ACR_anti_crispr	0	MK249149.1__D8_1
+Defensefinder	0	MK249149.1__D8_1
+Netflax	0	MK249149.1__D8_1
+CDS	8	MK249149.1__D9_1
+connector	0	MK249149.1__D9_1
+DNA, RNA and nucleotide metabolism	0	MK249149.1__D9_1
+head and packaging	0	MK249149.1__D9_1
+integration and excision	0	MK249149.1__D9_1
+lysis	0	MK249149.1__D9_1
+moron, auxiliary metabolic gene and host takeover	1	MK249149.1__D9_1
+other	1	MK249149.1__D9_1
+tail	1	MK249149.1__D9_1
+transcription regulation	2	MK249149.1__D9_1
+unknown function	3	MK249149.1__D9_1
+VFDB_Virulence_Factors	0	MK249149.1__D9_1
+CARD_AMR	0	MK249149.1__D9_1
+ACR_anti_crispr	0	MK249149.1__D9_1
+Defensefinder	0	MK249149.1__D9_1
+Netflax	0	MK249149.1__D9_1
+CDS	8	MK249149.1__D10_rotation
+connector	0	MK249149.1__D10_rotation
+DNA, RNA and nucleotide metabolism	2	MK249149.1__D10_rotation
+head and packaging	2	MK249149.1__D10_rotation
+integration and excision	0	MK249149.1__D10_rotation
+lysis	0	MK249149.1__D10_rotation
+moron, auxiliary metabolic gene and host takeover	0	MK249149.1__D10_rotation
+other	0	MK249149.1__D10_rotation
+tail	1	MK249149.1__D10_rotation
+transcription regulation	0	MK249149.1__D10_rotation
+unknown function	3	MK249149.1__D10_rotation
+VFDB_Virulence_Factors	0	MK249149.1__D10_rotation
+CARD_AMR	0	MK249149.1__D10_rotation
+ACR_anti_crispr	0	MK249149.1__D10_rotation
+Defensefinder	0	MK249149.1__D10_rotation
+Netflax	0	MK249149.1__D10_rotation
+CDS	8	MK496793.1__natural
+connector	0	MK496793.1__natural
+DNA, RNA and nucleotide metabolism	1	MK496793.1__natural
+head and packaging	1	MK496793.1__natural
+integration and excision	0	MK496793.1__natural
+lysis	1	MK496793.1__natural
+moron, auxiliary metabolic gene and host takeover	0	MK496793.1__natural
+other	0	MK496793.1__natural
+tail	0	MK496793.1__natural
+transcription regulation	0	MK496793.1__natural
+unknown function	5	MK496793.1__natural
+VFDB_Virulence_Factors	0	MK496793.1__natural
+CARD_AMR	0	MK496793.1__natural
+ACR_anti_crispr	0	MK496793.1__natural
+Defensefinder	0	MK496793.1__natural
+Netflax	0	MK496793.1__natural
+CDS	8	MK496793.1__D1_30
+connector	0	MK496793.1__D1_30
+DNA, RNA and nucleotide metabolism	1	MK496793.1__D1_30
+head and packaging	1	MK496793.1__D1_30
+integration and excision	0	MK496793.1__D1_30
+lysis	1	MK496793.1__D1_30
+moron, auxiliary metabolic gene and host takeover	0	MK496793.1__D1_30
+other	0	MK496793.1__D1_30
+tail	0	MK496793.1__D1_30
+transcription regulation	0	MK496793.1__D1_30
+unknown function	5	MK496793.1__D1_30
+VFDB_Virulence_Factors	0	MK496793.1__D1_30
+CARD_AMR	0	MK496793.1__D1_30
+ACR_anti_crispr	0	MK496793.1__D1_30
+Defensefinder	0	MK496793.1__D1_30
+Netflax	0	MK496793.1__D1_30
+CDS	8	MK496793.1__D2_2
+connector	0	MK496793.1__D2_2
+DNA, RNA and nucleotide metabolism	1	MK496793.1__D2_2
+head and packaging	1	MK496793.1__D2_2
+integration and excision	0	MK496793.1__D2_2
+lysis	0	MK496793.1__D2_2
+moron, auxiliary metabolic gene and host takeover	0	MK496793.1__D2_2
+other	0	MK496793.1__D2_2
+tail	0	MK496793.1__D2_2
+transcription regulation	0	MK496793.1__D2_2
+unknown function	6	MK496793.1__D2_2
+VFDB_Virulence_Factors	0	MK496793.1__D2_2
+CARD_AMR	0	MK496793.1__D2_2
+ACR_anti_crispr	0	MK496793.1__D2_2
+Defensefinder	0	MK496793.1__D2_2
+Netflax	0	MK496793.1__D2_2
+CDS	7	MK496793.1__D3_6
+connector	0	MK496793.1__D3_6
+DNA, RNA and nucleotide metabolism	1	MK496793.1__D3_6
+head and packaging	1	MK496793.1__D3_6
+integration and excision	0	MK496793.1__D3_6
+lysis	0	MK496793.1__D3_6
+moron, auxiliary metabolic gene and host takeover	0	MK496793.1__D3_6
+other	0	MK496793.1__D3_6
+tail	0	MK496793.1__D3_6
+transcription regulation	0	MK496793.1__D3_6
+unknown function	5	MK496793.1__D3_6
+VFDB_Virulence_Factors	0	MK496793.1__D3_6
+CARD_AMR	0	MK496793.1__D3_6
+ACR_anti_crispr	0	MK496793.1__D3_6
+Defensefinder	0	MK496793.1__D3_6
+Netflax	0	MK496793.1__D3_6
+CDS	7	MK496793.1__D4_3
+connector	0	MK496793.1__D4_3
+DNA, RNA and nucleotide metabolism	1	MK496793.1__D4_3
+head and packaging	1	MK496793.1__D4_3
+integration and excision	0	MK496793.1__D4_3
+lysis	0	MK496793.1__D4_3
+moron, auxiliary metabolic gene and host takeover	0	MK496793.1__D4_3
+other	0	MK496793.1__D4_3
+tail	0	MK496793.1__D4_3
+transcription regulation	0	MK496793.1__D4_3
+unknown function	5	MK496793.1__D4_3
+VFDB_Virulence_Factors	0	MK496793.1__D4_3
+CARD_AMR	0	MK496793.1__D4_3
+ACR_anti_crispr	0	MK496793.1__D4_3
+Defensefinder	0	MK496793.1__D4_3
+Netflax	0	MK496793.1__D4_3
+CDS	5	MK496793.1__D5_3
+connector	0	MK496793.1__D5_3
+DNA, RNA and nucleotide metabolism	0	MK496793.1__D5_3
+head and packaging	0	MK496793.1__D5_3
+integration and excision	0	MK496793.1__D5_3
+lysis	1	MK496793.1__D5_3
+moron, auxiliary metabolic gene and host takeover	0	MK496793.1__D5_3
+other	0	MK496793.1__D5_3
+tail	0	MK496793.1__D5_3
+transcription regulation	0	MK496793.1__D5_3
+unknown function	4	MK496793.1__D5_3
+VFDB_Virulence_Factors	0	MK496793.1__D5_3
+CARD_AMR	0	MK496793.1__D5_3
+ACR_anti_crispr	0	MK496793.1__D5_3
+Defensefinder	0	MK496793.1__D5_3
+Netflax	0	MK496793.1__D5_3
+CDS	10	MK496793.1__D6_4
+connector	0	MK496793.1__D6_4
+DNA, RNA and nucleotide metabolism	1	MK496793.1__D6_4
+head and packaging	1	MK496793.1__D6_4
+integration and excision	0	MK496793.1__D6_4
+lysis	1	MK496793.1__D6_4
+moron, auxiliary metabolic gene and host takeover	0	MK496793.1__D6_4
+other	0	MK496793.1__D6_4
+tail	0	MK496793.1__D6_4
+transcription regulation	0	MK496793.1__D6_4
+unknown function	7	MK496793.1__D6_4
+VFDB_Virulence_Factors	0	MK496793.1__D6_4
+CARD_AMR	0	MK496793.1__D6_4
+ACR_anti_crispr	0	MK496793.1__D6_4
+Defensefinder	0	MK496793.1__D6_4
+Netflax	0	MK496793.1__D6_4
+CDS	8	MK496793.1__D7_50
+connector	0	MK496793.1__D7_50
+DNA, RNA and nucleotide metabolism	0	MK496793.1__D7_50
+head and packaging	0	MK496793.1__D7_50
+integration and excision	0	MK496793.1__D7_50
+lysis	0	MK496793.1__D7_50
+moron, auxiliary metabolic gene and host takeover	0	MK496793.1__D7_50
+other	0	MK496793.1__D7_50
+tail	0	MK496793.1__D7_50
+transcription regulation	0	MK496793.1__D7_50
+unknown function	8	MK496793.1__D7_50
+VFDB_Virulence_Factors	0	MK496793.1__D7_50
+CARD_AMR	0	MK496793.1__D7_50
+ACR_anti_crispr	0	MK496793.1__D7_50
+Defensefinder	0	MK496793.1__D7_50
+Netflax	0	MK496793.1__D7_50
+CDS	3	MK496793.1__D8_1
+connector	0	MK496793.1__D8_1
+DNA, RNA and nucleotide metabolism	0	MK496793.1__D8_1
+head and packaging	0	MK496793.1__D8_1
+integration and excision	0	MK496793.1__D8_1
+lysis	0	MK496793.1__D8_1
+moron, auxiliary metabolic gene and host takeover	0	MK496793.1__D8_1
+other	0	MK496793.1__D8_1
+tail	0	MK496793.1__D8_1
+transcription regulation	0	MK496793.1__D8_1
+unknown function	3	MK496793.1__D8_1
+VFDB_Virulence_Factors	0	MK496793.1__D8_1
+CARD_AMR	0	MK496793.1__D8_1
+ACR_anti_crispr	0	MK496793.1__D8_1
+Defensefinder	0	MK496793.1__D8_1
+Netflax	0	MK496793.1__D8_1
+CDS	7	MK496793.1__D9_1
+connector	0	MK496793.1__D9_1
+DNA, RNA and nucleotide metabolism	0	MK496793.1__D9_1
+head and packaging	0	MK496793.1__D9_1
+integration and excision	0	MK496793.1__D9_1
+lysis	0	MK496793.1__D9_1
+moron, auxiliary metabolic gene and host takeover	2	MK496793.1__D9_1
+other	2	MK496793.1__D9_1
+tail	0	MK496793.1__D9_1
+transcription regulation	0	MK496793.1__D9_1
+unknown function	3	MK496793.1__D9_1
+VFDB_Virulence_Factors	1	MK496793.1__D9_1
+CARD_AMR	0	MK496793.1__D9_1
+ACR_anti_crispr	0	MK496793.1__D9_1
+Defensefinder	0	MK496793.1__D9_1
+Netflax	0	MK496793.1__D9_1
+CDS	8	MK496793.1__D10_rotation
+connector	0	MK496793.1__D10_rotation
+DNA, RNA and nucleotide metabolism	1	MK496793.1__D10_rotation
+head and packaging	1	MK496793.1__D10_rotation
+integration and excision	0	MK496793.1__D10_rotation
+lysis	1	MK496793.1__D10_rotation
+moron, auxiliary metabolic gene and host takeover	0	MK496793.1__D10_rotation
+other	0	MK496793.1__D10_rotation
+tail	0	MK496793.1__D10_rotation
+transcription regulation	0	MK496793.1__D10_rotation
+unknown function	5	MK496793.1__D10_rotation
+VFDB_Virulence_Factors	0	MK496793.1__D10_rotation
+CARD_AMR	0	MK496793.1__D10_rotation
+ACR_anti_crispr	0	MK496793.1__D10_rotation
+Defensefinder	0	MK496793.1__D10_rotation
+Netflax	0	MK496793.1__D10_rotation
+CDS	6	MT204714.1__natural
+connector	0	MT204714.1__natural
+DNA, RNA and nucleotide metabolism	2	MT204714.1__natural
+head and packaging	2	MT204714.1__natural
+integration and excision	0	MT204714.1__natural
+lysis	0	MT204714.1__natural
+moron, auxiliary metabolic gene and host takeover	0	MT204714.1__natural
+other	0	MT204714.1__natural
+tail	1	MT204714.1__natural
+transcription regulation	0	MT204714.1__natural
+unknown function	1	MT204714.1__natural
+VFDB_Virulence_Factors	0	MT204714.1__natural
+CARD_AMR	0	MT204714.1__natural
+ACR_anti_crispr	0	MT204714.1__natural
+Defensefinder	0	MT204714.1__natural
+Netflax	0	MT204714.1__natural
+CDS	8	MT204714.1__D1_30
+connector	0	MT204714.1__D1_30
+DNA, RNA and nucleotide metabolism	2	MT204714.1__D1_30
+head and packaging	2	MT204714.1__D1_30
+integration and excision	0	MT204714.1__D1_30
+lysis	0	MT204714.1__D1_30
+moron, auxiliary metabolic gene and host takeover	0	MT204714.1__D1_30
+other	0	MT204714.1__D1_30
+tail	1	MT204714.1__D1_30
+transcription regulation	0	MT204714.1__D1_30
+unknown function	3	MT204714.1__D1_30
+VFDB_Virulence_Factors	0	MT204714.1__D1_30
+CARD_AMR	0	MT204714.1__D1_30
+ACR_anti_crispr	0	MT204714.1__D1_30
+Defensefinder	0	MT204714.1__D1_30
+Netflax	0	MT204714.1__D1_30
+CDS	8	MT204714.1__D2_2
+connector	0	MT204714.1__D2_2
+DNA, RNA and nucleotide metabolism	2	MT204714.1__D2_2
+head and packaging	2	MT204714.1__D2_2
+integration and excision	0	MT204714.1__D2_2
+lysis	0	MT204714.1__D2_2
+moron, auxiliary metabolic gene and host takeover	0	MT204714.1__D2_2
+other	0	MT204714.1__D2_2
+tail	0	MT204714.1__D2_2
+transcription regulation	0	MT204714.1__D2_2
+unknown function	4	MT204714.1__D2_2
+VFDB_Virulence_Factors	0	MT204714.1__D2_2
+CARD_AMR	0	MT204714.1__D2_2
+ACR_anti_crispr	0	MT204714.1__D2_2
+Defensefinder	0	MT204714.1__D2_2
+Netflax	0	MT204714.1__D2_2
+CDS	9	MT204714.1__D3_6
+connector	0	MT204714.1__D3_6
+DNA, RNA and nucleotide metabolism	2	MT204714.1__D3_6
+head and packaging	0	MT204714.1__D3_6
+integration and excision	0	MT204714.1__D3_6
+lysis	0	MT204714.1__D3_6
+moron, auxiliary metabolic gene and host takeover	0	MT204714.1__D3_6
+other	0	MT204714.1__D3_6
+tail	0	MT204714.1__D3_6
+transcription regulation	0	MT204714.1__D3_6
+unknown function	7	MT204714.1__D3_6
+VFDB_Virulence_Factors	0	MT204714.1__D3_6
+CARD_AMR	0	MT204714.1__D3_6
+ACR_anti_crispr	0	MT204714.1__D3_6
+Defensefinder	0	MT204714.1__D3_6
+Netflax	0	MT204714.1__D3_6
+CDS	6	MT204714.1__D4_3
+connector	0	MT204714.1__D4_3
+DNA, RNA and nucleotide metabolism	1	MT204714.1__D4_3
+head and packaging	2	MT204714.1__D4_3
+integration and excision	0	MT204714.1__D4_3
+lysis	0	MT204714.1__D4_3
+moron, auxiliary metabolic gene and host takeover	0	MT204714.1__D4_3
+other	0	MT204714.1__D4_3
+tail	1	MT204714.1__D4_3
+transcription regulation	0	MT204714.1__D4_3
+unknown function	2	MT204714.1__D4_3
+VFDB_Virulence_Factors	0	MT204714.1__D4_3
+CARD_AMR	0	MT204714.1__D4_3
+ACR_anti_crispr	0	MT204714.1__D4_3
+Defensefinder	0	MT204714.1__D4_3
+Netflax	0	MT204714.1__D4_3
+CDS	4	MT204714.1__D5_3
+connector	0	MT204714.1__D5_3
+DNA, RNA and nucleotide metabolism	0	MT204714.1__D5_3
+head and packaging	1	MT204714.1__D5_3
+integration and excision	0	MT204714.1__D5_3
+lysis	0	MT204714.1__D5_3
+moron, auxiliary metabolic gene and host takeover	0	MT204714.1__D5_3
+other	0	MT204714.1__D5_3
+tail	1	MT204714.1__D5_3
+transcription regulation	0	MT204714.1__D5_3
+unknown function	2	MT204714.1__D5_3
+VFDB_Virulence_Factors	0	MT204714.1__D5_3
+CARD_AMR	0	MT204714.1__D5_3
+ACR_anti_crispr	0	MT204714.1__D5_3
+Defensefinder	0	MT204714.1__D5_3
+Netflax	0	MT204714.1__D5_3
+CDS	7	MT204714.1__D6_4
+connector	0	MT204714.1__D6_4
+DNA, RNA and nucleotide metabolism	2	MT204714.1__D6_4
+head and packaging	2	MT204714.1__D6_4
+integration and excision	0	MT204714.1__D6_4
+lysis	0	MT204714.1__D6_4
+moron, auxiliary metabolic gene and host takeover	0	MT204714.1__D6_4
+other	0	MT204714.1__D6_4
+tail	0	MT204714.1__D6_4
+transcription regulation	0	MT204714.1__D6_4
+unknown function	3	MT204714.1__D6_4
+VFDB_Virulence_Factors	0	MT204714.1__D6_4
+CARD_AMR	0	MT204714.1__D6_4
+ACR_anti_crispr	0	MT204714.1__D6_4
+Defensefinder	0	MT204714.1__D6_4
+Netflax	0	MT204714.1__D6_4
+CDS	6	MT204714.1__D7_50
+connector	0	MT204714.1__D7_50
+DNA, RNA and nucleotide metabolism	0	MT204714.1__D7_50
+head and packaging	0	MT204714.1__D7_50
+integration and excision	0	MT204714.1__D7_50
+lysis	0	MT204714.1__D7_50
+moron, auxiliary metabolic gene and host takeover	0	MT204714.1__D7_50
+other	0	MT204714.1__D7_50
+tail	0	MT204714.1__D7_50
+transcription regulation	0	MT204714.1__D7_50
+unknown function	6	MT204714.1__D7_50
+VFDB_Virulence_Factors	0	MT204714.1__D7_50
+CARD_AMR	0	MT204714.1__D7_50
+ACR_anti_crispr	0	MT204714.1__D7_50
+Defensefinder	0	MT204714.1__D7_50
+Netflax	0	MT204714.1__D7_50
+CDS	3	MT204714.1__D8_1
+connector	0	MT204714.1__D8_1
+DNA, RNA and nucleotide metabolism	0	MT204714.1__D8_1
+head and packaging	0	MT204714.1__D8_1
+integration and excision	0	MT204714.1__D8_1
+lysis	0	MT204714.1__D8_1
+moron, auxiliary metabolic gene and host takeover	0	MT204714.1__D8_1
+other	0	MT204714.1__D8_1
+tail	0	MT204714.1__D8_1
+transcription regulation	0	MT204714.1__D8_1
+unknown function	3	MT204714.1__D8_1
+VFDB_Virulence_Factors	0	MT204714.1__D8_1
+CARD_AMR	0	MT204714.1__D8_1
+ACR_anti_crispr	0	MT204714.1__D8_1
+Defensefinder	0	MT204714.1__D8_1
+Netflax	0	MT204714.1__D8_1
+CDS	9	MT204714.1__D9_1
+connector	0	MT204714.1__D9_1
+DNA, RNA and nucleotide metabolism	1	MT204714.1__D9_1
+head and packaging	0	MT204714.1__D9_1
+integration and excision	0	MT204714.1__D9_1
+lysis	3	MT204714.1__D9_1
+moron, auxiliary metabolic gene and host takeover	1	MT204714.1__D9_1
+other	0	MT204714.1__D9_1
+tail	2	MT204714.1__D9_1
+transcription regulation	0	MT204714.1__D9_1
+unknown function	2	MT204714.1__D9_1
+VFDB_Virulence_Factors	0	MT204714.1__D9_1
+CARD_AMR	0	MT204714.1__D9_1
+ACR_anti_crispr	0	MT204714.1__D9_1
+Defensefinder	0	MT204714.1__D9_1
+Netflax	0	MT204714.1__D9_1
+CDS	6	MT204714.1__D10_rotation
+connector	0	MT204714.1__D10_rotation
+DNA, RNA and nucleotide metabolism	2	MT204714.1__D10_rotation
+head and packaging	2	MT204714.1__D10_rotation
+integration and excision	0	MT204714.1__D10_rotation
+lysis	0	MT204714.1__D10_rotation
+moron, auxiliary metabolic gene and host takeover	0	MT204714.1__D10_rotation
+other	0	MT204714.1__D10_rotation
+tail	0	MT204714.1__D10_rotation
+transcription regulation	0	MT204714.1__D10_rotation
+unknown function	2	MT204714.1__D10_rotation
+VFDB_Virulence_Factors	0	MT204714.1__D10_rotation
+CARD_AMR	0	MT204714.1__D10_rotation
+ACR_anti_crispr	0	MT204714.1__D10_rotation
+Defensefinder	0	MT204714.1__D10_rotation
+Netflax	0	MT204714.1__D10_rotation
+CDS	8	MT310155.1__natural
+connector	0	MT310155.1__natural
+DNA, RNA and nucleotide metabolism	2	MT310155.1__natural
+head and packaging	2	MT310155.1__natural
+integration and excision	0	MT310155.1__natural
+lysis	0	MT310155.1__natural
+moron, auxiliary metabolic gene and host takeover	0	MT310155.1__natural
+other	0	MT310155.1__natural
+tail	0	MT310155.1__natural
+transcription regulation	0	MT310155.1__natural
+unknown function	4	MT310155.1__natural
+VFDB_Virulence_Factors	0	MT310155.1__natural
+CARD_AMR	0	MT310155.1__natural
+ACR_anti_crispr	0	MT310155.1__natural
+Defensefinder	0	MT310155.1__natural
+Netflax	0	MT310155.1__natural
+CDS	8	MT310155.1__D1_30
+connector	0	MT310155.1__D1_30
+DNA, RNA and nucleotide metabolism	2	MT310155.1__D1_30
+head and packaging	2	MT310155.1__D1_30
+integration and excision	0	MT310155.1__D1_30
+lysis	0	MT310155.1__D1_30
+moron, auxiliary metabolic gene and host takeover	0	MT310155.1__D1_30
+other	0	MT310155.1__D1_30
+tail	0	MT310155.1__D1_30
+transcription regulation	0	MT310155.1__D1_30
+unknown function	4	MT310155.1__D1_30
+VFDB_Virulence_Factors	0	MT310155.1__D1_30
+CARD_AMR	0	MT310155.1__D1_30
+ACR_anti_crispr	0	MT310155.1__D1_30
+Defensefinder	0	MT310155.1__D1_30
+Netflax	0	MT310155.1__D1_30
+CDS	9	MT310155.1__D2_2
+connector	0	MT310155.1__D2_2
+DNA, RNA and nucleotide metabolism	2	MT310155.1__D2_2
+head and packaging	2	MT310155.1__D2_2
+integration and excision	0	MT310155.1__D2_2
+lysis	0	MT310155.1__D2_2
+moron, auxiliary metabolic gene and host takeover	0	MT310155.1__D2_2
+other	0	MT310155.1__D2_2
+tail	0	MT310155.1__D2_2
+transcription regulation	0	MT310155.1__D2_2
+unknown function	5	MT310155.1__D2_2
+VFDB_Virulence_Factors	0	MT310155.1__D2_2
+CARD_AMR	0	MT310155.1__D2_2
+ACR_anti_crispr	0	MT310155.1__D2_2
+Defensefinder	0	MT310155.1__D2_2
+Netflax	0	MT310155.1__D2_2
+CDS	9	MT310155.1__D3_6
+connector	0	MT310155.1__D3_6
+DNA, RNA and nucleotide metabolism	2	MT310155.1__D3_6
+head and packaging	2	MT310155.1__D3_6
+integration and excision	0	MT310155.1__D3_6
+lysis	0	MT310155.1__D3_6
+moron, auxiliary metabolic gene and host takeover	0	MT310155.1__D3_6
+other	0	MT310155.1__D3_6
+tail	0	MT310155.1__D3_6
+transcription regulation	0	MT310155.1__D3_6
+unknown function	5	MT310155.1__D3_6
+VFDB_Virulence_Factors	0	MT310155.1__D3_6
+CARD_AMR	0	MT310155.1__D3_6
+ACR_anti_crispr	0	MT310155.1__D3_6
+Defensefinder	0	MT310155.1__D3_6
+Netflax	0	MT310155.1__D3_6
+CDS	8	MT310155.1__D4_3
+connector	0	MT310155.1__D4_3
+DNA, RNA and nucleotide metabolism	2	MT310155.1__D4_3
+head and packaging	1	MT310155.1__D4_3
+integration and excision	0	MT310155.1__D4_3
+lysis	0	MT310155.1__D4_3
+moron, auxiliary metabolic gene and host takeover	0	MT310155.1__D4_3
+other	0	MT310155.1__D4_3
+tail	0	MT310155.1__D4_3
+transcription regulation	0	MT310155.1__D4_3
+unknown function	5	MT310155.1__D4_3
+VFDB_Virulence_Factors	0	MT310155.1__D4_3
+CARD_AMR	0	MT310155.1__D4_3
+ACR_anti_crispr	0	MT310155.1__D4_3
+Defensefinder	0	MT310155.1__D4_3
+Netflax	0	MT310155.1__D4_3
+CDS	5	MT310155.1__D5_3
+connector	0	MT310155.1__D5_3
+DNA, RNA and nucleotide metabolism	2	MT310155.1__D5_3
+head and packaging	2	MT310155.1__D5_3
+integration and excision	0	MT310155.1__D5_3
+lysis	0	MT310155.1__D5_3
+moron, auxiliary metabolic gene and host takeover	0	MT310155.1__D5_3
+other	0	MT310155.1__D5_3
+tail	0	MT310155.1__D5_3
+transcription regulation	0	MT310155.1__D5_3
+unknown function	1	MT310155.1__D5_3
+VFDB_Virulence_Factors	0	MT310155.1__D5_3
+CARD_AMR	0	MT310155.1__D5_3
+ACR_anti_crispr	0	MT310155.1__D5_3
+Defensefinder	0	MT310155.1__D5_3
+Netflax	0	MT310155.1__D5_3
+CDS	10	MT310155.1__D6_4
+connector	0	MT310155.1__D6_4
+DNA, RNA and nucleotide metabolism	2	MT310155.1__D6_4
+head and packaging	2	MT310155.1__D6_4
+integration and excision	0	MT310155.1__D6_4
+lysis	0	MT310155.1__D6_4
+moron, auxiliary metabolic gene and host takeover	0	MT310155.1__D6_4
+other	0	MT310155.1__D6_4
+tail	0	MT310155.1__D6_4
+transcription regulation	0	MT310155.1__D6_4
+unknown function	6	MT310155.1__D6_4
+VFDB_Virulence_Factors	0	MT310155.1__D6_4
+CARD_AMR	0	MT310155.1__D6_4
+ACR_anti_crispr	0	MT310155.1__D6_4
+Defensefinder	0	MT310155.1__D6_4
+Netflax	0	MT310155.1__D6_4
+CDS	7	MT310155.1__D7_50
+connector	0	MT310155.1__D7_50
+DNA, RNA and nucleotide metabolism	0	MT310155.1__D7_50
+head and packaging	0	MT310155.1__D7_50
+integration and excision	0	MT310155.1__D7_50
+lysis	0	MT310155.1__D7_50
+moron, auxiliary metabolic gene and host takeover	0	MT310155.1__D7_50
+other	0	MT310155.1__D7_50
+tail	0	MT310155.1__D7_50
+transcription regulation	0	MT310155.1__D7_50
+unknown function	7	MT310155.1__D7_50
+VFDB_Virulence_Factors	0	MT310155.1__D7_50
+CARD_AMR	0	MT310155.1__D7_50
+ACR_anti_crispr	0	MT310155.1__D7_50
+Defensefinder	0	MT310155.1__D7_50
+Netflax	0	MT310155.1__D7_50
+CDS	5	MT310155.1__D8_1
+connector	0	MT310155.1__D8_1
+DNA, RNA and nucleotide metabolism	0	MT310155.1__D8_1
+head and packaging	0	MT310155.1__D8_1
+integration and excision	0	MT310155.1__D8_1
+lysis	0	MT310155.1__D8_1
+moron, auxiliary metabolic gene and host takeover	0	MT310155.1__D8_1
+other	0	MT310155.1__D8_1
+tail	0	MT310155.1__D8_1
+transcription regulation	0	MT310155.1__D8_1
+unknown function	5	MT310155.1__D8_1
+VFDB_Virulence_Factors	0	MT310155.1__D8_1
+CARD_AMR	0	MT310155.1__D8_1
+ACR_anti_crispr	0	MT310155.1__D8_1
+Defensefinder	0	MT310155.1__D8_1
+Netflax	0	MT310155.1__D8_1
+CDS	3	MT310155.1__D9_1
+connector	0	MT310155.1__D9_1
+DNA, RNA and nucleotide metabolism	1	MT310155.1__D9_1
+head and packaging	0	MT310155.1__D9_1
+integration and excision	1	MT310155.1__D9_1
+lysis	0	MT310155.1__D9_1
+moron, auxiliary metabolic gene and host takeover	0	MT310155.1__D9_1
+other	1	MT310155.1__D9_1
+tail	0	MT310155.1__D9_1
+transcription regulation	0	MT310155.1__D9_1
+unknown function	0	MT310155.1__D9_1
+VFDB_Virulence_Factors	0	MT310155.1__D9_1
+CARD_AMR	0	MT310155.1__D9_1
+ACR_anti_crispr	0	MT310155.1__D9_1
+Defensefinder	0	MT310155.1__D9_1
+Netflax	0	MT310155.1__D9_1
+CDS	9	MT310155.1__D10_rotation
+connector	0	MT310155.1__D10_rotation
+DNA, RNA and nucleotide metabolism	2	MT310155.1__D10_rotation
+head and packaging	2	MT310155.1__D10_rotation
+integration and excision	0	MT310155.1__D10_rotation
+lysis	0	MT310155.1__D10_rotation
+moron, auxiliary metabolic gene and host takeover	0	MT310155.1__D10_rotation
+other	0	MT310155.1__D10_rotation
+tail	0	MT310155.1__D10_rotation
+transcription regulation	0	MT310155.1__D10_rotation
+unknown function	5	MT310155.1__D10_rotation
+VFDB_Virulence_Factors	0	MT310155.1__D10_rotation
+CARD_AMR	0	MT310155.1__D10_rotation
+ACR_anti_crispr	0	MT310155.1__D10_rotation
+Defensefinder	0	MT310155.1__D10_rotation
+Netflax	0	MT310155.1__D10_rotation
+CDS	9	MT310159.1__natural
+connector	0	MT310159.1__natural
+DNA, RNA and nucleotide metabolism	2	MT310159.1__natural
+head and packaging	2	MT310159.1__natural
+integration and excision	0	MT310159.1__natural
+lysis	1	MT310159.1__natural
+moron, auxiliary metabolic gene and host takeover	0	MT310159.1__natural
+other	0	MT310159.1__natural
+tail	1	MT310159.1__natural
+transcription regulation	0	MT310159.1__natural
+unknown function	3	MT310159.1__natural
+VFDB_Virulence_Factors	0	MT310159.1__natural
+CARD_AMR	0	MT310159.1__natural
+ACR_anti_crispr	0	MT310159.1__natural
+Defensefinder	0	MT310159.1__natural
+Netflax	0	MT310159.1__natural
+CDS	10	MT310159.1__D1_30
+connector	0	MT310159.1__D1_30
+DNA, RNA and nucleotide metabolism	2	MT310159.1__D1_30
+head and packaging	2	MT310159.1__D1_30
+integration and excision	0	MT310159.1__D1_30
+lysis	1	MT310159.1__D1_30
+moron, auxiliary metabolic gene and host takeover	0	MT310159.1__D1_30
+other	0	MT310159.1__D1_30
+tail	1	MT310159.1__D1_30
+transcription regulation	0	MT310159.1__D1_30
+unknown function	4	MT310159.1__D1_30
+VFDB_Virulence_Factors	0	MT310159.1__D1_30
+CARD_AMR	0	MT310159.1__D1_30
+ACR_anti_crispr	0	MT310159.1__D1_30
+Defensefinder	0	MT310159.1__D1_30
+Netflax	0	MT310159.1__D1_30
+CDS	7	MT310159.1__D2_2
+connector	0	MT310159.1__D2_2
+DNA, RNA and nucleotide metabolism	2	MT310159.1__D2_2
+head and packaging	2	MT310159.1__D2_2
+integration and excision	0	MT310159.1__D2_2
+lysis	1	MT310159.1__D2_2
+moron, auxiliary metabolic gene and host takeover	0	MT310159.1__D2_2
+other	0	MT310159.1__D2_2
+tail	1	MT310159.1__D2_2
+transcription regulation	0	MT310159.1__D2_2
+unknown function	1	MT310159.1__D2_2
+VFDB_Virulence_Factors	0	MT310159.1__D2_2
+CARD_AMR	0	MT310159.1__D2_2
+ACR_anti_crispr	0	MT310159.1__D2_2
+Defensefinder	0	MT310159.1__D2_2
+Netflax	0	MT310159.1__D2_2
+CDS	12	MT310159.1__D3_6
+connector	0	MT310159.1__D3_6
+DNA, RNA and nucleotide metabolism	3	MT310159.1__D3_6
+head and packaging	2	MT310159.1__D3_6
+integration and excision	0	MT310159.1__D3_6
+lysis	1	MT310159.1__D3_6
+moron, auxiliary metabolic gene and host takeover	0	MT310159.1__D3_6
+other	0	MT310159.1__D3_6
+tail	0	MT310159.1__D3_6
+transcription regulation	0	MT310159.1__D3_6
+unknown function	6	MT310159.1__D3_6
+VFDB_Virulence_Factors	0	MT310159.1__D3_6
+CARD_AMR	0	MT310159.1__D3_6
+ACR_anti_crispr	0	MT310159.1__D3_6
+Defensefinder	0	MT310159.1__D3_6
+Netflax	0	MT310159.1__D3_6
+CDS	9	MT310159.1__D4_3
+connector	0	MT310159.1__D4_3
+DNA, RNA and nucleotide metabolism	2	MT310159.1__D4_3
+head and packaging	2	MT310159.1__D4_3
+integration and excision	0	MT310159.1__D4_3
+lysis	1	MT310159.1__D4_3
+moron, auxiliary metabolic gene and host takeover	0	MT310159.1__D4_3
+other	0	MT310159.1__D4_3
+tail	1	MT310159.1__D4_3
+transcription regulation	0	MT310159.1__D4_3
+unknown function	3	MT310159.1__D4_3
+VFDB_Virulence_Factors	0	MT310159.1__D4_3
+CARD_AMR	0	MT310159.1__D4_3
+ACR_anti_crispr	0	MT310159.1__D4_3
+Defensefinder	0	MT310159.1__D4_3
+Netflax	0	MT310159.1__D4_3
+CDS	6	MT310159.1__D5_3
+connector	0	MT310159.1__D5_3
+DNA, RNA and nucleotide metabolism	1	MT310159.1__D5_3
+head and packaging	1	MT310159.1__D5_3
+integration and excision	0	MT310159.1__D5_3
+lysis	0	MT310159.1__D5_3
+moron, auxiliary metabolic gene and host takeover	0	MT310159.1__D5_3
+other	0	MT310159.1__D5_3
+tail	1	MT310159.1__D5_3
+transcription regulation	0	MT310159.1__D5_3
+unknown function	3	MT310159.1__D5_3
+VFDB_Virulence_Factors	0	MT310159.1__D5_3
+CARD_AMR	0	MT310159.1__D5_3
+ACR_anti_crispr	0	MT310159.1__D5_3
+Defensefinder	0	MT310159.1__D5_3
+Netflax	0	MT310159.1__D5_3
+CDS	9	MT310159.1__D6_4
+connector	0	MT310159.1__D6_4
+DNA, RNA and nucleotide metabolism	2	MT310159.1__D6_4
+head and packaging	2	MT310159.1__D6_4
+integration and excision	0	MT310159.1__D6_4
+lysis	1	MT310159.1__D6_4
+moron, auxiliary metabolic gene and host takeover	0	MT310159.1__D6_4
+other	0	MT310159.1__D6_4
+tail	1	MT310159.1__D6_4
+transcription regulation	0	MT310159.1__D6_4
+unknown function	3	MT310159.1__D6_4
+VFDB_Virulence_Factors	0	MT310159.1__D6_4
+CARD_AMR	0	MT310159.1__D6_4
+ACR_anti_crispr	0	MT310159.1__D6_4
+Defensefinder	0	MT310159.1__D6_4
+Netflax	0	MT310159.1__D6_4
+CDS	7	MT310159.1__D7_50
+connector	0	MT310159.1__D7_50
+DNA, RNA and nucleotide metabolism	0	MT310159.1__D7_50
+head and packaging	1	MT310159.1__D7_50
+integration and excision	0	MT310159.1__D7_50
+lysis	0	MT310159.1__D7_50
+moron, auxiliary metabolic gene and host takeover	0	MT310159.1__D7_50
+other	0	MT310159.1__D7_50
+tail	0	MT310159.1__D7_50
+transcription regulation	0	MT310159.1__D7_50
+unknown function	6	MT310159.1__D7_50
+VFDB_Virulence_Factors	0	MT310159.1__D7_50
+CARD_AMR	0	MT310159.1__D7_50
+ACR_anti_crispr	0	MT310159.1__D7_50
+Defensefinder	0	MT310159.1__D7_50
+Netflax	0	MT310159.1__D7_50
+CDS	8	MT310159.1__D8_1
+connector	0	MT310159.1__D8_1
+DNA, RNA and nucleotide metabolism	0	MT310159.1__D8_1
+head and packaging	0	MT310159.1__D8_1
+integration and excision	0	MT310159.1__D8_1
+lysis	0	MT310159.1__D8_1
+moron, auxiliary metabolic gene and host takeover	0	MT310159.1__D8_1
+other	0	MT310159.1__D8_1
+tail	0	MT310159.1__D8_1
+transcription regulation	0	MT310159.1__D8_1
+unknown function	8	MT310159.1__D8_1
+VFDB_Virulence_Factors	0	MT310159.1__D8_1
+CARD_AMR	0	MT310159.1__D8_1
+ACR_anti_crispr	0	MT310159.1__D8_1
+Defensefinder	0	MT310159.1__D8_1
+Netflax	0	MT310159.1__D8_1
+CDS	6	MT310159.1__D9_1
+connector	0	MT310159.1__D9_1
+DNA, RNA and nucleotide metabolism	0	MT310159.1__D9_1
+head and packaging	0	MT310159.1__D9_1
+integration and excision	0	MT310159.1__D9_1
+lysis	0	MT310159.1__D9_1
+moron, auxiliary metabolic gene and host takeover	2	MT310159.1__D9_1
+other	0	MT310159.1__D9_1
+tail	0	MT310159.1__D9_1
+transcription regulation	0	MT310159.1__D9_1
+unknown function	4	MT310159.1__D9_1
+VFDB_Virulence_Factors	2	MT310159.1__D9_1
+CARD_AMR	0	MT310159.1__D9_1
+ACR_anti_crispr	0	MT310159.1__D9_1
+Defensefinder	0	MT310159.1__D9_1
+Netflax	0	MT310159.1__D9_1
+CDS	9	MT310159.1__D10_rotation
+connector	0	MT310159.1__D10_rotation
+DNA, RNA and nucleotide metabolism	2	MT310159.1__D10_rotation
+head and packaging	2	MT310159.1__D10_rotation
+integration and excision	0	MT310159.1__D10_rotation
+lysis	1	MT310159.1__D10_rotation
+moron, auxiliary metabolic gene and host takeover	0	MT310159.1__D10_rotation
+other	0	MT310159.1__D10_rotation
+tail	1	MT310159.1__D10_rotation
+transcription regulation	0	MT310159.1__D10_rotation
+unknown function	3	MT310159.1__D10_rotation
+VFDB_Virulence_Factors	0	MT310159.1__D10_rotation
+CARD_AMR	0	MT310159.1__D10_rotation
+ACR_anti_crispr	0	MT310159.1__D10_rotation
+Defensefinder	0	MT310159.1__D10_rotation
+Netflax	0	MT310159.1__D10_rotation
+CDS	7	MT310334.1__natural
+connector	0	MT310334.1__natural
+DNA, RNA and nucleotide metabolism	2	MT310334.1__natural
+head and packaging	2	MT310334.1__natural
+integration and excision	0	MT310334.1__natural
+lysis	0	MT310334.1__natural
+moron, auxiliary metabolic gene and host takeover	0	MT310334.1__natural
+other	0	MT310334.1__natural
+tail	0	MT310334.1__natural
+transcription regulation	0	MT310334.1__natural
+unknown function	3	MT310334.1__natural
+VFDB_Virulence_Factors	0	MT310334.1__natural
+CARD_AMR	0	MT310334.1__natural
+ACR_anti_crispr	0	MT310334.1__natural
+Defensefinder	0	MT310334.1__natural
+Netflax	0	MT310334.1__natural
+CDS	7	MT310334.1__D1_30
+connector	0	MT310334.1__D1_30
+DNA, RNA and nucleotide metabolism	2	MT310334.1__D1_30
+head and packaging	2	MT310334.1__D1_30
+integration and excision	0	MT310334.1__D1_30
+lysis	0	MT310334.1__D1_30
+moron, auxiliary metabolic gene and host takeover	0	MT310334.1__D1_30
+other	0	MT310334.1__D1_30
+tail	0	MT310334.1__D1_30
+transcription regulation	0	MT310334.1__D1_30
+unknown function	3	MT310334.1__D1_30
+VFDB_Virulence_Factors	0	MT310334.1__D1_30
+CARD_AMR	0	MT310334.1__D1_30
+ACR_anti_crispr	0	MT310334.1__D1_30
+Defensefinder	0	MT310334.1__D1_30
+Netflax	0	MT310334.1__D1_30
+CDS	11	MT310334.1__D2_2
+connector	0	MT310334.1__D2_2
+DNA, RNA and nucleotide metabolism	3	MT310334.1__D2_2
+head and packaging	2	MT310334.1__D2_2
+integration and excision	0	MT310334.1__D2_2
+lysis	0	MT310334.1__D2_2
+moron, auxiliary metabolic gene and host takeover	0	MT310334.1__D2_2
+other	0	MT310334.1__D2_2
+tail	0	MT310334.1__D2_2
+transcription regulation	0	MT310334.1__D2_2
+unknown function	6	MT310334.1__D2_2
+VFDB_Virulence_Factors	0	MT310334.1__D2_2
+CARD_AMR	0	MT310334.1__D2_2
+ACR_anti_crispr	0	MT310334.1__D2_2
+Defensefinder	0	MT310334.1__D2_2
+Netflax	0	MT310334.1__D2_2
+CDS	7	MT310334.1__D3_6
+connector	0	MT310334.1__D3_6
+DNA, RNA and nucleotide metabolism	2	MT310334.1__D3_6
+head and packaging	2	MT310334.1__D3_6
+integration and excision	0	MT310334.1__D3_6
+lysis	0	MT310334.1__D3_6
+moron, auxiliary metabolic gene and host takeover	0	MT310334.1__D3_6
+other	0	MT310334.1__D3_6
+tail	0	MT310334.1__D3_6
+transcription regulation	0	MT310334.1__D3_6
+unknown function	3	MT310334.1__D3_6
+VFDB_Virulence_Factors	0	MT310334.1__D3_6
+CARD_AMR	0	MT310334.1__D3_6
+ACR_anti_crispr	0	MT310334.1__D3_6
+Defensefinder	0	MT310334.1__D3_6
+Netflax	0	MT310334.1__D3_6
+CDS	7	MT310334.1__D4_3
+connector	0	MT310334.1__D4_3
+DNA, RNA and nucleotide metabolism	2	MT310334.1__D4_3
+head and packaging	2	MT310334.1__D4_3
+integration and excision	0	MT310334.1__D4_3
+lysis	0	MT310334.1__D4_3
+moron, auxiliary metabolic gene and host takeover	0	MT310334.1__D4_3
+other	0	MT310334.1__D4_3
+tail	0	MT310334.1__D4_3
+transcription regulation	0	MT310334.1__D4_3
+unknown function	3	MT310334.1__D4_3
+VFDB_Virulence_Factors	0	MT310334.1__D4_3
+CARD_AMR	0	MT310334.1__D4_3
+ACR_anti_crispr	0	MT310334.1__D4_3
+Defensefinder	0	MT310334.1__D4_3
+Netflax	0	MT310334.1__D4_3
+CDS	5	MT310334.1__D5_3
+connector	0	MT310334.1__D5_3
+DNA, RNA and nucleotide metabolism	1	MT310334.1__D5_3
+head and packaging	2	MT310334.1__D5_3
+integration and excision	0	MT310334.1__D5_3
+lysis	0	MT310334.1__D5_3
+moron, auxiliary metabolic gene and host takeover	0	MT310334.1__D5_3
+other	0	MT310334.1__D5_3
+tail	0	MT310334.1__D5_3
+transcription regulation	0	MT310334.1__D5_3
+unknown function	2	MT310334.1__D5_3
+VFDB_Virulence_Factors	0	MT310334.1__D5_3
+CARD_AMR	0	MT310334.1__D5_3
+ACR_anti_crispr	0	MT310334.1__D5_3
+Defensefinder	0	MT310334.1__D5_3
+Netflax	0	MT310334.1__D5_3
+CDS	9	MT310334.1__D6_4
+connector	0	MT310334.1__D6_4
+DNA, RNA and nucleotide metabolism	2	MT310334.1__D6_4
+head and packaging	2	MT310334.1__D6_4
+integration and excision	0	MT310334.1__D6_4
+lysis	0	MT310334.1__D6_4
+moron, auxiliary metabolic gene and host takeover	0	MT310334.1__D6_4
+other	0	MT310334.1__D6_4
+tail	0	MT310334.1__D6_4
+transcription regulation	0	MT310334.1__D6_4
+unknown function	5	MT310334.1__D6_4
+VFDB_Virulence_Factors	0	MT310334.1__D6_4
+CARD_AMR	0	MT310334.1__D6_4
+ACR_anti_crispr	0	MT310334.1__D6_4
+Defensefinder	0	MT310334.1__D6_4
+Netflax	0	MT310334.1__D6_4
+CDS	7	MT310334.1__D7_50
+connector	0	MT310334.1__D7_50
+DNA, RNA and nucleotide metabolism	0	MT310334.1__D7_50
+head and packaging	0	MT310334.1__D7_50
+integration and excision	0	MT310334.1__D7_50
+lysis	0	MT310334.1__D7_50
+moron, auxiliary metabolic gene and host takeover	0	MT310334.1__D7_50
+other	0	MT310334.1__D7_50
+tail	0	MT310334.1__D7_50
+transcription regulation	0	MT310334.1__D7_50
+unknown function	7	MT310334.1__D7_50
+VFDB_Virulence_Factors	0	MT310334.1__D7_50
+CARD_AMR	0	MT310334.1__D7_50
+ACR_anti_crispr	0	MT310334.1__D7_50
+Defensefinder	0	MT310334.1__D7_50
+Netflax	0	MT310334.1__D7_50
+CDS	7	MT310334.1__D8_1
+connector	0	MT310334.1__D8_1
+DNA, RNA and nucleotide metabolism	0	MT310334.1__D8_1
+head and packaging	0	MT310334.1__D8_1
+integration and excision	0	MT310334.1__D8_1
+lysis	0	MT310334.1__D8_1
+moron, auxiliary metabolic gene and host takeover	0	MT310334.1__D8_1
+other	0	MT310334.1__D8_1
+tail	0	MT310334.1__D8_1
+transcription regulation	0	MT310334.1__D8_1
+unknown function	7	MT310334.1__D8_1
+VFDB_Virulence_Factors	0	MT310334.1__D8_1
+CARD_AMR	0	MT310334.1__D8_1
+ACR_anti_crispr	0	MT310334.1__D8_1
+Defensefinder	0	MT310334.1__D8_1
+Netflax	0	MT310334.1__D8_1
+CDS	5	MT310334.1__D9_1
+connector	0	MT310334.1__D9_1
+DNA, RNA and nucleotide metabolism	0	MT310334.1__D9_1
+head and packaging	0	MT310334.1__D9_1
+integration and excision	0	MT310334.1__D9_1
+lysis	0	MT310334.1__D9_1
+moron, auxiliary metabolic gene and host takeover	3	MT310334.1__D9_1
+other	0	MT310334.1__D9_1
+tail	0	MT310334.1__D9_1
+transcription regulation	1	MT310334.1__D9_1
+unknown function	1	MT310334.1__D9_1
+VFDB_Virulence_Factors	3	MT310334.1__D9_1
+CARD_AMR	0	MT310334.1__D9_1
+ACR_anti_crispr	0	MT310334.1__D9_1
+Defensefinder	0	MT310334.1__D9_1
+Netflax	0	MT310334.1__D9_1
+CDS	8	MT310334.1__D10_rotation
+connector	0	MT310334.1__D10_rotation
+DNA, RNA and nucleotide metabolism	2	MT310334.1__D10_rotation
+head and packaging	2	MT310334.1__D10_rotation
+integration and excision	0	MT310334.1__D10_rotation
+lysis	0	MT310334.1__D10_rotation
+moron, auxiliary metabolic gene and host takeover	0	MT310334.1__D10_rotation
+other	0	MT310334.1__D10_rotation
+tail	0	MT310334.1__D10_rotation
+transcription regulation	0	MT310334.1__D10_rotation
+unknown function	4	MT310334.1__D10_rotation
+VFDB_Virulence_Factors	0	MT310334.1__D10_rotation
+CARD_AMR	0	MT310334.1__D10_rotation
+ACR_anti_crispr	0	MT310334.1__D10_rotation
+Defensefinder	0	MT310334.1__D10_rotation
+Netflax	0	MT310334.1__D10_rotation
+CDS	6	MW202414.1__natural
+connector	0	MW202414.1__natural
+DNA, RNA and nucleotide metabolism	2	MW202414.1__natural
+head and packaging	2	MW202414.1__natural
+integration and excision	0	MW202414.1__natural
+lysis	0	MW202414.1__natural
+moron, auxiliary metabolic gene and host takeover	0	MW202414.1__natural
+other	0	MW202414.1__natural
+tail	1	MW202414.1__natural
+transcription regulation	0	MW202414.1__natural
+unknown function	1	MW202414.1__natural
+VFDB_Virulence_Factors	0	MW202414.1__natural
+CARD_AMR	0	MW202414.1__natural
+ACR_anti_crispr	0	MW202414.1__natural
+Defensefinder	0	MW202414.1__natural
+Netflax	0	MW202414.1__natural
+CDS	6	MW202414.1__D1_30
+connector	0	MW202414.1__D1_30
+DNA, RNA and nucleotide metabolism	2	MW202414.1__D1_30
+head and packaging	2	MW202414.1__D1_30
+integration and excision	0	MW202414.1__D1_30
+lysis	0	MW202414.1__D1_30
+moron, auxiliary metabolic gene and host takeover	0	MW202414.1__D1_30
+other	0	MW202414.1__D1_30
+tail	1	MW202414.1__D1_30
+transcription regulation	0	MW202414.1__D1_30
+unknown function	1	MW202414.1__D1_30
+VFDB_Virulence_Factors	0	MW202414.1__D1_30
+CARD_AMR	0	MW202414.1__D1_30
+ACR_anti_crispr	0	MW202414.1__D1_30
+Defensefinder	0	MW202414.1__D1_30
+Netflax	0	MW202414.1__D1_30
+CDS	7	MW202414.1__D2_2
+connector	0	MW202414.1__D2_2
+DNA, RNA and nucleotide metabolism	3	MW202414.1__D2_2
+head and packaging	2	MW202414.1__D2_2
+integration and excision	0	MW202414.1__D2_2
+lysis	0	MW202414.1__D2_2
+moron, auxiliary metabolic gene and host takeover	0	MW202414.1__D2_2
+other	0	MW202414.1__D2_2
+tail	0	MW202414.1__D2_2
+transcription regulation	0	MW202414.1__D2_2
+unknown function	2	MW202414.1__D2_2
+VFDB_Virulence_Factors	0	MW202414.1__D2_2
+CARD_AMR	0	MW202414.1__D2_2
+ACR_anti_crispr	0	MW202414.1__D2_2
+Defensefinder	0	MW202414.1__D2_2
+Netflax	0	MW202414.1__D2_2
+CDS	8	MW202414.1__D3_6
+connector	0	MW202414.1__D3_6
+DNA, RNA and nucleotide metabolism	1	MW202414.1__D3_6
+head and packaging	2	MW202414.1__D3_6
+integration and excision	0	MW202414.1__D3_6
+lysis	0	MW202414.1__D3_6
+moron, auxiliary metabolic gene and host takeover	0	MW202414.1__D3_6
+other	0	MW202414.1__D3_6
+tail	0	MW202414.1__D3_6
+transcription regulation	0	MW202414.1__D3_6
+unknown function	5	MW202414.1__D3_6
+VFDB_Virulence_Factors	0	MW202414.1__D3_6
+CARD_AMR	0	MW202414.1__D3_6
+ACR_anti_crispr	0	MW202414.1__D3_6
+Defensefinder	0	MW202414.1__D3_6
+Netflax	0	MW202414.1__D3_6
+CDS	6	MW202414.1__D4_3
+connector	0	MW202414.1__D4_3
+DNA, RNA and nucleotide metabolism	2	MW202414.1__D4_3
+head and packaging	2	MW202414.1__D4_3
+integration and excision	0	MW202414.1__D4_3
+lysis	0	MW202414.1__D4_3
+moron, auxiliary metabolic gene and host takeover	0	MW202414.1__D4_3
+other	0	MW202414.1__D4_3
+tail	1	MW202414.1__D4_3
+transcription regulation	0	MW202414.1__D4_3
+unknown function	1	MW202414.1__D4_3
+VFDB_Virulence_Factors	0	MW202414.1__D4_3
+CARD_AMR	0	MW202414.1__D4_3
+ACR_anti_crispr	0	MW202414.1__D4_3
+Defensefinder	0	MW202414.1__D4_3
+Netflax	0	MW202414.1__D4_3
+CDS	4	MW202414.1__D5_3
+connector	0	MW202414.1__D5_3
+DNA, RNA and nucleotide metabolism	1	MW202414.1__D5_3
+head and packaging	0	MW202414.1__D5_3
+integration and excision	0	MW202414.1__D5_3
+lysis	0	MW202414.1__D5_3
+moron, auxiliary metabolic gene and host takeover	0	MW202414.1__D5_3
+other	0	MW202414.1__D5_3
+tail	1	MW202414.1__D5_3
+transcription regulation	0	MW202414.1__D5_3
+unknown function	2	MW202414.1__D5_3
+VFDB_Virulence_Factors	0	MW202414.1__D5_3
+CARD_AMR	0	MW202414.1__D5_3
+ACR_anti_crispr	0	MW202414.1__D5_3
+Defensefinder	0	MW202414.1__D5_3
+Netflax	0	MW202414.1__D5_3
+CDS	8	MW202414.1__D6_4
+connector	0	MW202414.1__D6_4
+DNA, RNA and nucleotide metabolism	1	MW202414.1__D6_4
+head and packaging	2	MW202414.1__D6_4
+integration and excision	0	MW202414.1__D6_4
+lysis	0	MW202414.1__D6_4
+moron, auxiliary metabolic gene and host takeover	0	MW202414.1__D6_4
+other	0	MW202414.1__D6_4
+tail	1	MW202414.1__D6_4
+transcription regulation	0	MW202414.1__D6_4
+unknown function	4	MW202414.1__D6_4
+VFDB_Virulence_Factors	0	MW202414.1__D6_4
+CARD_AMR	0	MW202414.1__D6_4
+ACR_anti_crispr	0	MW202414.1__D6_4
+Defensefinder	0	MW202414.1__D6_4
+Netflax	0	MW202414.1__D6_4
+CDS	6	MW202414.1__D7_50
+connector	0	MW202414.1__D7_50
+DNA, RNA and nucleotide metabolism	0	MW202414.1__D7_50
+head and packaging	0	MW202414.1__D7_50
+integration and excision	0	MW202414.1__D7_50
+lysis	0	MW202414.1__D7_50
+moron, auxiliary metabolic gene and host takeover	0	MW202414.1__D7_50
+other	0	MW202414.1__D7_50
+tail	0	MW202414.1__D7_50
+transcription regulation	0	MW202414.1__D7_50
+unknown function	6	MW202414.1__D7_50
+VFDB_Virulence_Factors	0	MW202414.1__D7_50
+CARD_AMR	0	MW202414.1__D7_50
+ACR_anti_crispr	0	MW202414.1__D7_50
+Defensefinder	0	MW202414.1__D7_50
+Netflax	0	MW202414.1__D7_50
+CDS	3	MW202414.1__D8_1
+connector	0	MW202414.1__D8_1
+DNA, RNA and nucleotide metabolism	0	MW202414.1__D8_1
+head and packaging	0	MW202414.1__D8_1
+integration and excision	0	MW202414.1__D8_1
+lysis	0	MW202414.1__D8_1
+moron, auxiliary metabolic gene and host takeover	0	MW202414.1__D8_1
+other	0	MW202414.1__D8_1
+tail	0	MW202414.1__D8_1
+transcription regulation	0	MW202414.1__D8_1
+unknown function	3	MW202414.1__D8_1
+VFDB_Virulence_Factors	0	MW202414.1__D8_1
+CARD_AMR	0	MW202414.1__D8_1
+ACR_anti_crispr	0	MW202414.1__D8_1
+Defensefinder	0	MW202414.1__D8_1
+Netflax	0	MW202414.1__D8_1
+CDS	7	MW202414.1__D9_1
+connector	0	MW202414.1__D9_1
+DNA, RNA and nucleotide metabolism	2	MW202414.1__D9_1
+head and packaging	4	MW202414.1__D9_1
+integration and excision	0	MW202414.1__D9_1
+lysis	0	MW202414.1__D9_1
+moron, auxiliary metabolic gene and host takeover	0	MW202414.1__D9_1
+other	0	MW202414.1__D9_1
+tail	0	MW202414.1__D9_1
+transcription regulation	0	MW202414.1__D9_1
+unknown function	1	MW202414.1__D9_1
+VFDB_Virulence_Factors	0	MW202414.1__D9_1
+CARD_AMR	0	MW202414.1__D9_1
+ACR_anti_crispr	0	MW202414.1__D9_1
+Defensefinder	0	MW202414.1__D9_1
+Netflax	0	MW202414.1__D9_1
+CDS	6	MW202414.1__D10_rotation
+connector	0	MW202414.1__D10_rotation
+DNA, RNA and nucleotide metabolism	1	MW202414.1__D10_rotation
+head and packaging	2	MW202414.1__D10_rotation
+integration and excision	0	MW202414.1__D10_rotation
+lysis	0	MW202414.1__D10_rotation
+moron, auxiliary metabolic gene and host takeover	0	MW202414.1__D10_rotation
+other	0	MW202414.1__D10_rotation
+tail	1	MW202414.1__D10_rotation
+transcription regulation	0	MW202414.1__D10_rotation
+unknown function	2	MW202414.1__D10_rotation
+VFDB_Virulence_Factors	0	MW202414.1__D10_rotation
+CARD_AMR	0	MW202414.1__D10_rotation
+ACR_anti_crispr	0	MW202414.1__D10_rotation
+Defensefinder	0	MW202414.1__D10_rotation
+Netflax	0	MW202414.1__D10_rotation
+CDS	8	MW697720.1__natural
+connector	0	MW697720.1__natural
+DNA, RNA and nucleotide metabolism	2	MW697720.1__natural
+head and packaging	2	MW697720.1__natural
+integration and excision	0	MW697720.1__natural
+lysis	0	MW697720.1__natural
+moron, auxiliary metabolic gene and host takeover	0	MW697720.1__natural
+other	0	MW697720.1__natural
+tail	0	MW697720.1__natural
+transcription regulation	0	MW697720.1__natural
+unknown function	4	MW697720.1__natural
+VFDB_Virulence_Factors	0	MW697720.1__natural
+CARD_AMR	0	MW697720.1__natural
+ACR_anti_crispr	0	MW697720.1__natural
+Defensefinder	0	MW697720.1__natural
+Netflax	0	MW697720.1__natural
+CDS	8	MW697720.1__D1_30
+connector	0	MW697720.1__D1_30
+DNA, RNA and nucleotide metabolism	2	MW697720.1__D1_30
+head and packaging	2	MW697720.1__D1_30
+integration and excision	0	MW697720.1__D1_30
+lysis	0	MW697720.1__D1_30
+moron, auxiliary metabolic gene and host takeover	0	MW697720.1__D1_30
+other	0	MW697720.1__D1_30
+tail	0	MW697720.1__D1_30
+transcription regulation	0	MW697720.1__D1_30
+unknown function	4	MW697720.1__D1_30
+VFDB_Virulence_Factors	0	MW697720.1__D1_30
+CARD_AMR	0	MW697720.1__D1_30
+ACR_anti_crispr	0	MW697720.1__D1_30
+Defensefinder	0	MW697720.1__D1_30
+Netflax	0	MW697720.1__D1_30
+CDS	9	MW697720.1__D2_2
+connector	0	MW697720.1__D2_2
+DNA, RNA and nucleotide metabolism	1	MW697720.1__D2_2
+head and packaging	2	MW697720.1__D2_2
+integration and excision	0	MW697720.1__D2_2
+lysis	0	MW697720.1__D2_2
+moron, auxiliary metabolic gene and host takeover	0	MW697720.1__D2_2
+other	0	MW697720.1__D2_2
+tail	0	MW697720.1__D2_2
+transcription regulation	0	MW697720.1__D2_2
+unknown function	6	MW697720.1__D2_2
+VFDB_Virulence_Factors	0	MW697720.1__D2_2
+CARD_AMR	0	MW697720.1__D2_2
+ACR_anti_crispr	0	MW697720.1__D2_2
+Defensefinder	0	MW697720.1__D2_2
+Netflax	0	MW697720.1__D2_2
+CDS	11	MW697720.1__D3_6
+connector	0	MW697720.1__D3_6
+DNA, RNA and nucleotide metabolism	2	MW697720.1__D3_6
+head and packaging	1	MW697720.1__D3_6
+integration and excision	0	MW697720.1__D3_6
+lysis	0	MW697720.1__D3_6
+moron, auxiliary metabolic gene and host takeover	0	MW697720.1__D3_6
+other	0	MW697720.1__D3_6
+tail	0	MW697720.1__D3_6
+transcription regulation	0	MW697720.1__D3_6
+unknown function	8	MW697720.1__D3_6
+VFDB_Virulence_Factors	0	MW697720.1__D3_6
+CARD_AMR	0	MW697720.1__D3_6
+ACR_anti_crispr	0	MW697720.1__D3_6
+Defensefinder	0	MW697720.1__D3_6
+Netflax	0	MW697720.1__D3_6
+CDS	9	MW697720.1__D4_3
+connector	0	MW697720.1__D4_3
+DNA, RNA and nucleotide metabolism	1	MW697720.1__D4_3
+head and packaging	2	MW697720.1__D4_3
+integration and excision	0	MW697720.1__D4_3
+lysis	0	MW697720.1__D4_3
+moron, auxiliary metabolic gene and host takeover	0	MW697720.1__D4_3
+other	0	MW697720.1__D4_3
+tail	0	MW697720.1__D4_3
+transcription regulation	0	MW697720.1__D4_3
+unknown function	6	MW697720.1__D4_3
+VFDB_Virulence_Factors	0	MW697720.1__D4_3
+CARD_AMR	0	MW697720.1__D4_3
+ACR_anti_crispr	0	MW697720.1__D4_3
+Defensefinder	0	MW697720.1__D4_3
+Netflax	0	MW697720.1__D4_3
+CDS	5	MW697720.1__D5_3
+connector	0	MW697720.1__D5_3
+DNA, RNA and nucleotide metabolism	1	MW697720.1__D5_3
+head and packaging	2	MW697720.1__D5_3
+integration and excision	0	MW697720.1__D5_3
+lysis	0	MW697720.1__D5_3
+moron, auxiliary metabolic gene and host takeover	0	MW697720.1__D5_3
+other	0	MW697720.1__D5_3
+tail	0	MW697720.1__D5_3
+transcription regulation	0	MW697720.1__D5_3
+unknown function	2	MW697720.1__D5_3
+VFDB_Virulence_Factors	0	MW697720.1__D5_3
+CARD_AMR	0	MW697720.1__D5_3
+ACR_anti_crispr	0	MW697720.1__D5_3
+Defensefinder	0	MW697720.1__D5_3
+Netflax	0	MW697720.1__D5_3
+CDS	10	MW697720.1__D6_4
+connector	0	MW697720.1__D6_4
+DNA, RNA and nucleotide metabolism	3	MW697720.1__D6_4
+head and packaging	2	MW697720.1__D6_4
+integration and excision	0	MW697720.1__D6_4
+lysis	0	MW697720.1__D6_4
+moron, auxiliary metabolic gene and host takeover	0	MW697720.1__D6_4
+other	0	MW697720.1__D6_4
+tail	0	MW697720.1__D6_4
+transcription regulation	0	MW697720.1__D6_4
+unknown function	5	MW697720.1__D6_4
+VFDB_Virulence_Factors	0	MW697720.1__D6_4
+CARD_AMR	0	MW697720.1__D6_4
+ACR_anti_crispr	0	MW697720.1__D6_4
+Defensefinder	0	MW697720.1__D6_4
+Netflax	0	MW697720.1__D6_4
+CDS	7	MW697720.1__D7_50
+connector	0	MW697720.1__D7_50
+DNA, RNA and nucleotide metabolism	0	MW697720.1__D7_50
+head and packaging	0	MW697720.1__D7_50
+integration and excision	0	MW697720.1__D7_50
+lysis	0	MW697720.1__D7_50
+moron, auxiliary metabolic gene and host takeover	0	MW697720.1__D7_50
+other	0	MW697720.1__D7_50
+tail	0	MW697720.1__D7_50
+transcription regulation	0	MW697720.1__D7_50
+unknown function	7	MW697720.1__D7_50
+VFDB_Virulence_Factors	0	MW697720.1__D7_50
+CARD_AMR	0	MW697720.1__D7_50
+ACR_anti_crispr	0	MW697720.1__D7_50
+Defensefinder	0	MW697720.1__D7_50
+Netflax	0	MW697720.1__D7_50
+CDS	3	MW697720.1__D8_1
+connector	0	MW697720.1__D8_1
+DNA, RNA and nucleotide metabolism	0	MW697720.1__D8_1
+head and packaging	0	MW697720.1__D8_1
+integration and excision	0	MW697720.1__D8_1
+lysis	0	MW697720.1__D8_1
+moron, auxiliary metabolic gene and host takeover	0	MW697720.1__D8_1
+other	0	MW697720.1__D8_1
+tail	0	MW697720.1__D8_1
+transcription regulation	0	MW697720.1__D8_1
+unknown function	3	MW697720.1__D8_1
+VFDB_Virulence_Factors	0	MW697720.1__D8_1
+CARD_AMR	0	MW697720.1__D8_1
+ACR_anti_crispr	0	MW697720.1__D8_1
+Defensefinder	0	MW697720.1__D8_1
+Netflax	0	MW697720.1__D8_1
+CDS	4	MW697720.1__D9_1
+connector	0	MW697720.1__D9_1
+DNA, RNA and nucleotide metabolism	0	MW697720.1__D9_1
+head and packaging	2	MW697720.1__D9_1
+integration and excision	0	MW697720.1__D9_1
+lysis	1	MW697720.1__D9_1
+moron, auxiliary metabolic gene and host takeover	0	MW697720.1__D9_1
+other	0	MW697720.1__D9_1
+tail	1	MW697720.1__D9_1
+transcription regulation	0	MW697720.1__D9_1
+unknown function	0	MW697720.1__D9_1
+VFDB_Virulence_Factors	0	MW697720.1__D9_1
+CARD_AMR	0	MW697720.1__D9_1
+ACR_anti_crispr	0	MW697720.1__D9_1
+Defensefinder	0	MW697720.1__D9_1
+Netflax	0	MW697720.1__D9_1
+CDS	9	MW697720.1__D10_rotation
+connector	0	MW697720.1__D10_rotation
+DNA, RNA and nucleotide metabolism	2	MW697720.1__D10_rotation
+head and packaging	2	MW697720.1__D10_rotation
+integration and excision	0	MW697720.1__D10_rotation
+lysis	0	MW697720.1__D10_rotation
+moron, auxiliary metabolic gene and host takeover	0	MW697720.1__D10_rotation
+other	0	MW697720.1__D10_rotation
+tail	0	MW697720.1__D10_rotation
+transcription regulation	0	MW697720.1__D10_rotation
+unknown function	5	MW697720.1__D10_rotation
+VFDB_Virulence_Factors	0	MW697720.1__D10_rotation
+CARD_AMR	0	MW697720.1__D10_rotation
+ACR_anti_crispr	0	MW697720.1__D10_rotation
+Defensefinder	0	MW697720.1__D10_rotation
+Netflax	0	MW697720.1__D10_rotation
+CDS	7	MZ364261.1__natural
+connector	0	MZ364261.1__natural
+DNA, RNA and nucleotide metabolism	2	MZ364261.1__natural
+head and packaging	2	MZ364261.1__natural
+integration and excision	0	MZ364261.1__natural
+lysis	0	MZ364261.1__natural
+moron, auxiliary metabolic gene and host takeover	0	MZ364261.1__natural
+other	0	MZ364261.1__natural
+tail	1	MZ364261.1__natural
+transcription regulation	0	MZ364261.1__natural
+unknown function	2	MZ364261.1__natural
+VFDB_Virulence_Factors	0	MZ364261.1__natural
+CARD_AMR	0	MZ364261.1__natural
+ACR_anti_crispr	0	MZ364261.1__natural
+Defensefinder	0	MZ364261.1__natural
+Netflax	0	MZ364261.1__natural
+CDS	7	MZ364261.1__D1_30
+connector	0	MZ364261.1__D1_30
+DNA, RNA and nucleotide metabolism	2	MZ364261.1__D1_30
+head and packaging	2	MZ364261.1__D1_30
+integration and excision	0	MZ364261.1__D1_30
+lysis	0	MZ364261.1__D1_30
+moron, auxiliary metabolic gene and host takeover	0	MZ364261.1__D1_30
+other	0	MZ364261.1__D1_30
+tail	1	MZ364261.1__D1_30
+transcription regulation	0	MZ364261.1__D1_30
+unknown function	2	MZ364261.1__D1_30
+VFDB_Virulence_Factors	0	MZ364261.1__D1_30
+CARD_AMR	0	MZ364261.1__D1_30
+ACR_anti_crispr	0	MZ364261.1__D1_30
+Defensefinder	0	MZ364261.1__D1_30
+Netflax	0	MZ364261.1__D1_30
+CDS	7	MZ364261.1__D2_2
+connector	0	MZ364261.1__D2_2
+DNA, RNA and nucleotide metabolism	2	MZ364261.1__D2_2
+head and packaging	2	MZ364261.1__D2_2
+integration and excision	0	MZ364261.1__D2_2
+lysis	0	MZ364261.1__D2_2
+moron, auxiliary metabolic gene and host takeover	0	MZ364261.1__D2_2
+other	0	MZ364261.1__D2_2
+tail	1	MZ364261.1__D2_2
+transcription regulation	0	MZ364261.1__D2_2
+unknown function	2	MZ364261.1__D2_2
+VFDB_Virulence_Factors	0	MZ364261.1__D2_2
+CARD_AMR	0	MZ364261.1__D2_2
+ACR_anti_crispr	0	MZ364261.1__D2_2
+Defensefinder	0	MZ364261.1__D2_2
+Netflax	0	MZ364261.1__D2_2
+CDS	10	MZ364261.1__D3_6
+connector	0	MZ364261.1__D3_6
+DNA, RNA and nucleotide metabolism	1	MZ364261.1__D3_6
+head and packaging	1	MZ364261.1__D3_6
+integration and excision	0	MZ364261.1__D3_6
+lysis	0	MZ364261.1__D3_6
+moron, auxiliary metabolic gene and host takeover	0	MZ364261.1__D3_6
+other	0	MZ364261.1__D3_6
+tail	1	MZ364261.1__D3_6
+transcription regulation	0	MZ364261.1__D3_6
+unknown function	7	MZ364261.1__D3_6
+VFDB_Virulence_Factors	0	MZ364261.1__D3_6
+CARD_AMR	0	MZ364261.1__D3_6
+ACR_anti_crispr	0	MZ364261.1__D3_6
+Defensefinder	0	MZ364261.1__D3_6
+Netflax	0	MZ364261.1__D3_6
+CDS	8	MZ364261.1__D4_3
+connector	0	MZ364261.1__D4_3
+DNA, RNA and nucleotide metabolism	2	MZ364261.1__D4_3
+head and packaging	2	MZ364261.1__D4_3
+integration and excision	0	MZ364261.1__D4_3
+lysis	0	MZ364261.1__D4_3
+moron, auxiliary metabolic gene and host takeover	0	MZ364261.1__D4_3
+other	0	MZ364261.1__D4_3
+tail	1	MZ364261.1__D4_3
+transcription regulation	0	MZ364261.1__D4_3
+unknown function	3	MZ364261.1__D4_3
+VFDB_Virulence_Factors	0	MZ364261.1__D4_3
+CARD_AMR	0	MZ364261.1__D4_3
+ACR_anti_crispr	0	MZ364261.1__D4_3
+Defensefinder	0	MZ364261.1__D4_3
+Netflax	0	MZ364261.1__D4_3
+CDS	4	MZ364261.1__D5_3
+connector	0	MZ364261.1__D5_3
+DNA, RNA and nucleotide metabolism	2	MZ364261.1__D5_3
+head and packaging	2	MZ364261.1__D5_3
+integration and excision	0	MZ364261.1__D5_3
+lysis	0	MZ364261.1__D5_3
+moron, auxiliary metabolic gene and host takeover	0	MZ364261.1__D5_3
+other	0	MZ364261.1__D5_3
+tail	0	MZ364261.1__D5_3
+transcription regulation	0	MZ364261.1__D5_3
+unknown function	0	MZ364261.1__D5_3
+VFDB_Virulence_Factors	0	MZ364261.1__D5_3
+CARD_AMR	0	MZ364261.1__D5_3
+ACR_anti_crispr	0	MZ364261.1__D5_3
+Defensefinder	0	MZ364261.1__D5_3
+Netflax	0	MZ364261.1__D5_3
+CDS	7	MZ364261.1__D6_4
+connector	0	MZ364261.1__D6_4
+DNA, RNA and nucleotide metabolism	2	MZ364261.1__D6_4
+head and packaging	2	MZ364261.1__D6_4
+integration and excision	0	MZ364261.1__D6_4
+lysis	0	MZ364261.1__D6_4
+moron, auxiliary metabolic gene and host takeover	0	MZ364261.1__D6_4
+other	0	MZ364261.1__D6_4
+tail	1	MZ364261.1__D6_4
+transcription regulation	0	MZ364261.1__D6_4
+unknown function	2	MZ364261.1__D6_4
+VFDB_Virulence_Factors	0	MZ364261.1__D6_4
+CARD_AMR	0	MZ364261.1__D6_4
+ACR_anti_crispr	0	MZ364261.1__D6_4
+Defensefinder	0	MZ364261.1__D6_4
+Netflax	0	MZ364261.1__D6_4
+CDS	6	MZ364261.1__D7_50
+connector	0	MZ364261.1__D7_50
+DNA, RNA and nucleotide metabolism	0	MZ364261.1__D7_50
+head and packaging	0	MZ364261.1__D7_50
+integration and excision	0	MZ364261.1__D7_50
+lysis	0	MZ364261.1__D7_50
+moron, auxiliary metabolic gene and host takeover	0	MZ364261.1__D7_50
+other	0	MZ364261.1__D7_50
+tail	0	MZ364261.1__D7_50
+transcription regulation	0	MZ364261.1__D7_50
+unknown function	6	MZ364261.1__D7_50
+VFDB_Virulence_Factors	0	MZ364261.1__D7_50
+CARD_AMR	0	MZ364261.1__D7_50
+ACR_anti_crispr	0	MZ364261.1__D7_50
+Defensefinder	0	MZ364261.1__D7_50
+Netflax	0	MZ364261.1__D7_50
+CDS	4	MZ364261.1__D8_1
+connector	0	MZ364261.1__D8_1
+DNA, RNA and nucleotide metabolism	0	MZ364261.1__D8_1
+head and packaging	0	MZ364261.1__D8_1
+integration and excision	0	MZ364261.1__D8_1
+lysis	0	MZ364261.1__D8_1
+moron, auxiliary metabolic gene and host takeover	0	MZ364261.1__D8_1
+other	0	MZ364261.1__D8_1
+tail	0	MZ364261.1__D8_1
+transcription regulation	0	MZ364261.1__D8_1
+unknown function	4	MZ364261.1__D8_1
+VFDB_Virulence_Factors	0	MZ364261.1__D8_1
+CARD_AMR	0	MZ364261.1__D8_1
+ACR_anti_crispr	0	MZ364261.1__D8_1
+Defensefinder	0	MZ364261.1__D8_1
+Netflax	0	MZ364261.1__D8_1
+CDS	8	MZ364261.1__D9_1
+connector	0	MZ364261.1__D9_1
+DNA, RNA and nucleotide metabolism	4	MZ364261.1__D9_1
+head and packaging	3	MZ364261.1__D9_1
+integration and excision	0	MZ364261.1__D9_1
+lysis	0	MZ364261.1__D9_1
+moron, auxiliary metabolic gene and host takeover	0	MZ364261.1__D9_1
+other	0	MZ364261.1__D9_1
+tail	0	MZ364261.1__D9_1
+transcription regulation	0	MZ364261.1__D9_1
+unknown function	1	MZ364261.1__D9_1
+VFDB_Virulence_Factors	0	MZ364261.1__D9_1
+CARD_AMR	0	MZ364261.1__D9_1
+ACR_anti_crispr	0	MZ364261.1__D9_1
+Defensefinder	0	MZ364261.1__D9_1
+Netflax	0	MZ364261.1__D9_1
+CDS	8	MZ364261.1__D10_rotation
+connector	0	MZ364261.1__D10_rotation
+DNA, RNA and nucleotide metabolism	1	MZ364261.1__D10_rotation
+head and packaging	2	MZ364261.1__D10_rotation
+integration and excision	0	MZ364261.1__D10_rotation
+lysis	0	MZ364261.1__D10_rotation
+moron, auxiliary metabolic gene and host takeover	0	MZ364261.1__D10_rotation
+other	0	MZ364261.1__D10_rotation
+tail	1	MZ364261.1__D10_rotation
+transcription regulation	0	MZ364261.1__D10_rotation
+unknown function	4	MZ364261.1__D10_rotation
+VFDB_Virulence_Factors	0	MZ364261.1__D10_rotation
+CARD_AMR	0	MZ364261.1__D10_rotation
+ACR_anti_crispr	0	MZ364261.1__D10_rotation
+Defensefinder	0	MZ364261.1__D10_rotation
+Netflax	0	MZ364261.1__D10_rotation
+CDS	7	OM869701.1__natural
+connector	0	OM869701.1__natural
+DNA, RNA and nucleotide metabolism	2	OM869701.1__natural
+head and packaging	2	OM869701.1__natural
+integration and excision	0	OM869701.1__natural
+lysis	0	OM869701.1__natural
+moron, auxiliary metabolic gene and host takeover	0	OM869701.1__natural
+other	0	OM869701.1__natural
+tail	0	OM869701.1__natural
+transcription regulation	0	OM869701.1__natural
+unknown function	3	OM869701.1__natural
+VFDB_Virulence_Factors	0	OM869701.1__natural
+CARD_AMR	0	OM869701.1__natural
+ACR_anti_crispr	0	OM869701.1__natural
+Defensefinder	0	OM869701.1__natural
+Netflax	0	OM869701.1__natural
+CDS	7	OM869701.1__D1_30
+connector	0	OM869701.1__D1_30
+DNA, RNA and nucleotide metabolism	2	OM869701.1__D1_30
+head and packaging	2	OM869701.1__D1_30
+integration and excision	0	OM869701.1__D1_30
+lysis	0	OM869701.1__D1_30
+moron, auxiliary metabolic gene and host takeover	0	OM869701.1__D1_30
+other	0	OM869701.1__D1_30
+tail	0	OM869701.1__D1_30
+transcription regulation	0	OM869701.1__D1_30
+unknown function	3	OM869701.1__D1_30
+VFDB_Virulence_Factors	0	OM869701.1__D1_30
+CARD_AMR	0	OM869701.1__D1_30
+ACR_anti_crispr	0	OM869701.1__D1_30
+Defensefinder	0	OM869701.1__D1_30
+Netflax	0	OM869701.1__D1_30
+CDS	8	OM869701.1__D2_2
+connector	0	OM869701.1__D2_2
+DNA, RNA and nucleotide metabolism	2	OM869701.1__D2_2
+head and packaging	2	OM869701.1__D2_2
+integration and excision	0	OM869701.1__D2_2
+lysis	0	OM869701.1__D2_2
+moron, auxiliary metabolic gene and host takeover	0	OM869701.1__D2_2
+other	0	OM869701.1__D2_2
+tail	0	OM869701.1__D2_2
+transcription regulation	0	OM869701.1__D2_2
+unknown function	4	OM869701.1__D2_2
+VFDB_Virulence_Factors	0	OM869701.1__D2_2
+CARD_AMR	0	OM869701.1__D2_2
+ACR_anti_crispr	0	OM869701.1__D2_2
+Defensefinder	0	OM869701.1__D2_2
+Netflax	0	OM869701.1__D2_2
+CDS	9	OM869701.1__D3_6
+connector	0	OM869701.1__D3_6
+DNA, RNA and nucleotide metabolism	2	OM869701.1__D3_6
+head and packaging	2	OM869701.1__D3_6
+integration and excision	0	OM869701.1__D3_6
+lysis	0	OM869701.1__D3_6
+moron, auxiliary metabolic gene and host takeover	0	OM869701.1__D3_6
+other	0	OM869701.1__D3_6
+tail	0	OM869701.1__D3_6
+transcription regulation	0	OM869701.1__D3_6
+unknown function	5	OM869701.1__D3_6
+VFDB_Virulence_Factors	0	OM869701.1__D3_6
+CARD_AMR	0	OM869701.1__D3_6
+ACR_anti_crispr	0	OM869701.1__D3_6
+Defensefinder	0	OM869701.1__D3_6
+Netflax	0	OM869701.1__D3_6
+CDS	6	OM869701.1__D4_3
+connector	0	OM869701.1__D4_3
+DNA, RNA and nucleotide metabolism	2	OM869701.1__D4_3
+head and packaging	2	OM869701.1__D4_3
+integration and excision	0	OM869701.1__D4_3
+lysis	0	OM869701.1__D4_3
+moron, auxiliary metabolic gene and host takeover	0	OM869701.1__D4_3
+other	0	OM869701.1__D4_3
+tail	0	OM869701.1__D4_3
+transcription regulation	0	OM869701.1__D4_3
+unknown function	2	OM869701.1__D4_3
+VFDB_Virulence_Factors	0	OM869701.1__D4_3
+CARD_AMR	0	OM869701.1__D4_3
+ACR_anti_crispr	0	OM869701.1__D4_3
+Defensefinder	0	OM869701.1__D4_3
+Netflax	0	OM869701.1__D4_3
+CDS	4	OM869701.1__D5_3
+connector	0	OM869701.1__D5_3
+DNA, RNA and nucleotide metabolism	0	OM869701.1__D5_3
+head and packaging	2	OM869701.1__D5_3
+integration and excision	0	OM869701.1__D5_3
+lysis	0	OM869701.1__D5_3
+moron, auxiliary metabolic gene and host takeover	0	OM869701.1__D5_3
+other	0	OM869701.1__D5_3
+tail	0	OM869701.1__D5_3
+transcription regulation	0	OM869701.1__D5_3
+unknown function	2	OM869701.1__D5_3
+VFDB_Virulence_Factors	0	OM869701.1__D5_3
+CARD_AMR	0	OM869701.1__D5_3
+ACR_anti_crispr	0	OM869701.1__D5_3
+Defensefinder	0	OM869701.1__D5_3
+Netflax	0	OM869701.1__D5_3
+CDS	9	OM869701.1__D6_4
+connector	0	OM869701.1__D6_4
+DNA, RNA and nucleotide metabolism	1	OM869701.1__D6_4
+head and packaging	1	OM869701.1__D6_4
+integration and excision	0	OM869701.1__D6_4
+lysis	0	OM869701.1__D6_4
+moron, auxiliary metabolic gene and host takeover	0	OM869701.1__D6_4
+other	0	OM869701.1__D6_4
+tail	0	OM869701.1__D6_4
+transcription regulation	0	OM869701.1__D6_4
+unknown function	7	OM869701.1__D6_4
+VFDB_Virulence_Factors	0	OM869701.1__D6_4
+CARD_AMR	0	OM869701.1__D6_4
+ACR_anti_crispr	0	OM869701.1__D6_4
+Defensefinder	0	OM869701.1__D6_4
+Netflax	0	OM869701.1__D6_4
+CDS	7	OM869701.1__D7_50
+connector	0	OM869701.1__D7_50
+DNA, RNA and nucleotide metabolism	0	OM869701.1__D7_50
+head and packaging	0	OM869701.1__D7_50
+integration and excision	0	OM869701.1__D7_50
+lysis	0	OM869701.1__D7_50
+moron, auxiliary metabolic gene and host takeover	0	OM869701.1__D7_50
+other	0	OM869701.1__D7_50
+tail	0	OM869701.1__D7_50
+transcription regulation	0	OM869701.1__D7_50
+unknown function	7	OM869701.1__D7_50
+VFDB_Virulence_Factors	0	OM869701.1__D7_50
+CARD_AMR	0	OM869701.1__D7_50
+ACR_anti_crispr	0	OM869701.1__D7_50
+Defensefinder	0	OM869701.1__D7_50
+Netflax	0	OM869701.1__D7_50
+CDS	5	OM869701.1__D8_1
+connector	0	OM869701.1__D8_1
+DNA, RNA and nucleotide metabolism	0	OM869701.1__D8_1
+head and packaging	0	OM869701.1__D8_1
+integration and excision	0	OM869701.1__D8_1
+lysis	0	OM869701.1__D8_1
+moron, auxiliary metabolic gene and host takeover	0	OM869701.1__D8_1
+other	0	OM869701.1__D8_1
+tail	0	OM869701.1__D8_1
+transcription regulation	0	OM869701.1__D8_1
+unknown function	5	OM869701.1__D8_1
+VFDB_Virulence_Factors	0	OM869701.1__D8_1
+CARD_AMR	0	OM869701.1__D8_1
+ACR_anti_crispr	0	OM869701.1__D8_1
+Defensefinder	0	OM869701.1__D8_1
+Netflax	0	OM869701.1__D8_1
+CDS	5	OM869701.1__D9_1
+connector	0	OM869701.1__D9_1
+DNA, RNA and nucleotide metabolism	0	OM869701.1__D9_1
+head and packaging	0	OM869701.1__D9_1
+integration and excision	0	OM869701.1__D9_1
+lysis	0	OM869701.1__D9_1
+moron, auxiliary metabolic gene and host takeover	5	OM869701.1__D9_1
+other	0	OM869701.1__D9_1
+tail	0	OM869701.1__D9_1
+transcription regulation	0	OM869701.1__D9_1
+unknown function	0	OM869701.1__D9_1
+VFDB_Virulence_Factors	4	OM869701.1__D9_1
+CARD_AMR	0	OM869701.1__D9_1
+ACR_anti_crispr	0	OM869701.1__D9_1
+Defensefinder	0	OM869701.1__D9_1
+Netflax	0	OM869701.1__D9_1
+CDS	8	OM869701.1__D10_rotation
+connector	0	OM869701.1__D10_rotation
+DNA, RNA and nucleotide metabolism	2	OM869701.1__D10_rotation
+head and packaging	2	OM869701.1__D10_rotation
+integration and excision	0	OM869701.1__D10_rotation
+lysis	0	OM869701.1__D10_rotation
+moron, auxiliary metabolic gene and host takeover	0	OM869701.1__D10_rotation
+other	0	OM869701.1__D10_rotation
+tail	0	OM869701.1__D10_rotation
+transcription regulation	0	OM869701.1__D10_rotation
+unknown function	4	OM869701.1__D10_rotation
+VFDB_Virulence_Factors	0	OM869701.1__D10_rotation
+CARD_AMR	0	OM869701.1__D10_rotation
+ACR_anti_crispr	0	OM869701.1__D10_rotation
+Defensefinder	0	OM869701.1__D10_rotation
+Netflax	0	OM869701.1__D10_rotation
+CDS	9	OP209174.1__natural
+connector	0	OP209174.1__natural
+DNA, RNA and nucleotide metabolism	1	OP209174.1__natural
+head and packaging	1	OP209174.1__natural
+integration and excision	0	OP209174.1__natural
+lysis	0	OP209174.1__natural
+moron, auxiliary metabolic gene and host takeover	0	OP209174.1__natural
+other	0	OP209174.1__natural
+tail	0	OP209174.1__natural
+transcription regulation	0	OP209174.1__natural
+unknown function	7	OP209174.1__natural
+VFDB_Virulence_Factors	0	OP209174.1__natural
+CARD_AMR	0	OP209174.1__natural
+ACR_anti_crispr	0	OP209174.1__natural
+Defensefinder	0	OP209174.1__natural
+Netflax	0	OP209174.1__natural
+CDS	9	OP209174.1__D1_30
+connector	0	OP209174.1__D1_30
+DNA, RNA and nucleotide metabolism	1	OP209174.1__D1_30
+head and packaging	1	OP209174.1__D1_30
+integration and excision	0	OP209174.1__D1_30
+lysis	0	OP209174.1__D1_30
+moron, auxiliary metabolic gene and host takeover	0	OP209174.1__D1_30
+other	0	OP209174.1__D1_30
+tail	0	OP209174.1__D1_30
+transcription regulation	0	OP209174.1__D1_30
+unknown function	7	OP209174.1__D1_30
+VFDB_Virulence_Factors	0	OP209174.1__D1_30
+CARD_AMR	0	OP209174.1__D1_30
+ACR_anti_crispr	0	OP209174.1__D1_30
+Defensefinder	0	OP209174.1__D1_30
+Netflax	0	OP209174.1__D1_30
+CDS	9	OP209174.1__D2_2
+connector	0	OP209174.1__D2_2
+DNA, RNA and nucleotide metabolism	1	OP209174.1__D2_2
+head and packaging	1	OP209174.1__D2_2
+integration and excision	0	OP209174.1__D2_2
+lysis	0	OP209174.1__D2_2
+moron, auxiliary metabolic gene and host takeover	0	OP209174.1__D2_2
+other	0	OP209174.1__D2_2
+tail	0	OP209174.1__D2_2
+transcription regulation	0	OP209174.1__D2_2
+unknown function	7	OP209174.1__D2_2
+VFDB_Virulence_Factors	0	OP209174.1__D2_2
+CARD_AMR	0	OP209174.1__D2_2
+ACR_anti_crispr	0	OP209174.1__D2_2
+Defensefinder	0	OP209174.1__D2_2
+Netflax	0	OP209174.1__D2_2
+CDS	10	OP209174.1__D3_6
+connector	0	OP209174.1__D3_6
+DNA, RNA and nucleotide metabolism	1	OP209174.1__D3_6
+head and packaging	1	OP209174.1__D3_6
+integration and excision	0	OP209174.1__D3_6
+lysis	0	OP209174.1__D3_6
+moron, auxiliary metabolic gene and host takeover	0	OP209174.1__D3_6
+other	0	OP209174.1__D3_6
+tail	0	OP209174.1__D3_6
+transcription regulation	0	OP209174.1__D3_6
+unknown function	8	OP209174.1__D3_6
+VFDB_Virulence_Factors	0	OP209174.1__D3_6
+CARD_AMR	0	OP209174.1__D3_6
+ACR_anti_crispr	0	OP209174.1__D3_6
+Defensefinder	0	OP209174.1__D3_6
+Netflax	0	OP209174.1__D3_6
+CDS	10	OP209174.1__D4_3
+connector	0	OP209174.1__D4_3
+DNA, RNA and nucleotide metabolism	1	OP209174.1__D4_3
+head and packaging	1	OP209174.1__D4_3
+integration and excision	0	OP209174.1__D4_3
+lysis	0	OP209174.1__D4_3
+moron, auxiliary metabolic gene and host takeover	0	OP209174.1__D4_3
+other	0	OP209174.1__D4_3
+tail	0	OP209174.1__D4_3
+transcription regulation	0	OP209174.1__D4_3
+unknown function	8	OP209174.1__D4_3
+VFDB_Virulence_Factors	0	OP209174.1__D4_3
+CARD_AMR	0	OP209174.1__D4_3
+ACR_anti_crispr	0	OP209174.1__D4_3
+Defensefinder	0	OP209174.1__D4_3
+Netflax	0	OP209174.1__D4_3
+CDS	7	OP209174.1__D5_3
+connector	0	OP209174.1__D5_3
+DNA, RNA and nucleotide metabolism	1	OP209174.1__D5_3
+head and packaging	1	OP209174.1__D5_3
+integration and excision	0	OP209174.1__D5_3
+lysis	0	OP209174.1__D5_3
+moron, auxiliary metabolic gene and host takeover	0	OP209174.1__D5_3
+other	0	OP209174.1__D5_3
+tail	0	OP209174.1__D5_3
+transcription regulation	0	OP209174.1__D5_3
+unknown function	5	OP209174.1__D5_3
+VFDB_Virulence_Factors	0	OP209174.1__D5_3
+CARD_AMR	0	OP209174.1__D5_3
+ACR_anti_crispr	0	OP209174.1__D5_3
+Defensefinder	0	OP209174.1__D5_3
+Netflax	0	OP209174.1__D5_3
+CDS	9	OP209174.1__D6_4
+connector	0	OP209174.1__D6_4
+DNA, RNA and nucleotide metabolism	1	OP209174.1__D6_4
+head and packaging	1	OP209174.1__D6_4
+integration and excision	0	OP209174.1__D6_4
+lysis	0	OP209174.1__D6_4
+moron, auxiliary metabolic gene and host takeover	0	OP209174.1__D6_4
+other	0	OP209174.1__D6_4
+tail	0	OP209174.1__D6_4
+transcription regulation	0	OP209174.1__D6_4
+unknown function	7	OP209174.1__D6_4
+VFDB_Virulence_Factors	0	OP209174.1__D6_4
+CARD_AMR	0	OP209174.1__D6_4
+ACR_anti_crispr	0	OP209174.1__D6_4
+Defensefinder	0	OP209174.1__D6_4
+Netflax	0	OP209174.1__D6_4
+CDS	7	OP209174.1__D7_50
+connector	0	OP209174.1__D7_50
+DNA, RNA and nucleotide metabolism	0	OP209174.1__D7_50
+head and packaging	0	OP209174.1__D7_50
+integration and excision	0	OP209174.1__D7_50
+lysis	0	OP209174.1__D7_50
+moron, auxiliary metabolic gene and host takeover	0	OP209174.1__D7_50
+other	0	OP209174.1__D7_50
+tail	0	OP209174.1__D7_50
+transcription regulation	0	OP209174.1__D7_50
+unknown function	7	OP209174.1__D7_50
+VFDB_Virulence_Factors	0	OP209174.1__D7_50
+CARD_AMR	0	OP209174.1__D7_50
+ACR_anti_crispr	0	OP209174.1__D7_50
+Defensefinder	0	OP209174.1__D7_50
+Netflax	0	OP209174.1__D7_50
+CDS	1	OP209174.1__D8_1
+connector	0	OP209174.1__D8_1
+DNA, RNA and nucleotide metabolism	0	OP209174.1__D8_1
+head and packaging	0	OP209174.1__D8_1
+integration and excision	0	OP209174.1__D8_1
+lysis	0	OP209174.1__D8_1
+moron, auxiliary metabolic gene and host takeover	0	OP209174.1__D8_1
+other	0	OP209174.1__D8_1
+tail	0	OP209174.1__D8_1
+transcription regulation	0	OP209174.1__D8_1
+unknown function	1	OP209174.1__D8_1
+VFDB_Virulence_Factors	0	OP209174.1__D8_1
+CARD_AMR	0	OP209174.1__D8_1
+ACR_anti_crispr	0	OP209174.1__D8_1
+Defensefinder	0	OP209174.1__D8_1
+Netflax	0	OP209174.1__D8_1
+CDS	7	OP209174.1__D9_1
+connector	0	OP209174.1__D9_1
+DNA, RNA and nucleotide metabolism	2	OP209174.1__D9_1
+head and packaging	0	OP209174.1__D9_1
+integration and excision	0	OP209174.1__D9_1
+lysis	0	OP209174.1__D9_1
+moron, auxiliary metabolic gene and host takeover	2	OP209174.1__D9_1
+other	0	OP209174.1__D9_1
+tail	2	OP209174.1__D9_1
+transcription regulation	0	OP209174.1__D9_1
+unknown function	1	OP209174.1__D9_1
+VFDB_Virulence_Factors	0	OP209174.1__D9_1
+CARD_AMR	0	OP209174.1__D9_1
+ACR_anti_crispr	0	OP209174.1__D9_1
+Defensefinder	0	OP209174.1__D9_1
+Netflax	0	OP209174.1__D9_1
+CDS	9	OP209174.1__D10_rotation
+connector	0	OP209174.1__D10_rotation
+DNA, RNA and nucleotide metabolism	1	OP209174.1__D10_rotation
+head and packaging	1	OP209174.1__D10_rotation
+integration and excision	0	OP209174.1__D10_rotation
+lysis	0	OP209174.1__D10_rotation
+moron, auxiliary metabolic gene and host takeover	0	OP209174.1__D10_rotation
+other	0	OP209174.1__D10_rotation
+tail	0	OP209174.1__D10_rotation
+transcription regulation	0	OP209174.1__D10_rotation
+unknown function	7	OP209174.1__D10_rotation
+VFDB_Virulence_Factors	0	OP209174.1__D10_rotation
+CARD_AMR	0	OP209174.1__D10_rotation
+ACR_anti_crispr	0	OP209174.1__D10_rotation
+Defensefinder	0	OP209174.1__D10_rotation
+Netflax	0	OP209174.1__D10_rotation
+CDS	8	OX614293.1__natural
+connector	0	OX614293.1__natural
+DNA, RNA and nucleotide metabolism	2	OX614293.1__natural
+head and packaging	2	OX614293.1__natural
+integration and excision	0	OX614293.1__natural
+lysis	0	OX614293.1__natural
+moron, auxiliary metabolic gene and host takeover	0	OX614293.1__natural
+other	0	OX614293.1__natural
+tail	0	OX614293.1__natural
+transcription regulation	0	OX614293.1__natural
+unknown function	4	OX614293.1__natural
+VFDB_Virulence_Factors	0	OX614293.1__natural
+CARD_AMR	0	OX614293.1__natural
+ACR_anti_crispr	0	OX614293.1__natural
+Defensefinder	0	OX614293.1__natural
+Netflax	0	OX614293.1__natural
+CDS	7	OX614293.1__D1_30
+connector	0	OX614293.1__D1_30
+DNA, RNA and nucleotide metabolism	2	OX614293.1__D1_30
+head and packaging	2	OX614293.1__D1_30
+integration and excision	0	OX614293.1__D1_30
+lysis	0	OX614293.1__D1_30
+moron, auxiliary metabolic gene and host takeover	0	OX614293.1__D1_30
+other	0	OX614293.1__D1_30
+tail	0	OX614293.1__D1_30
+transcription regulation	0	OX614293.1__D1_30
+unknown function	3	OX614293.1__D1_30
+VFDB_Virulence_Factors	0	OX614293.1__D1_30
+CARD_AMR	0	OX614293.1__D1_30
+ACR_anti_crispr	0	OX614293.1__D1_30
+Defensefinder	0	OX614293.1__D1_30
+Netflax	0	OX614293.1__D1_30
+CDS	7	OX614293.1__D2_2
+connector	0	OX614293.1__D2_2
+DNA, RNA and nucleotide metabolism	2	OX614293.1__D2_2
+head and packaging	2	OX614293.1__D2_2
+integration and excision	0	OX614293.1__D2_2
+lysis	0	OX614293.1__D2_2
+moron, auxiliary metabolic gene and host takeover	0	OX614293.1__D2_2
+other	0	OX614293.1__D2_2
+tail	1	OX614293.1__D2_2
+transcription regulation	0	OX614293.1__D2_2
+unknown function	2	OX614293.1__D2_2
+VFDB_Virulence_Factors	0	OX614293.1__D2_2
+CARD_AMR	0	OX614293.1__D2_2
+ACR_anti_crispr	0	OX614293.1__D2_2
+Defensefinder	0	OX614293.1__D2_2
+Netflax	0	OX614293.1__D2_2
+CDS	9	OX614293.1__D3_6
+connector	0	OX614293.1__D3_6
+DNA, RNA and nucleotide metabolism	1	OX614293.1__D3_6
+head and packaging	2	OX614293.1__D3_6
+integration and excision	0	OX614293.1__D3_6
+lysis	0	OX614293.1__D3_6
+moron, auxiliary metabolic gene and host takeover	0	OX614293.1__D3_6
+other	0	OX614293.1__D3_6
+tail	0	OX614293.1__D3_6
+transcription regulation	0	OX614293.1__D3_6
+unknown function	6	OX614293.1__D3_6
+VFDB_Virulence_Factors	0	OX614293.1__D3_6
+CARD_AMR	0	OX614293.1__D3_6
+ACR_anti_crispr	0	OX614293.1__D3_6
+Defensefinder	0	OX614293.1__D3_6
+Netflax	0	OX614293.1__D3_6
+CDS	10	OX614293.1__D4_3
+connector	0	OX614293.1__D4_3
+DNA, RNA and nucleotide metabolism	2	OX614293.1__D4_3
+head and packaging	2	OX614293.1__D4_3
+integration and excision	0	OX614293.1__D4_3
+lysis	0	OX614293.1__D4_3
+moron, auxiliary metabolic gene and host takeover	0	OX614293.1__D4_3
+other	0	OX614293.1__D4_3
+tail	0	OX614293.1__D4_3
+transcription regulation	0	OX614293.1__D4_3
+unknown function	6	OX614293.1__D4_3
+VFDB_Virulence_Factors	0	OX614293.1__D4_3
+CARD_AMR	0	OX614293.1__D4_3
+ACR_anti_crispr	0	OX614293.1__D4_3
+Defensefinder	0	OX614293.1__D4_3
+Netflax	0	OX614293.1__D4_3
+CDS	5	OX614293.1__D5_3
+connector	0	OX614293.1__D5_3
+DNA, RNA and nucleotide metabolism	2	OX614293.1__D5_3
+head and packaging	0	OX614293.1__D5_3
+integration and excision	0	OX614293.1__D5_3
+lysis	0	OX614293.1__D5_3
+moron, auxiliary metabolic gene and host takeover	0	OX614293.1__D5_3
+other	0	OX614293.1__D5_3
+tail	0	OX614293.1__D5_3
+transcription regulation	0	OX614293.1__D5_3
+unknown function	3	OX614293.1__D5_3
+VFDB_Virulence_Factors	0	OX614293.1__D5_3
+CARD_AMR	0	OX614293.1__D5_3
+ACR_anti_crispr	0	OX614293.1__D5_3
+Defensefinder	0	OX614293.1__D5_3
+Netflax	0	OX614293.1__D5_3
+CDS	8	OX614293.1__D6_4
+connector	0	OX614293.1__D6_4
+DNA, RNA and nucleotide metabolism	2	OX614293.1__D6_4
+head and packaging	3	OX614293.1__D6_4
+integration and excision	0	OX614293.1__D6_4
+lysis	0	OX614293.1__D6_4
+moron, auxiliary metabolic gene and host takeover	0	OX614293.1__D6_4
+other	0	OX614293.1__D6_4
+tail	0	OX614293.1__D6_4
+transcription regulation	0	OX614293.1__D6_4
+unknown function	3	OX614293.1__D6_4
+VFDB_Virulence_Factors	0	OX614293.1__D6_4
+CARD_AMR	0	OX614293.1__D6_4
+ACR_anti_crispr	0	OX614293.1__D6_4
+Defensefinder	0	OX614293.1__D6_4
+Netflax	0	OX614293.1__D6_4
+CDS	8	OX614293.1__D7_50
+connector	0	OX614293.1__D7_50
+DNA, RNA and nucleotide metabolism	0	OX614293.1__D7_50
+head and packaging	0	OX614293.1__D7_50
+integration and excision	0	OX614293.1__D7_50
+lysis	0	OX614293.1__D7_50
+moron, auxiliary metabolic gene and host takeover	0	OX614293.1__D7_50
+other	0	OX614293.1__D7_50
+tail	0	OX614293.1__D7_50
+transcription regulation	0	OX614293.1__D7_50
+unknown function	8	OX614293.1__D7_50
+VFDB_Virulence_Factors	0	OX614293.1__D7_50
+CARD_AMR	0	OX614293.1__D7_50
+ACR_anti_crispr	0	OX614293.1__D7_50
+Defensefinder	0	OX614293.1__D7_50
+Netflax	0	OX614293.1__D7_50
+CDS	6	OX614293.1__D8_1
+connector	0	OX614293.1__D8_1
+DNA, RNA and nucleotide metabolism	0	OX614293.1__D8_1
+head and packaging	0	OX614293.1__D8_1
+integration and excision	0	OX614293.1__D8_1
+lysis	0	OX614293.1__D8_1
+moron, auxiliary metabolic gene and host takeover	0	OX614293.1__D8_1
+other	0	OX614293.1__D8_1
+tail	0	OX614293.1__D8_1
+transcription regulation	0	OX614293.1__D8_1
+unknown function	6	OX614293.1__D8_1
+VFDB_Virulence_Factors	0	OX614293.1__D8_1
+CARD_AMR	0	OX614293.1__D8_1
+ACR_anti_crispr	0	OX614293.1__D8_1
+Defensefinder	0	OX614293.1__D8_1
+Netflax	0	OX614293.1__D8_1
+CDS	7	OX614293.1__D9_1
+connector	0	OX614293.1__D9_1
+DNA, RNA and nucleotide metabolism	0	OX614293.1__D9_1
+head and packaging	2	OX614293.1__D9_1
+integration and excision	0	OX614293.1__D9_1
+lysis	0	OX614293.1__D9_1
+moron, auxiliary metabolic gene and host takeover	0	OX614293.1__D9_1
+other	0	OX614293.1__D9_1
+tail	0	OX614293.1__D9_1
+transcription regulation	1	OX614293.1__D9_1
+unknown function	4	OX614293.1__D9_1
+VFDB_Virulence_Factors	0	OX614293.1__D9_1
+CARD_AMR	0	OX614293.1__D9_1
+ACR_anti_crispr	0	OX614293.1__D9_1
+Defensefinder	0	OX614293.1__D9_1
+Netflax	0	OX614293.1__D9_1
+CDS	9	OX614293.1__D10_rotation
+connector	0	OX614293.1__D10_rotation
+DNA, RNA and nucleotide metabolism	2	OX614293.1__D10_rotation
+head and packaging	2	OX614293.1__D10_rotation
+integration and excision	0	OX614293.1__D10_rotation
+lysis	0	OX614293.1__D10_rotation
+moron, auxiliary metabolic gene and host takeover	0	OX614293.1__D10_rotation
+other	0	OX614293.1__D10_rotation
+tail	0	OX614293.1__D10_rotation
+transcription regulation	0	OX614293.1__D10_rotation
+unknown function	5	OX614293.1__D10_rotation
+VFDB_Virulence_Factors	0	OX614293.1__D10_rotation
+CARD_AMR	0	OX614293.1__D10_rotation
+ACR_anti_crispr	0	OX614293.1__D10_rotation
+Defensefinder	0	OX614293.1__D10_rotation
+Netflax	0	OX614293.1__D10_rotation
+CDS	7	OX614603.1__natural
+connector	0	OX614603.1__natural
+DNA, RNA and nucleotide metabolism	2	OX614603.1__natural
+head and packaging	2	OX614603.1__natural
+integration and excision	0	OX614603.1__natural
+lysis	0	OX614603.1__natural
+moron, auxiliary metabolic gene and host takeover	0	OX614603.1__natural
+other	0	OX614603.1__natural
+tail	0	OX614603.1__natural
+transcription regulation	0	OX614603.1__natural
+unknown function	3	OX614603.1__natural
+VFDB_Virulence_Factors	0	OX614603.1__natural
+CARD_AMR	0	OX614603.1__natural
+ACR_anti_crispr	0	OX614603.1__natural
+Defensefinder	0	OX614603.1__natural
+Netflax	0	OX614603.1__natural
+CDS	7	OX614603.1__D1_30
+connector	0	OX614603.1__D1_30
+DNA, RNA and nucleotide metabolism	2	OX614603.1__D1_30
+head and packaging	2	OX614603.1__D1_30
+integration and excision	0	OX614603.1__D1_30
+lysis	0	OX614603.1__D1_30
+moron, auxiliary metabolic gene and host takeover	0	OX614603.1__D1_30
+other	0	OX614603.1__D1_30
+tail	0	OX614603.1__D1_30
+transcription regulation	0	OX614603.1__D1_30
+unknown function	3	OX614603.1__D1_30
+VFDB_Virulence_Factors	0	OX614603.1__D1_30
+CARD_AMR	0	OX614603.1__D1_30
+ACR_anti_crispr	0	OX614603.1__D1_30
+Defensefinder	0	OX614603.1__D1_30
+Netflax	0	OX614603.1__D1_30
+CDS	7	OX614603.1__D2_2
+connector	0	OX614603.1__D2_2
+DNA, RNA and nucleotide metabolism	2	OX614603.1__D2_2
+head and packaging	2	OX614603.1__D2_2
+integration and excision	0	OX614603.1__D2_2
+lysis	0	OX614603.1__D2_2
+moron, auxiliary metabolic gene and host takeover	0	OX614603.1__D2_2
+other	0	OX614603.1__D2_2
+tail	0	OX614603.1__D2_2
+transcription regulation	0	OX614603.1__D2_2
+unknown function	3	OX614603.1__D2_2
+VFDB_Virulence_Factors	0	OX614603.1__D2_2
+CARD_AMR	0	OX614603.1__D2_2
+ACR_anti_crispr	0	OX614603.1__D2_2
+Defensefinder	0	OX614603.1__D2_2
+Netflax	0	OX614603.1__D2_2
+CDS	8	OX614603.1__D3_6
+connector	0	OX614603.1__D3_6
+DNA, RNA and nucleotide metabolism	1	OX614603.1__D3_6
+head and packaging	2	OX614603.1__D3_6
+integration and excision	0	OX614603.1__D3_6
+lysis	0	OX614603.1__D3_6
+moron, auxiliary metabolic gene and host takeover	0	OX614603.1__D3_6
+other	0	OX614603.1__D3_6
+tail	0	OX614603.1__D3_6
+transcription regulation	0	OX614603.1__D3_6
+unknown function	5	OX614603.1__D3_6
+VFDB_Virulence_Factors	0	OX614603.1__D3_6
+CARD_AMR	0	OX614603.1__D3_6
+ACR_anti_crispr	0	OX614603.1__D3_6
+Defensefinder	0	OX614603.1__D3_6
+Netflax	0	OX614603.1__D3_6
+CDS	7	OX614603.1__D4_3
+connector	0	OX614603.1__D4_3
+DNA, RNA and nucleotide metabolism	2	OX614603.1__D4_3
+head and packaging	1	OX614603.1__D4_3
+integration and excision	0	OX614603.1__D4_3
+lysis	0	OX614603.1__D4_3
+moron, auxiliary metabolic gene and host takeover	0	OX614603.1__D4_3
+other	0	OX614603.1__D4_3
+tail	0	OX614603.1__D4_3
+transcription regulation	0	OX614603.1__D4_3
+unknown function	4	OX614603.1__D4_3
+VFDB_Virulence_Factors	0	OX614603.1__D4_3
+CARD_AMR	0	OX614603.1__D4_3
+ACR_anti_crispr	0	OX614603.1__D4_3
+Defensefinder	0	OX614603.1__D4_3
+Netflax	0	OX614603.1__D4_3
+CDS	5	OX614603.1__D5_3
+connector	0	OX614603.1__D5_3
+DNA, RNA and nucleotide metabolism	1	OX614603.1__D5_3
+head and packaging	2	OX614603.1__D5_3
+integration and excision	0	OX614603.1__D5_3
+lysis	0	OX614603.1__D5_3
+moron, auxiliary metabolic gene and host takeover	0	OX614603.1__D5_3
+other	0	OX614603.1__D5_3
+tail	0	OX614603.1__D5_3
+transcription regulation	0	OX614603.1__D5_3
+unknown function	2	OX614603.1__D5_3
+VFDB_Virulence_Factors	0	OX614603.1__D5_3
+CARD_AMR	0	OX614603.1__D5_3
+ACR_anti_crispr	0	OX614603.1__D5_3
+Defensefinder	0	OX614603.1__D5_3
+Netflax	0	OX614603.1__D5_3
+CDS	8	OX614603.1__D6_4
+connector	0	OX614603.1__D6_4
+DNA, RNA and nucleotide metabolism	2	OX614603.1__D6_4
+head and packaging	3	OX614603.1__D6_4
+integration and excision	0	OX614603.1__D6_4
+lysis	0	OX614603.1__D6_4
+moron, auxiliary metabolic gene and host takeover	0	OX614603.1__D6_4
+other	0	OX614603.1__D6_4
+tail	0	OX614603.1__D6_4
+transcription regulation	0	OX614603.1__D6_4
+unknown function	3	OX614603.1__D6_4
+VFDB_Virulence_Factors	0	OX614603.1__D6_4
+CARD_AMR	0	OX614603.1__D6_4
+ACR_anti_crispr	0	OX614603.1__D6_4
+Defensefinder	0	OX614603.1__D6_4
+Netflax	0	OX614603.1__D6_4
+CDS	7	OX614603.1__D7_50
+connector	0	OX614603.1__D7_50
+DNA, RNA and nucleotide metabolism	1	OX614603.1__D7_50
+head and packaging	0	OX614603.1__D7_50
+integration and excision	0	OX614603.1__D7_50
+lysis	0	OX614603.1__D7_50
+moron, auxiliary metabolic gene and host takeover	0	OX614603.1__D7_50
+other	0	OX614603.1__D7_50
+tail	0	OX614603.1__D7_50
+transcription regulation	0	OX614603.1__D7_50
+unknown function	6	OX614603.1__D7_50
+VFDB_Virulence_Factors	0	OX614603.1__D7_50
+CARD_AMR	0	OX614603.1__D7_50
+ACR_anti_crispr	0	OX614603.1__D7_50
+Defensefinder	0	OX614603.1__D7_50
+Netflax	0	OX614603.1__D7_50
+CDS	4	OX614603.1__D8_1
+connector	0	OX614603.1__D8_1
+DNA, RNA and nucleotide metabolism	0	OX614603.1__D8_1
+head and packaging	0	OX614603.1__D8_1
+integration and excision	0	OX614603.1__D8_1
+lysis	0	OX614603.1__D8_1
+moron, auxiliary metabolic gene and host takeover	0	OX614603.1__D8_1
+other	0	OX614603.1__D8_1
+tail	0	OX614603.1__D8_1
+transcription regulation	0	OX614603.1__D8_1
+unknown function	4	OX614603.1__D8_1
+VFDB_Virulence_Factors	0	OX614603.1__D8_1
+CARD_AMR	0	OX614603.1__D8_1
+ACR_anti_crispr	0	OX614603.1__D8_1
+Defensefinder	0	OX614603.1__D8_1
+Netflax	0	OX614603.1__D8_1
+CDS	6	OX614603.1__D9_1
+connector	0	OX614603.1__D9_1
+DNA, RNA and nucleotide metabolism	1	OX614603.1__D9_1
+head and packaging	0	OX614603.1__D9_1
+integration and excision	0	OX614603.1__D9_1
+lysis	1	OX614603.1__D9_1
+moron, auxiliary metabolic gene and host takeover	1	OX614603.1__D9_1
+other	0	OX614603.1__D9_1
+tail	0	OX614603.1__D9_1
+transcription regulation	0	OX614603.1__D9_1
+unknown function	3	OX614603.1__D9_1
+VFDB_Virulence_Factors	0	OX614603.1__D9_1
+CARD_AMR	0	OX614603.1__D9_1
+ACR_anti_crispr	0	OX614603.1__D9_1
+Defensefinder	0	OX614603.1__D9_1
+Netflax	0	OX614603.1__D9_1
+CDS	8	OX614603.1__D10_rotation
+connector	0	OX614603.1__D10_rotation
+DNA, RNA and nucleotide metabolism	2	OX614603.1__D10_rotation
+head and packaging	2	OX614603.1__D10_rotation
+integration and excision	0	OX614603.1__D10_rotation
+lysis	0	OX614603.1__D10_rotation
+moron, auxiliary metabolic gene and host takeover	0	OX614603.1__D10_rotation
+other	0	OX614603.1__D10_rotation
+tail	0	OX614603.1__D10_rotation
+transcription regulation	0	OX614603.1__D10_rotation
+unknown function	4	OX614603.1__D10_rotation
+VFDB_Virulence_Factors	0	OX614603.1__D10_rotation
+CARD_AMR	0	OX614603.1__D10_rotation
+ACR_anti_crispr	0	OX614603.1__D10_rotation
+Defensefinder	0	OX614603.1__D10_rotation
+Netflax	0	OX614603.1__D10_rotation
+CDS	7	PQ007287.1__natural
+connector	0	PQ007287.1__natural
+DNA, RNA and nucleotide metabolism	2	PQ007287.1__natural
+head and packaging	2	PQ007287.1__natural
+integration and excision	0	PQ007287.1__natural
+lysis	0	PQ007287.1__natural
+moron, auxiliary metabolic gene and host takeover	0	PQ007287.1__natural
+other	0	PQ007287.1__natural
+tail	0	PQ007287.1__natural
+transcription regulation	0	PQ007287.1__natural
+unknown function	3	PQ007287.1__natural
+VFDB_Virulence_Factors	0	PQ007287.1__natural
+CARD_AMR	0	PQ007287.1__natural
+ACR_anti_crispr	0	PQ007287.1__natural
+Defensefinder	0	PQ007287.1__natural
+Netflax	0	PQ007287.1__natural
+CDS	7	PQ007287.1__D1_30
+connector	0	PQ007287.1__D1_30
+DNA, RNA and nucleotide metabolism	2	PQ007287.1__D1_30
+head and packaging	2	PQ007287.1__D1_30
+integration and excision	0	PQ007287.1__D1_30
+lysis	0	PQ007287.1__D1_30
+moron, auxiliary metabolic gene and host takeover	0	PQ007287.1__D1_30
+other	0	PQ007287.1__D1_30
+tail	0	PQ007287.1__D1_30
+transcription regulation	0	PQ007287.1__D1_30
+unknown function	3	PQ007287.1__D1_30
+VFDB_Virulence_Factors	0	PQ007287.1__D1_30
+CARD_AMR	0	PQ007287.1__D1_30
+ACR_anti_crispr	0	PQ007287.1__D1_30
+Defensefinder	0	PQ007287.1__D1_30
+Netflax	0	PQ007287.1__D1_30
+CDS	8	PQ007287.1__D2_2
+connector	0	PQ007287.1__D2_2
+DNA, RNA and nucleotide metabolism	2	PQ007287.1__D2_2
+head and packaging	1	PQ007287.1__D2_2
+integration and excision	0	PQ007287.1__D2_2
+lysis	0	PQ007287.1__D2_2
+moron, auxiliary metabolic gene and host takeover	0	PQ007287.1__D2_2
+other	0	PQ007287.1__D2_2
+tail	0	PQ007287.1__D2_2
+transcription regulation	0	PQ007287.1__D2_2
+unknown function	5	PQ007287.1__D2_2
+VFDB_Virulence_Factors	0	PQ007287.1__D2_2
+CARD_AMR	0	PQ007287.1__D2_2
+ACR_anti_crispr	0	PQ007287.1__D2_2
+Defensefinder	0	PQ007287.1__D2_2
+Netflax	0	PQ007287.1__D2_2
+CDS	10	PQ007287.1__D3_6
+connector	0	PQ007287.1__D3_6
+DNA, RNA and nucleotide metabolism	3	PQ007287.1__D3_6
+head and packaging	1	PQ007287.1__D3_6
+integration and excision	0	PQ007287.1__D3_6
+lysis	0	PQ007287.1__D3_6
+moron, auxiliary metabolic gene and host takeover	0	PQ007287.1__D3_6
+other	0	PQ007287.1__D3_6
+tail	1	PQ007287.1__D3_6
+transcription regulation	0	PQ007287.1__D3_6
+unknown function	5	PQ007287.1__D3_6
+VFDB_Virulence_Factors	0	PQ007287.1__D3_6
+CARD_AMR	0	PQ007287.1__D3_6
+ACR_anti_crispr	0	PQ007287.1__D3_6
+Defensefinder	0	PQ007287.1__D3_6
+Netflax	0	PQ007287.1__D3_6
+CDS	7	PQ007287.1__D4_3
+connector	0	PQ007287.1__D4_3
+DNA, RNA and nucleotide metabolism	3	PQ007287.1__D4_3
+head and packaging	2	PQ007287.1__D4_3
+integration and excision	0	PQ007287.1__D4_3
+lysis	0	PQ007287.1__D4_3
+moron, auxiliary metabolic gene and host takeover	0	PQ007287.1__D4_3
+other	0	PQ007287.1__D4_3
+tail	0	PQ007287.1__D4_3
+transcription regulation	0	PQ007287.1__D4_3
+unknown function	2	PQ007287.1__D4_3
+VFDB_Virulence_Factors	0	PQ007287.1__D4_3
+CARD_AMR	0	PQ007287.1__D4_3
+ACR_anti_crispr	0	PQ007287.1__D4_3
+Defensefinder	0	PQ007287.1__D4_3
+Netflax	0	PQ007287.1__D4_3
+CDS	4	PQ007287.1__D5_3
+connector	0	PQ007287.1__D5_3
+DNA, RNA and nucleotide metabolism	0	PQ007287.1__D5_3
+head and packaging	2	PQ007287.1__D5_3
+integration and excision	0	PQ007287.1__D5_3
+lysis	0	PQ007287.1__D5_3
+moron, auxiliary metabolic gene and host takeover	0	PQ007287.1__D5_3
+other	0	PQ007287.1__D5_3
+tail	0	PQ007287.1__D5_3
+transcription regulation	0	PQ007287.1__D5_3
+unknown function	2	PQ007287.1__D5_3
+VFDB_Virulence_Factors	0	PQ007287.1__D5_3
+CARD_AMR	0	PQ007287.1__D5_3
+ACR_anti_crispr	0	PQ007287.1__D5_3
+Defensefinder	0	PQ007287.1__D5_3
+Netflax	0	PQ007287.1__D5_3
+CDS	8	PQ007287.1__D6_4
+connector	0	PQ007287.1__D6_4
+DNA, RNA and nucleotide metabolism	2	PQ007287.1__D6_4
+head and packaging	1	PQ007287.1__D6_4
+integration and excision	0	PQ007287.1__D6_4
+lysis	0	PQ007287.1__D6_4
+moron, auxiliary metabolic gene and host takeover	0	PQ007287.1__D6_4
+other	0	PQ007287.1__D6_4
+tail	0	PQ007287.1__D6_4
+transcription regulation	0	PQ007287.1__D6_4
+unknown function	5	PQ007287.1__D6_4
+VFDB_Virulence_Factors	0	PQ007287.1__D6_4
+CARD_AMR	0	PQ007287.1__D6_4
+ACR_anti_crispr	0	PQ007287.1__D6_4
+Defensefinder	0	PQ007287.1__D6_4
+Netflax	0	PQ007287.1__D6_4
+CDS	6	PQ007287.1__D7_50
+connector	0	PQ007287.1__D7_50
+DNA, RNA and nucleotide metabolism	0	PQ007287.1__D7_50
+head and packaging	0	PQ007287.1__D7_50
+integration and excision	0	PQ007287.1__D7_50
+lysis	0	PQ007287.1__D7_50
+moron, auxiliary metabolic gene and host takeover	0	PQ007287.1__D7_50
+other	0	PQ007287.1__D7_50
+tail	0	PQ007287.1__D7_50
+transcription regulation	0	PQ007287.1__D7_50
+unknown function	6	PQ007287.1__D7_50
+VFDB_Virulence_Factors	0	PQ007287.1__D7_50
+CARD_AMR	0	PQ007287.1__D7_50
+ACR_anti_crispr	0	PQ007287.1__D7_50
+Defensefinder	0	PQ007287.1__D7_50
+Netflax	0	PQ007287.1__D7_50
+CDS	3	PQ007287.1__D8_1
+connector	0	PQ007287.1__D8_1
+DNA, RNA and nucleotide metabolism	0	PQ007287.1__D8_1
+head and packaging	0	PQ007287.1__D8_1
+integration and excision	0	PQ007287.1__D8_1
+lysis	0	PQ007287.1__D8_1
+moron, auxiliary metabolic gene and host takeover	0	PQ007287.1__D8_1
+other	0	PQ007287.1__D8_1
+tail	0	PQ007287.1__D8_1
+transcription regulation	0	PQ007287.1__D8_1
+unknown function	3	PQ007287.1__D8_1
+VFDB_Virulence_Factors	0	PQ007287.1__D8_1
+CARD_AMR	0	PQ007287.1__D8_1
+ACR_anti_crispr	0	PQ007287.1__D8_1
+Defensefinder	0	PQ007287.1__D8_1
+Netflax	0	PQ007287.1__D8_1
+CDS	12	PQ007287.1__D9_1
+connector	0	PQ007287.1__D9_1
+DNA, RNA and nucleotide metabolism	5	PQ007287.1__D9_1
+head and packaging	0	PQ007287.1__D9_1
+integration and excision	0	PQ007287.1__D9_1
+lysis	0	PQ007287.1__D9_1
+moron, auxiliary metabolic gene and host takeover	2	PQ007287.1__D9_1
+other	0	PQ007287.1__D9_1
+tail	0	PQ007287.1__D9_1
+transcription regulation	2	PQ007287.1__D9_1
+unknown function	3	PQ007287.1__D9_1
+VFDB_Virulence_Factors	0	PQ007287.1__D9_1
+CARD_AMR	0	PQ007287.1__D9_1
+ACR_anti_crispr	0	PQ007287.1__D9_1
+Defensefinder	0	PQ007287.1__D9_1
+Netflax	0	PQ007287.1__D9_1
+CDS	7	PQ007287.1__D10_rotation
+connector	0	PQ007287.1__D10_rotation
+DNA, RNA and nucleotide metabolism	2	PQ007287.1__D10_rotation
+head and packaging	2	PQ007287.1__D10_rotation
+integration and excision	0	PQ007287.1__D10_rotation
+lysis	0	PQ007287.1__D10_rotation
+moron, auxiliary metabolic gene and host takeover	0	PQ007287.1__D10_rotation
+other	0	PQ007287.1__D10_rotation
+tail	0	PQ007287.1__D10_rotation
+transcription regulation	0	PQ007287.1__D10_rotation
+unknown function	3	PQ007287.1__D10_rotation
+VFDB_Virulence_Factors	0	PQ007287.1__D10_rotation
+CARD_AMR	0	PQ007287.1__D10_rotation
+ACR_anti_crispr	0	PQ007287.1__D10_rotation
+Defensefinder	0	PQ007287.1__D10_rotation
+Netflax	0	PQ007287.1__D10_rotation

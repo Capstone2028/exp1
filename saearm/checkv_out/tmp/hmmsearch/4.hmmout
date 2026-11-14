@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+KT264759.1__NATIVE_2 -          DUF1697              PF08002.11    0.0004   16.7   3.0     0.001   15.4   3.0   1.6   1   0   0   1   1   1   1 # 966 # 1892 # 1 # partial=00
+MH617473.2__NATIVE_9 -          DUF1700              PF08006.11     0.014   10.8   0.0     0.015   10.7   0.0   1.1   1   0   0   1   1   1   0 # 4668 # 4856 # -1 # partial=01
+MK496799.1__SAE_6    -          DUF2207              PF09972.9    2.2e-05   19.2   0.3   2.5e-05   19.0   0.3   1.1   1   0   0   1   1   1   1 # 4062 # 4466 # 1 # partial=00
+MT135264.1__SAE_2    -          DUF2207              PF09972.9     0.0051   11.4   0.0    0.0067   11.0   0.0   1.1   1   0   0   1   1   1   1 # 1549 # 2181 # 1 # partial=00
+PQ006826.1__natural_1 -          DUF2252              PF10009.9    0.00012   17.0   0.2   0.00018   16.5   0.2   1.1   1   0   0   1   1   1   1 # 1 # 1521 # 1 # partial=10
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/c/Users/Meghna/Documents/College/capstone/exp1/db/checkv/checkv-db-v1.5/hmm_db/checkv_hmms/4.hmm
+# Target file:     checkv_out/tmp/proteins.faa
+# Option settings: hmmsearch -o /dev/null --tblout checkv_out/tmp/hmmsearch/4.hmmout --noali -E 10 --cpu 0 /mnt/c/Users/Meghna/Documents/College/capstone/exp1/db/checkv/checkv-db-v1.5/hmm_db/checkv_hmms/4.hmm checkv_out/tmp/proteins.faa 
+# Current dir:     /mnt/c/Users/Meghna/Documents/College/capstone/exp1/saearm
+# Date:            Sat Nov 14 05:07:06 2026
+# [ok]

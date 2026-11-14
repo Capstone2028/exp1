@@ -1,0 +1,8 @@
+contig_id	contig_length	viral_length	aai_expected_length	aai_completeness	aai_confidence	aai_error	aai_num_hits	aai_top_hit	aai_id	aai_af	hmm_completeness_lower	hmm_completeness_upper	hmm_num_hits	kmer_freq
+ecoli_real	8192	NA	47305.0	17.317408307789876	low	22.555739773824	1	CheckV-054189	30.6	18.41	NA	NA	0	1.0
+ecoli_nati_s0	8192	NA	316724.2733684028	2.5864768471570057	low	29.1891156069426	2	CheckV-043415	32.2	11.83	NA	NA	0	1.0
+ecoli_spec_s0	8192	NA	NA	NA	NA	NA	0	NA	NA	NA	NA	NA	0	1.0
+ecoli_nati_s1	8192	NA	54290.86601121412	15.089094357617892	low	16.1277892551785	14	CheckV-018491	45.5	17.27	NA	NA	0	1.0
+ecoli_spec_s1	8192	NA	NA	NA	NA	NA	0	NA	NA	NA	NA	NA	0	1.01
+ecoli_nati_s2	8192	NA	NA	NA	NA	NA	0	NA	NA	NA	NA	NA	0	1.0
+ecoli_spec_s2	8192	NA	106244.32202633341	7.7105296958547624	low	25.5595308871383	4	CheckV-002901	31.4	16.69	NA	NA	0	1.01

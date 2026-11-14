@@ -1,0 +1,35 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+PQ491838.1__KMER_3   -          VOG00561             -              0.087    7.9   6.1      0.14    7.3   0.2   2.8   2   0   0   2   2   2   0 # 1561 # 2043 # 1 # partial=00
+MH617265.1__natural_6 -          VOG00706             -            0.00084   15.0   0.5    0.0078   11.9   0.2   2.0   1   1   1   2   2   2   1 # 3654 # 4082 # 1 # partial=00
+MK249149.1__natural_7 -          VOG00757             -            1.8e-15   52.0   4.6   1.9e-15   52.0   4.6   1.0   1   0   0   1   1   1   1 # 4237 # 4353 # 1 # partial=00
+MH616692.2__natural_7 -          VOG00757             -            2.3e-14   48.5   7.7   2.5e-14   48.4   7.7   1.0   1   0   0   1   1   1   1 # 4801 # 4917 # 1 # partial=01
+KT264759.1__natural_2 -          VOG00757             -            3.8e-13   44.6   3.4   3.9e-13   44.5   3.4   1.0   1   0   0   1   1   1   1 # 986 # 1096 # 1 # partial=00
+MH617265.1__natural_7 -          VOG00757             -            4.1e-13   44.5   4.9   4.6e-13   44.3   4.9   1.0   1   0   0   1   1   1   1 # 4493 # 4618 # 1 # partial=00
+MH552523.2__natural_3 -          VOG00757             -            4.4e-13   44.4   7.5   4.6e-13   44.3   7.5   1.0   1   0   0   1   1   1   1 # 1204 # 1320 # 1 # partial=00
+MK496793.1__natural_4 -          VOG00757             -            1.4e-12   42.7   3.2   1.5e-12   42.6   3.2   1.0   1   0   0   1   1   1   1 # 2285 # 2404 # 1 # partial=00
+PQ007124.1__natural_2 -          VOG00757             -            1.7e-12   42.5   6.3   1.8e-12   42.4   6.3   1.0   1   0   0   1   1   1   1 # 975 # 1091 # 1 # partial=00
+PQ007287.1__natural_3 -          VOG00757             -            2.8e-12   41.8   6.8     3e-12   41.7   6.8   1.0   1   0   0   1   1   1   1 # 1210 # 1326 # 1 # partial=00
+OM869701.1__natural_3 -          VOG00757             -            4.1e-12   41.3   6.7   4.4e-12   41.2   6.7   1.0   1   0   0   1   1   1   1 # 1184 # 1300 # 1 # partial=00
+PQ007416.1__natural_3 -          VOG00757             -            2.2e-11   38.9   6.3   2.3e-11   38.8   6.3   1.0   1   0   0   1   1   1   1 # 1183 # 1299 # 1 # partial=00
+MK496799.1__natural_3 -          VOG00757             -            2.3e-11   38.9   1.4   2.5e-11   38.8   1.4   1.0   1   0   0   1   1   1   1 # 1414 # 1527 # 1 # partial=00
+MW202414.1__natural_6 -          VOG00757             -            2.3e-10   35.6   0.2   2.6e-10   35.5   0.2   1.1   1   0   0   1   1   1   1 # 4242 # 4367 # 1 # partial=00
+MT310332.1__natural_7 -          VOG00757             -            2.4e-10   35.6   0.5   2.6e-10   35.5   0.5   1.0   1   0   0   1   1   1   1 # 4862 # 4978 # 1 # partial=00
+MH552523.2__KMER_3    -          VOG00757             -            5.1e-09   31.4  15.3   6.1e-09   31.1  15.3   1.1   1   0   0   1   1   1   1 # 1912 # 2034 # 1 # partial=00
+MT135264.1__natural_2 -          VOG00757             -            2.9e-08   28.9   1.1     3e-08   28.9   1.1   1.0   1   0   0   1   1   1   1 # 1090 # 1200 # 1 # partial=00
+PQ006826.1__natural_8 -          VOG00757             -              7e-08   27.7   3.1     9e-08   27.4   3.1   1.2   1   0   0   1   1   1   1 # 5418 # 5543 # 1 # partial=00
+MW697720.1__natural_8 -          VOG00757             -            8.3e-07   24.3   4.5   9.1e-07   24.2   4.5   1.0   1   0   0   1   1   1   1 # 4487 # 4600 # 1 # partial=00
+MT310155.1__natural_8 -          VOG00757             -            2.3e-06   22.9  17.2   2.5e-06   22.8  17.2   1.0   1   0   0   1   1   1   1 # 4797 # 4907 # 1 # partial=00
+MW202414.1__KMER_6    -          VOG00757             -             0.0024   13.2  17.0    0.0029   13.0  13.4   1.9   1   1   1   2   2   2   1 # 4126 # 4230 # 1 # partial=00
+KT264759.1__BASE_9   -          VOG00784             -            6.1e-05   17.9   3.2   7.3e-05   17.6   3.2   1.2   1   0   0   1   1   1   1 # 3715 # 4077 # 1 # partial=00
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/c/Users/Meghna/Documents/College/capstone/exp1/db/checkv/checkv-db-v1.5/hmm_db/checkv_hmms/41.hmm
+# Target file:     kmerarm/checkv_out/tmp/proteins.faa
+# Option settings: hmmsearch -o /dev/null --tblout kmerarm/checkv_out/tmp/hmmsearch/41.hmmout --noali -E 10 --cpu 0 /mnt/c/Users/Meghna/Documents/College/capstone/exp1/db/checkv/checkv-db-v1.5/hmm_db/checkv_hmms/41.hmm kmerarm/checkv_out/tmp/proteins.faa 
+# Current dir:     /mnt/c/Users/Meghna/Documents/College/capstone/exp1
+# Date:            Fri Nov 13 18:24:40 2026
+# [ok]

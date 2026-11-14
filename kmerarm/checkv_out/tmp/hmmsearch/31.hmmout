@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+MH552523.2__KMER_8   -          K08086               -               0.15    5.9  12.2       0.2    5.5  12.2   1.1   1   0   0   1   1   1   0 # 3868 # 4998 # 1 # partial=00
+MT135277.1__natural_2 -          K08482               -            0.00087   12.9   0.1   0.00094   12.8   0.1   1.0   1   0   0   1   1   1   1 # 1334 # 1558 # 1 # partial=00
+MT310159.1__natural_6 -          K08640               -            4.9e-11   37.3   0.0   4.9e-11   37.3   0.0   1.1   1   0   0   1   1   1   1 # 3878 # 4222 # 1 # partial=00
+MT135277.1__natural_4 -          K08640               -            2.5e-09   31.7   0.0   2.8e-09   31.5   0.0   1.1   1   0   0   1   1   1   1 # 1835 # 2035 # 1 # partial=00
+KT264759.1__BASE_8   -          K09539               -             0.0021   12.9   0.0    0.0021   12.9   0.0   1.0   1   0   0   1   1   1   1 # 3587 # 3727 # 1 # partial=00
+KT264759.1__natural_5 -          K09735               -              0.005   10.9   0.0    0.0062   10.6   0.0   1.1   1   0   0   1   1   1   1 # 1582 # 2067 # 1 # partial=00
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/c/Users/Meghna/Documents/College/capstone/exp1/db/checkv/checkv-db-v1.5/hmm_db/checkv_hmms/31.hmm
+# Target file:     kmerarm/checkv_out/tmp/proteins.faa
+# Option settings: hmmsearch -o /dev/null --tblout kmerarm/checkv_out/tmp/hmmsearch/31.hmmout --noali -E 10 --cpu 0 /mnt/c/Users/Meghna/Documents/College/capstone/exp1/db/checkv/checkv-db-v1.5/hmm_db/checkv_hmms/31.hmm kmerarm/checkv_out/tmp/proteins.faa 
+# Current dir:     /mnt/c/Users/Meghna/Documents/College/capstone/exp1
+# Date:            Fri Nov 13 18:24:17 2026
+# [ok]

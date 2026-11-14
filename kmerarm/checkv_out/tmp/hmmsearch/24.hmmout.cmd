@@ -1,0 +1,1 @@
+hmmsearch --noali -o /dev/null -E 10 --tblout kmerarm/checkv_out/tmp/hmmsearch/24.hmmout --cpu 0 /mnt/c/Users/Meghna/Documents/College/capstone/exp1/db/checkv/checkv-db-v1.5/hmm_db/checkv_hmms/24.hmm kmerarm/checkv_out/tmp/proteins.faa 2> kmerarm/checkv_out/tmp/hmmsearch/24.hmmout.log 

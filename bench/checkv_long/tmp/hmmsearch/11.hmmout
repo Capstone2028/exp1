@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+ecoli_real_5         -          PNP_UDP_1            PF01048.20   2.1e-21   67.8   0.0   3.3e-21   67.1   0.0   1.3   1   0   0   1   1   1   1 # 6099 # 7553 # 1 # partial=00
+ecoli_nati_s1_2      -          Pribosyltran         PF00156.27   7.7e-17   52.8   0.0     9e-17   52.6   0.0   1.1   1   0   0   1   1   1   1 # 3357 # 3857 # 1 # partial=00
+ecoli_nati_s0_1      -          Reprolysin_3         PF13582.6    7.6e-05   14.9   0.1   0.00015   13.9   0.1   1.5   1   0   0   1   1   1   1 # 2 # 988 # 1 # partial=10
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/c/Users/Meghna/Documents/College/capstone/exp1/db/checkv/checkv-db-v1.5/hmm_db/checkv_hmms/11.hmm
+# Target file:     bench/checkv_long/tmp/proteins.faa
+# Option settings: hmmsearch -o /dev/null --tblout bench/checkv_long/tmp/hmmsearch/11.hmmout --noali -E 10 --cpu 0 /mnt/c/Users/Meghna/Documents/College/capstone/exp1/db/checkv/checkv-db-v1.5/hmm_db/checkv_hmms/11.hmm bench/checkv_long/tmp/proteins.faa 
+# Current dir:     /mnt/c/Users/Meghna/Documents/College/capstone/exp1
+# Date:            Wed Nov  4 15:05:58 2026
+# [ok]

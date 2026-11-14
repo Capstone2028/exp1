@@ -1,0 +1,126 @@
+contig_id	contig_length	provirus	proviral_length	gene_count	viral_genes	host_genes	checkv_quality	miuvig_quality	completeness	completeness_method	contamination	kmer_freq	warnings
+KT264759.1__natural	5293	No	NA	8	6	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+KT264759.1__EXP1	5293	No	NA	11	1	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+KT264759.1__NATIVE	5293	No	NA	4	2	0	Low-quality	Genome-fragment	40.25	HMM-based (lower-bound)	0.0	1.0	
+KT264759.1__T07	5293	No	NA	7	7	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+KT264759.1__SAE	5293	No	NA	8	2	0	Low-quality	Genome-fragment	10.24	HMM-based (lower-bound)	0.0	1.0	
+MH552523.2__natural	5296	No	NA	7	6	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+MH552523.2__EXP1	5296	No	NA	8	5	0	Medium-quality	Genome-fragment	83.35	HMM-based (lower-bound)	0.0	1.0	
+MH552523.2__NATIVE	5296	No	NA	6	3	0	Medium-quality	Genome-fragment	74.54	HMM-based (lower-bound)	0.0	1.0	
+MH552523.2__T07	5296	No	NA	8	6	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.31	
+MH552523.2__SAE	5296	No	NA	3	1	0	Low-quality	Genome-fragment	15.86	HMM-based (lower-bound)	0.0	1.0	
+MH616692.2__natural	4919	No	NA	7	6	0	Medium-quality	Genome-fragment	83.29	HMM-based (lower-bound)	0.0	1.0	
+MH616692.2__EXP1	4919	No	NA	13	2	0	Low-quality	Genome-fragment	14.73	HMM-based (lower-bound)	0.0	1.0	
+MH616692.2__NATIVE	4919	No	NA	7	2	0	High-quality	High-quality	100.0	AAI-based (medium-confidence)	0.0	1.0	
+MH616692.2__T07	4919	No	NA	8	7	0	Medium-quality	Genome-fragment	77.41	HMM-based (lower-bound)	0.0	2.14	high kmer_freq may indicate large duplication
+MH616692.2__SAE	4919	No	NA	10	1	0	Low-quality	Genome-fragment	14.73	HMM-based (lower-bound)	0.0	1.1	
+MH617265.1__natural	4804	No	NA	8	6	0	High-quality	High-quality	99.98	AAI-based (high-confidence)	0.0	1.0	
+MH617265.1__EXP1	4804	No	NA	8	2	0	High-quality	High-quality	99.93	AAI-based (medium-confidence)	0.0	1.0	
+MH617265.1__NATIVE	4804	No	NA	10	1	0	Low-quality	Genome-fragment	14.38	HMM-based (lower-bound)	0.0	1.0	
+MH617265.1__T07	4804	No	NA	5	2	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.79	high kmer_freq may indicate large duplication
+MH617265.1__SAE	4804	No	NA	11	0	0	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+MH617473.2__natural	4857	No	NA	8	5	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+MH617473.2__EXP1	4857	No	NA	8	1	0	Low-quality	Genome-fragment	14.54	HMM-based (lower-bound)	0.0	1.0	
+MH617473.2__NATIVE	4857	No	NA	9	1	0	High-quality	High-quality	100.0	AAI-based (medium-confidence)	0.0	1.05	
+MH617473.2__T07	4857	No	NA	5	4	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.03	
+MH617473.2__SAE	4857	No	NA	10	1	0	Low-quality	Genome-fragment	14.54	HMM-based (lower-bound)	0.0	1.0	
+MK249149.1__natural	4565	No	NA	8	6	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+MK249149.1__EXP1	4565	No	NA	6	1	0	Low-quality	Genome-fragment	13.67	HMM-based (lower-bound)	0.0	1.0	
+MK249149.1__NATIVE	4565	No	NA	8	3	0	Medium-quality	Genome-fragment	71.84	HMM-based (lower-bound)	0.0	1.0	
+MK249149.1__T07	4565	Yes	738	2	1	1	Low-quality	Genome-fragment	2.21	HMM-based (lower-bound)	83.83	4.92	high kmer_freq may indicate large duplication
+MK249149.1__SAE	4565	No	NA	7	0	0	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+MK496793.1__natural	5235	No	NA	8	4	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+MK496793.1__EXP1	5235	No	NA	5	2	0	Medium-quality	Genome-fragment	77.49	HMM-based (lower-bound)	0.0	1.0	
+MK496793.1__NATIVE	5235	No	NA	7	1	0	Low-quality	Genome-fragment	15.67	HMM-based (lower-bound)	0.0	1.0	
+MK496793.1__T07	5235	No	NA	10	7	0	High-quality	High-quality	100.0	AAI-based (medium-confidence)	0.0	1.17	
+MK496793.1__SAE	5235	No	NA	4	1	0	Low-quality	Genome-fragment	15.67	HMM-based (lower-bound)	0.0	1.0	
+MK496799.1__natural	5129	No	NA	7	4	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+MK496799.1__EXP1	5129	No	NA	11	1	0	Low-quality	Genome-fragment	15.36	HMM-based (lower-bound)	0.0	1.0	
+MK496799.1__NATIVE	5129	No	NA	7	1	0	High-quality	High-quality	98.25	AAI-based (high-confidence)	0.0	1.04	
+MK496799.1__T07	5129	No	NA	20	2	0	Medium-quality	Genome-fragment	82.49	HMM-based (lower-bound)	0.0	2.03	high kmer_freq may indicate large duplication
+MK496799.1__SAE	5129	No	NA	7	1	0	Low-quality	Genome-fragment	15.36	HMM-based (lower-bound)	0.0	1.0	
+MT135264.1__natural	5025	No	NA	7	6	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+MT135264.1__EXP1	5025	No	NA	6	1	0	Low-quality	Genome-fragment	15.05	HMM-based (lower-bound)	0.0	1.0	
+MT135264.1__NATIVE	5025	No	NA	11	1	0	Low-quality	Genome-fragment	15.05	HMM-based (lower-bound)	0.0	1.0	
+MT135264.1__T07	5025	No	NA	8	7	0	High-quality	High-quality	100.0	AAI-based (medium-confidence)	0.0	1.0	
+MT135264.1__SAE	5025	No	NA	10	1	0	Low-quality	Genome-fragment	15.05	HMM-based (lower-bound)	0.0	1.0	
+MT135277.1__natural	5565	No	NA	9	4	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.01	
+MT135277.1__EXP1	5565	No	NA	9	1	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+MT135277.1__NATIVE	5565	No	NA	11	2	0	Medium-quality	Genome-fragment	89.5	HMM-based (lower-bound)	0.0	1.0	
+MT135277.1__T07	5565	No	NA	5	3	0	High-quality	High-quality	93.83	HMM-based (lower-bound)	0.0	2.76	high kmer_freq may indicate large duplication
+MT135277.1__SAE	5565	No	NA	9	1	1	Low-quality	Genome-fragment	16.66	HMM-based (lower-bound)	0.0	1.0	
+MT310155.1__natural	4949	No	NA	8	4	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+MT310155.1__EXP1	4949	No	NA	4	1	0	Low-quality	Genome-fragment	14.82	HMM-based (lower-bound)	0.0	1.0	
+MT310155.1__NATIVE	4949	Yes	4348	8	1	1	Low-quality	Genome-fragment	13.02	HMM-based (lower-bound)	12.14	1.0	
+MT310155.1__T07	4949	No	NA	2	1	0	High-quality	High-quality	98.86	AAI-based (medium-confidence)	0.0	5.13	high kmer_freq may indicate large duplication
+MT310155.1__SAE	4949	No	NA	4	0	0	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+MT310159.1__natural	5120	No	NA	9	5	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+MT310159.1__EXP1	5120	No	NA	6	4	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+MT310159.1__NATIVE	5120	No	NA	8	4	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+MT310159.1__T07	5120	No	NA	7	7	0	High-quality	High-quality	100.0	AAI-based (medium-confidence)	0.0	1.0	
+MT310159.1__SAE	5120	No	NA	9	2	0	Low-quality	Genome-fragment	9.9	HMM-based (lower-bound)	0.0	1.0	
+MT310332.1__natural	5001	No	NA	7	7	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+MT310332.1__EXP1	5001	No	NA	8	2	0	Medium-quality	Genome-fragment	79.5	HMM-based (lower-bound)	0.0	1.0	
+MT310332.1__NATIVE	5001	No	NA	15	1	0	Low-quality	Genome-fragment	14.97	HMM-based (lower-bound)	0.0	1.0	
+MT310332.1__T07	5001	No	NA	12	8	0	Medium-quality	Genome-fragment	82.86	HMM-based (lower-bound)	0.0	1.23	
+MT310332.1__SAE	5001	No	NA	9	1	0	Medium-quality	Genome-fragment	56.41	HMM-based (lower-bound)	0.0	1.04	
+MT310334.1__natural	5014	No	NA	7	5	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+MT310334.1__EXP1	5014	No	NA	6	1	0	High-quality	High-quality	100.0	AAI-based (medium-confidence)	0.0	1.0	
+MT310334.1__NATIVE	5014	No	NA	7	1	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.02	
+MT310334.1__T07	5014	No	NA	7	6	0	High-quality	High-quality	100.0	AAI-based (medium-confidence)	0.0	1.18	
+MT310334.1__SAE	5014	No	NA	7	0	1	Not-determined	Genome-fragment	NA	NA	0.0	1.05	no viral genes detected
+MW202414.1__natural	4367	No	NA	6	6	0	High-quality	High-quality	96.19	AAI-based (high-confidence)	0.0	1.0	
+MW202414.1__EXP1	4367	No	NA	5	3	0	High-quality	High-quality	91.01	AAI-based (high-confidence)	0.0	1.0	
+MW202414.1__NATIVE	4367	No	NA	5	3	0	High-quality	High-quality	91.06	AAI-based (medium-confidence)	0.0	1.0	
+MW202414.1__T07	4367	No	NA	6	5	0	High-quality	High-quality	91.42	AAI-based (high-confidence)	0.0	1.01	
+MW202414.1__SAE	4367	No	NA	7	2	0	Low-quality	Genome-fragment	13.08	HMM-based (lower-bound)	0.0	1.0	
+MW697720.1__natural	4611	No	NA	8	5	0	High-quality	High-quality	95.99	AAI-based (high-confidence)	0.0	1.0	
+MW697720.1__EXP1	4611	No	NA	9	4	0	Medium-quality	Genome-fragment	72.57	HMM-based (lower-bound)	0.0	1.0	
+MW697720.1__NATIVE	4611	No	NA	9	1	0	Low-quality	Genome-fragment	13.81	HMM-based (lower-bound)	0.0	1.0	
+MW697720.1__T07	4611	No	NA	2	1	0	Medium-quality	Genome-fragment	52.01	HMM-based (lower-bound)	0.0	3.31	high kmer_freq may indicate large duplication
+MW697720.1__SAE	4611	No	NA	8	1	0	Low-quality	Genome-fragment	13.81	HMM-based (lower-bound)	0.0	1.04	
+MZ364261.1__natural	4670	No	NA	7	6	0	High-quality	High-quality	97.52	AAI-based (high-confidence)	0.0	1.0	
+MZ364261.1__EXP1	4670	No	NA	6	1	0	Low-quality	Genome-fragment	13.98	HMM-based (lower-bound)	0.0	1.02	
+MZ364261.1__NATIVE	4669	No	NA	6	4	0	High-quality	High-quality	97.19	AAI-based (medium-confidence)	0.0	1.02	
+MZ364261.1__T07	4670	No	NA	6	5	0	High-quality	High-quality	97.67	AAI-based (high-confidence)	0.0	1.0	
+MZ364261.1__SAE	4670	No	NA	5	1	0	Low-quality	Genome-fragment	13.98	HMM-based (lower-bound)	0.0	1.0	
+OM869701.1__natural	5257	No	NA	7	6	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+OM869701.1__EXP1	5257	No	NA	8	1	0	Medium-quality	Genome-fragment	59.3	HMM-based (lower-bound)	0.0	1.0	
+OM869701.1__NATIVE	5257	No	NA	11	1	0	Medium-quality	Genome-fragment	59.3	HMM-based (lower-bound)	0.0	1.0	
+OM869701.1__T07	5257	No	NA	3	2	0	Medium-quality	Genome-fragment	89.36	HMM-based (lower-bound)	0.0	3.22	high kmer_freq may indicate large duplication
+OM869701.1__SAE	5257	No	NA	8	1	0	Low-quality	Genome-fragment	15.74	HMM-based (lower-bound)	0.0	1.0	
+OP209174.1__natural	5227	No	NA	9	7	0	High-quality	High-quality	100.0	AAI-based (medium-confidence)	0.0	1.0	
+OP209174.1__EXP1	5227	No	NA	8	1	0	Low-quality	Genome-fragment	15.65	HMM-based (lower-bound)	0.0	1.0	
+OP209174.1__NATIVE	5227	No	NA	6	1	0	Low-quality	Genome-fragment	15.65	HMM-based (lower-bound)	0.0	1.0	
+OP209174.1__T07	5227	No	NA	2	1	0	Low-quality	Genome-fragment	15.65	HMM-based (lower-bound)	0.0	3.76	high kmer_freq may indicate large duplication
+OP209174.1__SAE	5227	No	NA	3	1	0	Low-quality	Genome-fragment	15.65	HMM-based (lower-bound)	0.0	1.0	
+PQ006516.1__natural	5182	No	NA	7	6	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+PQ006516.1__EXP1	5182	No	NA	10	1	0	Low-quality	Genome-fragment	15.52	HMM-based (lower-bound)	0.0	1.0	
+PQ006516.1__NATIVE	5182	No	NA	8	4	0	High-quality	High-quality	100.0	AAI-based (medium-confidence)	0.0	1.0	
+PQ006516.1__T07	5181	No	NA	7	4	0	High-quality	High-quality	100.0	AAI-based (medium-confidence)	0.0	1.0	
+PQ006516.1__SAE	5182	No	NA	11	1	0	Low-quality	Genome-fragment	15.52	HMM-based (lower-bound)	0.0	1.0	
+PQ006826.1__natural	5770	No	NA	8	6	0	High-quality	High-quality	95.12	HMM-based (lower-bound)	0.0	1.0	
+PQ006826.1__EXP1	5770	No	NA	9	1	0	Low-quality	Genome-fragment	17.28	HMM-based (lower-bound)	0.0	1.0	
+PQ006826.1__NATIVE	5770	No	NA	11	1	0	Low-quality	Genome-fragment	17.28	HMM-based (lower-bound)	0.0	1.02	
+PQ006826.1__T07	5770	No	NA	1	1	0	Low-quality	Genome-fragment	17.28	HMM-based (lower-bound)	0.0	4.06	high kmer_freq may indicate large duplication
+PQ006826.1__SAE	5770	No	NA	6	1	0	Low-quality	Genome-fragment	17.28	HMM-based (lower-bound)	0.0	1.0	
+PQ007124.1__natural	5366	No	NA	8	6	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+PQ007124.1__EXP1	5366	No	NA	7	3	0	Medium-quality	Genome-fragment	73.87	HMM-based (lower-bound)	0.0	1.0	
+PQ007124.1__NATIVE	5366	No	NA	14	1	0	Low-quality	Genome-fragment	16.07	HMM-based (lower-bound)	0.0	1.0	
+PQ007124.1__T07	5366	No	NA	7	5	0	High-quality	High-quality	100.0	AAI-based (medium-confidence)	0.0	1.15	
+PQ007124.1__SAE	5366	No	NA	8	1	0	Low-quality	Genome-fragment	16.07	HMM-based (lower-bound)	0.0	1.0	
+PQ007287.1__natural	5291	No	NA	7	6	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+PQ007287.1__EXP1	5291	No	NA	2	1	0	Low-quality	Genome-fragment	15.84	HMM-based (lower-bound)	0.0	1.0	
+PQ007287.1__NATIVE	5291	No	NA	6	1	0	Low-quality	Genome-fragment	15.84	HMM-based (lower-bound)	0.0	1.01	
+PQ007287.1__T07	5291	No	NA	1	1	0	Low-quality	Genome-fragment	3.41	HMM-based (lower-bound)	0.0	9.6	high kmer_freq may indicate large duplication
+PQ007287.1__SAE	5291	No	NA	4	1	0	Low-quality	Genome-fragment	15.84	HMM-based (lower-bound)	0.0	1.0	
+PQ007416.1__natural	5208	No	NA	7	6	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+PQ007416.1__EXP1	5208	No	NA	7	1	0	Medium-quality	Genome-fragment	58.75	HMM-based (lower-bound)	0.0	1.0	
+PQ007416.1__NATIVE	5208	No	NA	6	1	0	Low-quality	Genome-fragment	15.59	HMM-based (lower-bound)	0.0	1.0	
+PQ007416.1__T07	5208	No	NA	16	1	0	Medium-quality	Genome-fragment	58.75	HMM-based (lower-bound)	0.0	3.66	high kmer_freq may indicate large duplication
+PQ007416.1__SAE	5208	No	NA	7	1	0	Low-quality	Genome-fragment	15.59	HMM-based (lower-bound)	0.0	1.0	
+PQ491838.1__natural	4723	No	NA	6	5	0	Medium-quality	Genome-fragment	79.07	HMM-based (lower-bound)	0.0	1.0	
+PQ491838.1__EXP1	4723	No	NA	9	1	0	Low-quality	Genome-fragment	14.14	HMM-based (lower-bound)	0.0	1.0	
+PQ491838.1__NATIVE	4723	No	NA	9	1	0	Medium-quality	Genome-fragment	53.28	HMM-based (lower-bound)	0.0	1.0	
+PQ491838.1__T07	4723	No	NA	7	2	0	Medium-quality	Genome-fragment	56.92	HMM-based (lower-bound)	0.0	1.17	
+PQ491838.1__SAE	4723	No	NA	6	1	0	Low-quality	Genome-fragment	14.14	HMM-based (lower-bound)	0.0	1.01	

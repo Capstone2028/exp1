@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+MT135277.1__natural_2 -          K15941               -            0.00086   15.1   0.0   0.00098   14.9   0.0   1.1   1   0   0   1   1   1   1 # 1334 # 1558 # 1 # partial=00
+MH617265.1__SAE_11   -          K16052               -             0.0079   10.8   0.5    0.0077   10.8   0.5   1.0   1   0   0   1   1   1   1 # 4490 # 4762 # -1 # partial=00
+PQ491838.1__T07_6    -          K16368               -                2.4    3.0   8.9       2.9    2.8   8.9   1.2   1   0   0   1   1   1   0 # 3147 # 3878 # 1 # partial=00
+PQ006516.1__T07_5    -          K16692               -              0.025    8.2   4.2     0.027    8.0   4.2   1.0   1   0   0   1   1   1   0 # 3737 # 3994 # -1 # partial=00
+MT135277.1__SAE_3    -          K16868               -              0.007   11.6   0.0     0.014   10.7   0.0   1.5   1   1   0   1   1   1   1 # 1232 # 1795 # 1 # partial=00
+PQ491838.1__T07_6    -          K17767               -             0.0061   10.9  24.5    0.0066   10.8  24.5   1.0   1   0   0   1   1   1   1 # 3147 # 3878 # 1 # partial=00
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/c/Users/Meghna/Documents/College/capstone/exp1/db/checkv/checkv-db-v1.5/hmm_db/checkv_hmms/35.hmm
+# Target file:     checkv_out/tmp/proteins.faa
+# Option settings: hmmsearch -o /dev/null --tblout checkv_out/tmp/hmmsearch/35.hmmout --noali -E 10 --cpu 0 /mnt/c/Users/Meghna/Documents/College/capstone/exp1/db/checkv/checkv-db-v1.5/hmm_db/checkv_hmms/35.hmm checkv_out/tmp/proteins.faa 
+# Current dir:     /mnt/c/Users/Meghna/Documents/College/capstone/exp1/saearm
+# Date:            Sat Nov 14 05:06:58 2026
+# [ok]

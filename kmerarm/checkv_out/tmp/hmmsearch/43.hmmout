@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+MK496799.1__natural_6 -          VOG01190             -             0.0024   12.8   0.0    0.0047   11.8   0.0   1.4   1   0   0   1   1   1   1 # 2294 # 3979 # 1 # partial=00
+MK496793.1__natural_2 -          VOG01200             -             0.0024   13.8   0.1     0.023   10.7   0.1   2.0   1   1   1   2   2   2   1 # 1572 # 1886 # 1 # partial=00
+PQ007416.1__BASE_2   -          VOG01232             -              0.013   10.7   4.7     0.047    8.9   4.7   1.9   1   1   0   1   1   1   0 # 981 # 1190 # 1 # partial=00
+MT310159.1__KMER_5    -          VOG01245             -                1.4    3.4  12.7       1.4    3.5  12.7   1.0   1   0   0   1   1   1   0 # 3231 # 3365 # 1 # partial=00
+MT310155.1__natural_8 -          VOG01245             -                7.1    1.1  14.4       7.1    1.1  14.4   1.0   1   0   0   1   1   1   0 # 4797 # 4907 # 1 # partial=00
+MH617473.2__natural_4 -          VOG01352             -            6.4e-07   24.1   3.5   6.4e-07   24.1   3.5   1.8   1   1   1   2   2   2   1 # 2794 # 3699 # 1 # partial=00
+PQ007124.1__KMER_5    -          VOG01352             -             0.0047   11.4  21.6    0.0017   12.8   6.2   2.1   2   0   0   2   2   2   2 # 3543 # 4241 # 1 # partial=00
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/c/Users/Meghna/Documents/College/capstone/exp1/db/checkv/checkv-db-v1.5/hmm_db/checkv_hmms/43.hmm
+# Target file:     kmerarm/checkv_out/tmp/proteins.faa
+# Option settings: hmmsearch -o /dev/null --tblout kmerarm/checkv_out/tmp/hmmsearch/43.hmmout --noali -E 10 --cpu 0 /mnt/c/Users/Meghna/Documents/College/capstone/exp1/db/checkv/checkv-db-v1.5/hmm_db/checkv_hmms/43.hmm kmerarm/checkv_out/tmp/proteins.faa 
+# Current dir:     /mnt/c/Users/Meghna/Documents/College/capstone/exp1
+# Date:            Fri Nov 13 18:24:41 2026
+# [ok]
